@@ -12,16 +12,39 @@ Istanbul's rental market is highly dynamic and influenced by diverse factors. Wh
 ---
 
 ## **Dataset**
-The analysis is based on a refined dataset of rental listings in Istanbul.
 
-- **Source:** Web-scraped real estate listings.  
-- **Volume:** ~10,000 processed rows.  
-- **Features:** Price (TL), Area ($m^2$), Room Count, District, Neighborhood, and the engineered **Walkability Score**.  
-- **Refinement:** Focused on realistic residential listings:  
-  - **Price Range:** 5,000 TL – 200,000 TL  
-  - **Area Range:** 30 $m^2$ – 500 $m^2$
+The analysis is built upon a high-quality, refined dataset of rental listings across Istanbul's diverse districts.
 
+**Primary Data Source:** The raw data consists of approximately **15,000 real estate listings** web-scraped from **Sahibinden.com**, Turkey’s premier classifieds platform. This ensures the study reflects real-time market dynamics.
+
+#### **Data Composition**
+| Feature | Description |
+| :--- | :--- |
+| **Price (TL)** | Monthly rental fee (Target Variable). |
+| **Area (m²)** | Gross square meters of the property. |
+| **Room Count** | Number of rooms and living areas (e.g., 2+1, 3+1). |
+| **Location** | District and Neighborhood level granularity. |
+| **Walkability Score** | Custom engineered feature (0-100). |
+
+#### **Data Cleaning & Refinement**
+To ensure the model's reliability, we focused on **realistic residential listings** by removing extreme outliers:  
+* **Price Range:** 5,000 TL – 200,000 TL  
+* **Area Range:** 30 m² – 500 m²  
+
+#### **Geospatial Integration**
+We enriched the raw housing data by calculating proximity to key urban interest points:
+* **Transport:** Proximity to Metro, Metrobüs, and Marmaray stations.
+* **Education:** Distance to major University Campuses.
+* **Social Life:** Density of social amenities (cafes, libraries, parks).
 ---
+
+## **The Project Trilogy: Connecting the Dots**
+
+| Phase                     | Focus | Key Deliverable |
+|:--------------------------| :--- | :--- |
+| **Phase 1: EDA**          | **Data Cleaning & Engineering** | Handling outliers, visualizing the "Walkability Score," and mapping price trends across Istanbul. |
+| **Phase 2: ML**           | **Predictive Modeling** | Training Regression models (Random Forest/XGBoost) to predict rent prices based on structural and locational features. |
+| **Phase 3: Deployment** | **Interactive Dashboard** | Developing a web app where users can input their budget and "walkability needs" to find the best neighborhood matches. |
 
 ## **Key Questions**
 
@@ -60,22 +83,6 @@ Utilizing Pearson Correlation and Binned Trend Analysis to identify relationship
 - **The Accessibility Premium:** Walkability shows a moderate positive correlation ($r \approx 0.27$), with significant price spikes in highly walkable districts like **Beşiktaş** and **Kadıköy**.  
 - **Market Segments:** Our "Sweet Spot" analysis identified **Üsküdar** and **Fatih** as high-value districts for students, offering superior walkability at lower-than-average costs.  
 - **Data Integrity:** Successfully eliminated "Unknown" neighborhood noise and filled gaps in central district data (**Beyoğlu**, **Sarıyer**, **Ataşehir**).
-
----
-
-## **Conclusion**
-
-This project is structured into three phases:
-
-### **P1: Exploratory Data Analysis (EDA) [CURRENT]**
-- Focused on data cleaning, feature engineering, and market visualization.
-
-### **P2: Machine Learning Model [UPCOMING]**
-- Implementing Regression models (Linear, Random Forest, XGBoost) to predict prices based on the Walkability Index.
-
-### **P3: Optimization & Deployment [FUTURE]**
-- Model fine-tuning and developing a simple dashboard to help students find optimal housing based on their campus location.
-
 
 ---
 
