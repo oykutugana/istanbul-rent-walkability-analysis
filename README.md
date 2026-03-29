@@ -85,5 +85,6 @@ istanbul-rent-analysis/
 ├── data/               # Raw and processed CSV files
 ├── notebooks/          # P1: EDA & P2: Machine Learning
 ├── plots/              # Visualizations, Heatmaps, and Trends
-├── README.md           # Project documentation
-└── .gitignore          # Files to be ignored by Git
+├── scripts/            # Data Scraping
+├── .gitignore              
+└── README.md
