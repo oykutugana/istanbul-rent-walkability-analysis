@@ -6,7 +6,7 @@ from selenium.common.exceptions import NoSuchWindowException
 import os
 import random
 
-# 1. ISTANBUL ILCELERI
+# Istanbul ilceleri
 DISTRICTS = [
     "adalar", "arnavutkoy", "atasehir", "avcilar", "bagcilar", "bahcelievler",
     "bakirkoy", "basaksehir", "bayrampasa", "besiktas", "beykoz", "beylikduzu",
