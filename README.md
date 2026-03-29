@@ -1,4 +1,4 @@
-**Istanbul Rental Market & Walkability Analysis** 
+# **Istanbul Rental Market & Walkability Analysis** 
 
 **[Click here to view the Analysis Notebook (P1 EDA)](./notebooks/P1_EDA.ipynb)**
 
