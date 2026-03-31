@@ -2,7 +2,7 @@
 
 **[Click here to view the Analysis Notebook (P1 EDA)](./notebooks/P1_EDA.ipynb)**
 
-This project analyzes rental prices in Istanbul by combining traditional housing features with a custom-engineered Walkability Score, capturing urban accessibility. The goal is to understand how location quality influences price and to support better housing decisions for students.
+This project analyzes rental prices in Istanbul by combining traditional housing features with a custom-engineered Walkability Score and a Student Suitability Index. The goal is to identify the 'sweet spots' in the market—areas that optimize the trade-off between urban accessibility and rental affordability for students.
 
 ---
 
@@ -25,6 +25,7 @@ The analysis is built upon a high-quality, refined dataset of rental listings ac
 | **Room Count** | Number of rooms and living areas (e.g., 2+1, 3+1). |
 | **Location** | District and Neighborhood level granularity. |
 | **Walkability Score** | Custom engineered feature (0-100). |
+| Student Score | A weighted index (50% Walkability, 50% Affordability) for optimal housing selection. |
 
 #### **Data Cleaning & Refinement**
 To ensure the model's reliability, we focused on **realistic residential listings** by removing extreme outliers:  
@@ -40,11 +41,11 @@ We enriched the raw housing data by calculating proximity to key urban interest 
 
 ## **The Project Trilogy: Connecting the Dots**
 
-| Phase                     | Focus | Key Deliverable |
-|:--------------------------| :--- | :--- |
-| **Phase 1: EDA**          | **Data Cleaning & Engineering** | Handling outliers, visualizing the "Walkability Score," and mapping price trends across Istanbul. |
-| **Phase 2: ML**           | **Predictive Modeling** | Training Regression models (Random Forest/XGBoost) to predict rent prices based on structural and locational features. |
-| **Phase 3: Deployment** | **Interactive Dashboard** | Developing a web app where users can input their budget and "walkability needs" to find the best neighborhood matches. |
+| Phase                     | Focus | Key Deliverable                                                                                          |
+|:--------------------------| :--- |:---------------------------------------------------------------------------------------------------------|
+| **Phase 1: Problem & EDA**          | **Data Cleaning & Engineering** | Problem formulation, handling outliers, and visualizing the Walkability Score trends.                    |
+| **Phase 2: Regression**           | **Linear & Polynomial Models** | Implementing Linear and Polynomial Regression, feature engineering, and rigorous performance evaluation. |
+| **Phase 3: Beyond Regression** | **Model Selection & Reporting** | Comparing advanced models (Random Forest/XGBoost), Model Selection, and final comprehensive report.      |
 
 ## **Key Questions**
 
@@ -52,6 +53,7 @@ We enriched the raw housing data by calculating proximity to key urban interest 
 - To what extent does urban accessibility influence the "price premium" in central districts?
 - Which features are the strongest predictors of rental price for a machine learning model?
 - Where are the **"Student Sweet Spots"**—districts with high walkability but affordable rents?
+- How can we mathematically balance urban accessibility with budget constraints to find the most "student-friendly" neighborhoods?
 
 ---
 
@@ -69,10 +71,19 @@ $$
 Score = (Transport \times 0.5) + (University \times 0.3) + (Social\_Infrastructure \times 0.2)
 $$
 
-### **3. Normalization**
+### **3. Feature Engineering (Student Suitability Index)**
+To support student housing decisions, we developed a composite index that balances accessibility with affordability:
+
+$$
+SSI=(Walkability_Score×0.5)+(Affordability_Score×0.5)
+$$
+
+Where Affordability Score is the inverse normalization of rental prices.
+
+### **4. Normalization**
 All custom scores are scaled from **0 to 100** to ensure model consistency.
 
-### **4. Correlation Analysis**
+### **5. Correlation Analysis**
 Utilizing Pearson Correlation and Binned Trend Analysis to identify relationships between accessibility and market value.
 
 ---
@@ -83,6 +94,7 @@ Utilizing Pearson Correlation and Binned Trend Analysis to identify relationship
 - **The Accessibility Premium:** Walkability shows a moderate positive correlation ($r \approx 0.27$), with significant price spikes in highly walkable districts like **Beşiktaş** and **Kadıköy**.  
 - **Market Segments:** Our "Sweet Spot" analysis identified **Üsküdar** and **Fatih** as high-value districts for students, offering superior walkability at lower-than-average costs.  
 - **Data Integrity:** Successfully eliminated "Unknown" neighborhood noise and filled gaps in central district data (**Beyoğlu**, **Sarıyer**, **Ataşehir**).
+- **Top Districts:** Beyond central prestige, districts like Esenyurt (for affordability) and Bayrampaşa/Zeytinburnu (for balance) emerged as the top recommendations in our suitability ranking.
 
 ---
 
@@ -90,7 +102,7 @@ Utilizing Pearson Correlation and Binned Trend Analysis to identify relationship
 ```text
 istanbul-rent-analysis/
 ├── data/               # Raw and processed CSV files
-├── notebooks/          # P1: EDA & P2: Machine Learning
+├── notebooks/          # P1,P2,P3
 ├── plots/              # Visualizations, Heatmaps, and Trends
 ├── scripts/            # Data Scraping
 ├── .gitignore              
