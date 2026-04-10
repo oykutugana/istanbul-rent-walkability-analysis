@@ -1,6 +1,7 @@
 # **Istanbul Rental Market & Walkability Analysis** 
 
 **[github.com/oykutugana/istanbul-rent-walkability-analysis](https://github.com/oykutugana/istanbul-rent-walkability-analysis)**
+
 **[Click here to view the Analysis Notebook (P1 EDA)](./notebooks/P1_EDA.ipynb)**
 
 This project analyzes rental prices in Istanbul by combining traditional housing features with a custom-engineered Walkability Score and a Student Suitability Index. The goal is to identify the 'sweet spots' in the market—areas that optimize the trade-off between urban accessibility and rental affordability for students.
