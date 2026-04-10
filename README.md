@@ -1,8 +1,8 @@
 # **Istanbul Rental Market & Walkability Analysis** 
 
-**[github.com/oykutugana/istanbul-rent-walkability-analysis](https://github.com/oykutugana/istanbul-rent-walkability-analysis)**
+> **Project Link:** **[github.com/oykutugana/istanbul-rent-walkability-analysis](https://github.com/oykutugana/istanbul-rent-walkability-analysis)**
 
-**[Click here to view the Analysis Notebook (P1 EDA)](./notebooks/P1_EDA.ipynb)**
+> **Project2 Link:** **[github.com/oykutugana/Cross-Market-Car-Price-Analysis](https://github.com/oykutugana/Cross-Market-Car-Price-Analysis)**
 
 This project analyzes rental prices in Istanbul by combining traditional housing features with a custom-engineered Walkability Score and a Student Suitability Index. The goal is to identify the 'sweet spots' in the market—areas that optimize the trade-off between urban accessibility and rental affordability for students.
 
@@ -104,7 +104,7 @@ Utilizing Pearson Correlation and Binned Trend Analysis to identify relationship
 ```text
 istanbul-rent-analysis/
 ├── data/               # Raw and processed CSV files
-├── notebooks/          # P1,P2,P3
+├── p1/                 # .ipynb notebook
 ├── plots/              # Visualizations, Heatmaps, and Trends
 ├── scripts/            # Data Scraping
 ├── .gitignore              
