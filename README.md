@@ -2,8 +2,6 @@
 
 > **Project Link:** **[github.com/oykutugana/istanbul-rent-walkability-analysis](https://github.com/oykutugana/istanbul-rent-walkability-analysis)**
 
-> **Project2 Link:** **[github.com/oykutugana/Cross-Market-Car-Price-Analysis](https://github.com/oykutugana/Cross-Market-Car-Price-Analysis)**
-
 This project analyzes rental prices in Istanbul by combining traditional housing features with a custom-engineered Walkability Score and a Student Suitability Index. The goal is to identify the 'sweet spots' in the market—areas that optimize the trade-off between urban accessibility and rental affordability for students.
 
 ---
