@@ -193,3 +193,22 @@ istanbul-rent-walkability-analysis/
 The geo-enriched dataset (`istanbul_emlak_with_geo.csv`) is not tracked in the repository. 
 To reproduce it, run the scripts in order: `04_geocode_full.py` → `05_build_metro_csv.py` → 
 `07_compute_all_features.py` → `08_merge_and_validate.py`. Total runtime: ~100 minutes.
+
+## **References & Acknowledgements**
+
+* **Geospatial Data:** Urban amenities and street network features were extracted via OpenStreetMap using the [OSMnx](https://github.com/gboeing/osmnx) library:
+  > Boeing, G. (2025). Modeling and Analyzing Urban Networks and Amenities with OSMnx. *Geographical Analysis*, 57(4), 567-577.
+
+* **Transit Data:** Istanbul rail station coordinates (220 stations across metro, Marmaray, tram, funicular, and commuter lines) were sourced from [OpenStreetMap](https://www.openstreetmap.org) contributors via the OSMnx `features_from_polygon` API with `railway` tags.
+
+* **Geocoding:** Neighborhood centroid coordinates were resolved using [Nominatim](https://nominatim.org), OpenStreetMap's open geocoding service, via the [GeoPy](https://geopy.readthedocs.io) library with a three-strategy validation pipeline (tight → medium → district-center fallback).
+
+* **Distance Computation:** Haversine great-circle distances between neighbourhood centroids and rail stations were computed using the [math](https://docs.python.org/3/library/math.html) standard library.
+
+* **Data Source:** Rental listings were scraped from [Sahibinden.com](https://www.sahibinden.com), Turkey's largest real estate classifieds platform, using [Selenium](https://www.selenium.dev) with [undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver).
+
+* **Machine Learning:** Regression models (Linear, Ridge, Lasso, Polynomial) were implemented using [scikit-learn](https://scikit-learn.org):
+  > Pedregosa et al. (2011). Scikit-learn: Machine Learning in Python. *JMLR*, 12, 2825-2830.
+
+* **Data Processing:** [pandas](https://pandas.pydata.org), [NumPy](https://numpy.org), [Matplotlib](https://matplotlib.org), [Seaborn](https://seaborn.pydata.org)
+```
