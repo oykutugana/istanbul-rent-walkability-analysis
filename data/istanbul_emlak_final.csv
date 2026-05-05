@@ -15,7 +15,7 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 12500.0,120.0,3+1,umraniye,cakmak,4.0,42.72,3125.0,71.32
 13500.0,70.0,1+1,esenyurt,merkez,2.0,14.63,6750.0,52.27
 14000.0,179.0,2+1,esenyurt,merkez,3.0,14.63,4666.666666666667,56.51
-14000.0,53.0,Stüdyo (1+0),buyukcekmece,celaliye(kamiloba),1.0,14.19,14000.0,27.34
+14000.0,53.0,Stüdyo (1+0),buyukcekmece,celaliye,1.0,14.19,14000.0,27.34
 13500.0,110.0,2+1,avcilar,yesilkent,3.0,39.71,4500.0,69.2
 14000.0,70.0,1+1,basaksehir,ikitelli,2.0,36.84,7000.0,62.69
 12500.0,120.0,Stüdyo (1+0),fatih,kocamustafapasa,1.0,93.75,12500.0,71.14
@@ -951,7 +951,7 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 67000.0,123.0,2.5+1,umraniye,esensehir,3.5,42.72,19142.85714285714,32.04
 65000.0,150.0,3+1,uskudar,altunizade,4.0,53.97,16250.0,42.39
 58000.0,105.0,2+1,eyupsultan,merkez,3.0,41.03,19333.333333333332,31.05
-75000.0,120.0,3+1,kartal,rahmanlar (atalar),4.0,35.59,18750.0,29.12
+75000.0,120.0,3+1,kartal,rahmanlar,4.0,35.59,18750.0,29.12
 75000.0,145.0,3+1,uskudar,bahcelievler,4.0,53.97,18750.0,38.31
 73000.0,112.0,2+1,zeytinburnu,merkezefendi,3.0,53.6,24333.333333333332,32.58
 61000.0,70.0,2+1,kadikoy,19 mayis,3.0,75.68,20333.333333333332,46.76
@@ -1222,7 +1222,7 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 69000.0,120.0,3+1,besiktas,turkali,4.0,76.1,17250.0,51.81
 73500.0,150.0,3+1,sariyer,merkez,4.0,58.09,18375.0,40.82
 56000.0,72.0,1+1,atasehir,barbaros,2.0,45.59,28000.0,26.45
-57000.0,112.0,1+1,cekmekoy,alemdag(alemdar),2.0,18.82,28500.0,12.78
+57000.0,112.0,1+1,cekmekoy,alemdag,2.0,18.82,28500.0,12.78
 75000.0,148.0,3+1,kadikoy,fikirtepe,4.0,75.68,18750.0,49.16
 62000.0,128.0,2+1,kadikoy,osmanaga,3.0,75.68,20666.666666666668,46.55
 62000.0,80.0,2+1,maltepe,kucukyali,3.0,38.9,20666.666666666668,28.16
@@ -2764,7 +2764,7 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 50000.0,115.0,2+1,beyoglu,harmandere,3.0,70.74,16666.666666666668,49.96
 53000.0,135.0,3+1,beyoglu,yenisehir,4.0,70.74,13250.0,57.88
 55000.0,70.0,1+1,pendik,dumlupinar,2.0,52.35,27500.0,30.06
-52000.0,147.0,3.5+1,beyoglu,camlik,4.5,70.74,11555.555555555555,62.66
+52000.0,147.0,3.5+1,beyoglu,camlik,4.5,70.74,11555.555555555557,62.66
 48000.0,105.0,2+1,besiktas,dogu,3.0,76.1,16000.0,54.0
 50000.0,110.0,3+1,besiktas,dogu,4.0,76.1,12500.0,62.32
 50000.0,95.0,2+1,pendik,camcesme,3.0,52.35,16666.666666666668,40.76
@@ -2779,7 +2779,7 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 49500.0,88.0,2+1,beyoglu,kurtkoy,3.0,70.74,16500.0,50.33
 52000.0,85.0,2+1,besiktas,kaynarca,3.0,76.1,17333.333333333332,51.73
 52000.0,130.0,3+1,beyoglu,camlik,4.0,70.74,13000.0,58.34
-46000.0,115.0,3.5+1,pendik,yayalar,4.5,52.35,10222.222222222223,57.06
+46000.0,115.0,3.5+1,pendik,yayalar,4.5,52.35,10222.222222222224,57.06
 50000.0,132.0,2+1,pendik,fevzi cakmak,3.0,52.35,16666.666666666668,40.76
 54000.0,123.0,3+1,beyoglu,kurtkoy,4.0,70.74,13500.0,56.81
 52000.0,95.0,2+1,beyoglu,yenisehir,3.0,70.74,17333.333333333332,49.05
@@ -2909,7 +2909,7 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 70000.0,110.0,3+1,besiktas,bati,4.0,76.1,17500.0,51.27
 72000.0,169.0,3+1,beyoglu,yenisehir,4.0,70.74,18000.0,47.84
 62000.0,125.0,3+1,beyoglu,yenisehir,4.0,70.74,15500.0,52.09
-66500.0,153.0,3.5+1,beyoglu,harmandere,4.5,70.74,14777.777777777777,54.23
+66500.0,153.0,3.5+1,beyoglu,harmandere,4.5,70.74,14777.777777777776,54.23
 75000.0,110.0,1+1,bahcelievler,sapan baglari,2.0,34.34,37500.0,18.1
 65000.0,125.0,3+1,beyoglu,yenisehir,4.0,70.74,16250.0,50.77
 57000.0,150.0,3+1,beyoglu,yenisehir,4.0,70.74,14250.0,55.03
@@ -2920,7 +2920,7 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 57000.0,130.0,3.5+1,pendik,fevzi cakmak,4.5,52.35,12666.666666666666,49.77
 66000.0,135.0,3+1,bahcelievler,bahcelievler,4.0,34.34,16500.0,32.13
 55500.0,127.0,3+1,pendik,fevzi cakmak,4.0,52.35,13875.0,46.78
-70000.0,200.0,3.5+1,beyoglu,harmandere,4.5,70.74,15555.555555555555,51.97
+70000.0,200.0,3.5+1,beyoglu,harmandere,4.5,70.74,15555.555555555557,51.97
 75000.0,155.0,3.5+1,pendik,cinardere,4.5,52.35,16666.666666666668,40.76
 60000.0,80.0,2+1,beyoglu,yenisehir,3.0,70.74,20000.0,44.94
 57000.0,155.0,3+1,pendik,cinardere,4.0,52.35,14250.0,45.83
@@ -2948,7 +2948,7 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 71500.0,148.0,3+1,besiktas,bati,4.0,76.1,17875.0,50.67
 68000.0,153.0,3+1,pendik,fevzi cakmak,4.0,52.35,17000.0,40.2
 66000.0,95.0,3+1,beyoglu,yenisehir,4.0,70.74,16500.0,50.33
-70000.0,170.0,3.5+1,pendik,cinardere,4.5,52.35,15555.555555555555,42.77
+70000.0,170.0,3.5+1,pendik,cinardere,4.5,52.35,15555.555555555557,42.77
 75000.0,170.0,3+1,beyoglu,yenisehir,4.0,70.74,18750.0,46.69
 72000.0,110.0,3+1,beyoglu,yenisehir,4.0,70.74,18000.0,47.84
 70000.0,170.0,3+2,pendik,guzelyali,5.0,52.35,14000.0,46.42
@@ -4051,7 +4051,7 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 56000.0,115.0,2+1,sancaktepe,emek,3.0,15.07,18666.666666666668,19.1
 68000.0,220.0,3+1,sancaktepe,abdurrahmangazi,4.0,15.07,17000.0,21.56
 75000.0,165.0,3+1,sancaktepe,veysel karani,4.0,15.07,18750.0,18.86
-65000.0,150.0,3.5+1,sancaktepe,meclis,4.5,15.07,14444.444444444445,26.92
+65000.0,150.0,3.5+1,sancaktepe,meclis,4.5,15.07,14444.444444444443,26.92
 66000.0,139.0,3+1,sancaktepe,emek,4.0,15.07,16500.0,22.49
 66000.0,135.0,2+1,sancaktepe,emek,3.0,15.07,22000.0,15.01
 60000.0,125.0,2+1,sancaktepe,meclis,3.0,15.07,20000.0,17.1
@@ -5093,7 +5093,7 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 130000.0,165.0,3+1,uskudar,beylerbeyi,4.0,53.97,32500.0,28.82
 95000.0,90.0,2+1,sariyer,yenikoy,3.0,58.09,31666.666666666668,31.19
 115000.0,130.0,3+1,kadikoy,caddebostan,4.0,75.68,28750.0,41.13
-90000.0,157.0,2+1,cekmekoy,alemdag(alemdar),3.0,18.82,30000.0,12.17
+90000.0,157.0,2+1,cekmekoy,alemdag,3.0,18.82,30000.0,12.17
 80000.0,165.0,3+1,bahcelievler,merkez,4.0,34.34,20000.0,26.74
 135000.0,100.0,2+1,besiktas,bebek,3.0,76.1,45000.0,38.35
 140000.0,155.0,3+1,besiktas,etiler,4.0,76.1,35000.0,39.34
@@ -5157,7 +5157,7 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 105000.0,135.0,3+1,eyupsultan,gokturk,4.0,41.03,26250.0,25.1
 77000.0,80.0,2+1,kadikoy,bostanci,3.0,75.68,25666.666666666668,42.67
 79000.0,110.0,3+1,maltepe,kucukyali,4.0,38.9,19750.0,29.71
-85000.0,160.0,4+1,kartal,rahmanlar (atalar),5.0,35.59,17000.0,31.82
+85000.0,160.0,4+1,kartal,rahmanlar,5.0,35.59,17000.0,31.82
 77500.0,85.0,1+1,kagithane,seyrantepe,2.0,33.9,38750.0,17.79
 90000.0,135.0,3+1,umraniye,cakmak,4.0,42.72,22500.0,28.41
 135000.0,200.0,4+2,kadikoy,suadiye,6.0,75.68,22500.0,44.89
@@ -5183,7 +5183,7 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 95000.0,65.0,2+1,kadikoy,caferaga,3.0,75.68,31666.666666666668,39.98
 78000.0,140.0,3+1,kadikoy,fikirtepe,4.0,75.68,19500.0,48.24
 110000.0,138.0,2+1,sariyer,merkez,3.0,58.09,36666.666666666664,30.09
-100000.0,205.0,3+1,kartal,rahmanlar (atalar),4.0,35.59,25000.0,23.06
+100000.0,205.0,3+1,kartal,rahmanlar,4.0,35.59,25000.0,23.06
 89000.0,170.0,3+1,maltepe,aydinevler,4.0,38.9,22250.0,26.83
 90000.0,130.0,3+1,kadikoy,erenkoy,4.0,75.68,22500.0,44.89
 100000.0,115.0,3+1,kadikoy,caddebostan,4.0,75.68,25000.0,43.11
@@ -5220,7 +5220,7 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 117900.0,120.0,2+1,sariyer,merkez,3.0,58.09,39300.0,29.85
 90000.0,90.0,2+1,kadikoy,suadiye,3.0,75.68,30000.0,40.6
 130000.0,135.0,2.5+1,kadikoy,caddebostan,3.5,75.68,37142.857142857145,38.83
-78000.0,140.0,3+1,kartal,rahmanlar (atalar),4.0,35.59,19500.0,28.2
+78000.0,140.0,3+1,kartal,rahmanlar,4.0,35.59,19500.0,28.2
 80000.0,110.0,3+1,bahcelievler,cobancesme,4.0,34.34,20000.0,26.74
 125000.0,138.0,3+1,sariyer,tarabya,4.0,58.09,31250.0,31.38
 80000.0,135.0,3+1,bakirkoy,atakoy,4.0,49.78,20000.0,34.46
@@ -5970,7 +5970,7 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 33000.0,130.0,3+1,buyukcekmece,battalgazi,4.0,14.19,8250.0,47.28
 41000.0,110.0,3+1,buyukcekmece,mimar sinan,4.0,14.19,10250.0,37.91
 45000.0,165.0,4+1,umraniye,necip fazil,5.0,42.72,9000.0,57.56
-43000.0,112.0,3.5+1,kucukcekmece,abdurrahmangazi,4.5,43.53,9555.555555555555,55.62
+43000.0,112.0,3.5+1,kucukcekmece,abdurrahmangazi,4.5,43.53,9555.555555555557,55.62
 42000.0,120.0,3+1,buyukcekmece,adil,4.0,14.19,10500.0,37.32
 45000.0,126.0,2+1,kucukcekmece,hasanpasa,3.0,43.53,15000.0,39.71
 41500.0,110.0,3+1,umraniye,necip fazil,4.0,42.72,10375.0,51.81
@@ -6039,7 +6039,7 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 140000.0,130.0,2+1,beyoglu,cihangir,3.0,70.74,46666.666666666664,35.6
 80000.0,110.0,2+1,uskudar,acibadem,3.0,53.97,26666.666666666668,31.3
 80000.0,105.0,2+1,uskudar,merkez,3.0,53.97,26666.666666666668,31.3
-85000.0,185.0,4+1,kartal,rahmanlar (atalar),5.0,35.59,17000.0,31.82
+85000.0,185.0,4+1,kartal,rahmanlar,5.0,35.59,17000.0,31.82
 100000.0,95.0,3+1,uskudar,altunizade,4.0,53.97,25000.0,32.25
 78500.0,75.0,1+1,eyupsultan,gokturk,2.0,41.03,39250.0,21.33
 105000.0,120.0,3+1,kadikoy,goztepe,4.0,75.68,26250.0,42.43
@@ -6127,7 +6127,7 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 95000.0,145.0,3+1,besiktas,gayrettepe,4.0,76.1,23750.0,44.18
 83000.0,136.0,3+1,gaziosmanpasa,fevzicakmak,4.0,20.51,20750.0,18.91
 85000.0,136.0,3+1,sancaktepe,sarigazi,4.0,15.07,21250.0,15.73
-85000.0,170.0,3+1,kartal,rahmanlar (atalar),4.0,35.59,21250.0,25.99
+85000.0,170.0,3+1,kartal,rahmanlar,4.0,35.59,21250.0,25.99
 110000.0,200.0,3+1,sariyer,merkez,4.0,58.09,27500.0,32.93
 79000.0,113.0,2+1,uskudar,merkez,3.0,53.97,26333.333333333332,31.5
 120000.0,140.0,3+2,beyoglu,cihangir,5.0,70.74,24000.0,41.31
@@ -7724,7 +7724,7 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 52000.0,120.0,3+1,sisli,pasa,4.0,75.74,13000.0,60.84
 47500.0,85.0,2+1,sisli,mecidiyekoy,3.0,75.74,15833.333333333334,54.15
 50000.0,150.0,3+1,sisli,mecidiyekoy,4.0,75.74,12500.0,62.14
-55000.0,165.0,3.5+1,kadikoy,19 mayis,4.5,75.68,12222.222222222223,62.99
+55000.0,165.0,3.5+1,kadikoy,19 mayis,4.5,75.68,12222.222222222224,62.99
 50000.0,100.0,3+1,sisli,mesrutiyet,4.0,75.74,12500.0,62.14
 52000.0,75.0,1+1,sisli,merkez,2.0,75.74,26000.0,42.6
 50000.0,95.0,2+1,sisli,cumhuriyet,3.0,75.74,16666.666666666668,52.46
@@ -8666,7 +8666,7 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 40500.0,115.0,3+1,tuzla,aydintepe,4.0,38.9,10125.0,50.47
 40000.0,100.0,2+1,tuzla,evliya celebi,3.0,38.9,13333.333333333334,41.45
 40000.0,145.0,3+1,tuzla,yayla,4.0,38.9,10000.0,51.54
-43000.0,154.0,3.5+1,tuzla,aydinli,4.5,38.9,9555.555555555555,53.3
+43000.0,154.0,3.5+1,tuzla,aydinli,4.5,38.9,9555.555555555557,53.3
 39000.0,75.0,1+1,tuzla,aydintepe,2.0,38.9,19500.0,29.85
 41500.0,110.0,2+1,tuzla,aydintepe,3.0,38.9,13833.333333333334,40.08
 45000.0,90.0,2+1,tuzla,yayla,3.0,38.9,15000.0,37.39
@@ -8733,10 +8733,10 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 48000.0,170.0,4+1,tuzla,aydinli,5.0,38.9,9600.0,53.27
 46000.0,140.0,4+1,tuzla,yayla,5.0,38.9,9200.0,54.81
 48000.0,135.0,3+1,tuzla,aydinli,4.0,38.9,12000.0,45.0
-47500.0,155.0,3.5+1,tuzla,aydinli,4.5,38.9,10555.555555555555,49.49
+47500.0,155.0,3.5+1,tuzla,aydinli,4.5,38.9,10555.555555555557,49.49
 50000.0,166.0,3+1,tuzla,aydinli,4.0,38.9,12500.0,43.72
 48000.0,135.0,3+1,tuzla,evliya celebi,4.0,38.9,12000.0,45.0
-47500.0,138.0,3.5+1,tuzla,aydinli,4.5,38.9,10555.555555555555,49.49
+47500.0,138.0,3.5+1,tuzla,aydinli,4.5,38.9,10555.555555555557,49.49
 47500.0,102.0,2+1,tuzla,yayla,3.0,38.9,15833.333333333334,35.73
 47500.0,123.0,2+1,tuzla,aydinli,3.0,38.9,15833.333333333334,35.73
 50000.0,144.0,2+1,tuzla,aydinli,3.0,38.9,16666.666666666668,34.04
@@ -8754,7 +8754,7 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 48000.0,120.0,2+1,tuzla,aydinli,3.0,38.9,16000.0,35.4
 47000.0,100.0,2+1,tuzla,yayla,3.0,38.9,15666.666666666666,35.94
 50000.0,107.0,3+1,tuzla,yayla,4.0,38.9,12500.0,43.72
-55000.0,144.0,3.5+1,tuzla,aydintepe,4.5,38.9,12222.222222222223,44.6
+55000.0,144.0,3.5+1,tuzla,aydintepe,4.5,38.9,12222.222222222224,44.6
 50000.0,85.0,2+1,tuzla,aydinli,3.0,38.9,16666.666666666668,34.04
 51000.0,125.0,3+1,tuzla,yayla,4.0,38.9,12750.0,42.85
 55000.0,150.0,3+1,tuzla,yayla,4.0,38.9,13750.0,40.33
@@ -8789,12 +8789,12 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 60000.0,135.0,3+1,tuzla,yayla,4.0,38.9,15000.0,37.39
 60000.0,120.0,2+1,tuzla,aydinli,3.0,38.9,20000.0,29.02
 68000.0,155.0,3+1,tuzla,aydinli,4.0,38.9,17000.0,33.47
-56500.0,150.0,3.5+1,tuzla,aydintepe,4.5,38.9,12555.555555555555,43.21
+56500.0,150.0,3.5+1,tuzla,aydintepe,4.5,38.9,12555.555555555557,43.21
 62000.0,160.0,4+1,tuzla,aydinli,5.0,38.9,12400.0,44.23
 65000.0,201.0,4+2,tuzla,aydinli,6.0,38.9,10833.333333333334,48.63
 65000.0,160.0,3+1,tuzla,aydintepe,4.0,38.9,16250.0,34.85
 58000.0,130.0,3+1,tuzla,aydinli,4.0,38.9,14500.0,38.7
-71000.0,155.0,3.5+1,tuzla,aydinli,4.5,38.9,15777.777777777777,35.78
+71000.0,155.0,3.5+1,tuzla,aydinli,4.5,38.9,15777.777777777776,35.78
 60000.0,136.0,3+1,tuzla,aydinli,4.0,38.9,15000.0,37.39
 64000.0,196.0,5+1,tuzla,yayla,6.0,38.9,10666.666666666666,49.13
 59000.0,180.0,4+1,tuzla,aydinli,5.0,38.9,11800.0,45.48
@@ -11303,7 +11303,7 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 15500.0,90.0,2+1,esenyurt,merkez,3.0,14.63,5166.666666666667,55.9
 15000.0,105.0,2+1,esenyurt,merkez,3.0,14.63,5000.0,56.16
 15500.0,120.0,2+1,esenyurt,kirac,3.0,14.63,5166.666666666667,55.9
-17500.0,100.0,3+0,kartal,rahmanlar (atalar),3.0,35.59,5833.333333333333,65.35
+17500.0,100.0,3+0,kartal,rahmanlar,3.0,35.59,5833.333333333333,65.35
 18000.0,70.0,1+1,esenyurt,merkez,2.0,14.63,9000.0,43.51
 18000.0,50.0,Stüdyo (1+0),esenyurt,haramidere,1.0,14.63,18000.0,19.79
 16000.0,70.0,1+1,arnavutkoy,merkez,2.0,10.88,8000.0,46.34
@@ -11314,7 +11314,7 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 18000.0,70.0,1+1,esenyurt,haramidere,2.0,14.63,9000.0,43.51
 17000.0,60.0,1+1,esenyurt,merkez,2.0,14.63,8500.0,45.75
 18000.0,80.0,2+1,pendik,bahcelievler,3.0,52.35,6000.0,73.35
-18000.0,110.0,3+1,bagcilar,barbaros/yesilbag,4.0,46.1,4500.0,72.4
+18000.0,110.0,3+1,bagcilar,barbaros,4.0,46.1,4500.0,72.4
 18000.0,56.0,1+1,gaziosmanpasa,kucukkoy,2.0,20.51,9000.0,46.45
 15000.0,100.0,Stüdyo (1+0),beykoz,anadoluhisari,1.0,19.63,15000.0,27.76
 17000.0,70.0,1+1,esenler,birlik,2.0,25.96,8500.0,51.41
@@ -11328,7 +11328,7 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 18000.0,120.0,2+1,esenyurt,merkez,3.0,14.63,6000.0,54.49
 18000.0,50.0,1+1,fatih,mevlanakapi,2.0,93.75,9000.0,83.07
 18000.0,80.0,1+1,tuzla,mimarsinan,2.0,38.9,9000.0,55.65
-17000.0,65.0,1+1,arnavutkoy,hadimkoy(boyalik),2.0,10.88,8500.0,43.87
+17000.0,65.0,1+1,arnavutkoy,hadimkoy,2.0,10.88,8500.0,43.87
 18000.0,85.0,1+1,kucukcekmece,sefakoy,2.0,43.53,9000.0,57.96
 16000.0,90.0,1+1,umraniye,asagidudullu,2.0,42.72,8000.0,62.26
 16000.0,65.0,1+1,arnavutkoy,merkez,2.0,10.88,8000.0,46.34
@@ -11403,10 +11403,10 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 17000.0,51.0,1+1,esenyurt,merkez,2.0,14.63,8500.0,45.75
 17000.0,74.0,1+1,esenyurt,merkez,2.0,14.63,8500.0,45.75
 18000.0,105.0,2+1,arnavutkoy,haracci,3.0,10.88,6000.0,52.62
-18000.0,84.0,2+1,arnavutkoy,hadimkoy(boyalik),3.0,10.88,6000.0,52.62
+18000.0,84.0,2+1,arnavutkoy,hadimkoy,3.0,10.88,6000.0,52.62
 16500.0,65.0,1+1,esenler,sanayi,2.0,25.96,8250.0,53.17
 17500.0,95.0,2+1,kagithane,gultepe,3.0,33.9,5833.333333333333,64.5
-16500.0,78.0,2+1,bagcilar,barbaros/yesilbag,3.0,46.1,5500.0,71.2
+16500.0,78.0,2+1,bagcilar,barbaros,3.0,46.1,5500.0,71.2
 15500.0,70.0,2+1,gaziosmanpasa,fevzicakmak,3.0,20.51,5166.666666666667,58.84
 18000.0,180.0,2+1,arnavutkoy,merkez,3.0,10.88,6000.0,52.62
 18000.0,64.0,1+1,esenyurt,merkez,2.0,14.63,9000.0,43.51
@@ -11436,14 +11436,14 @@ price,area_m2,room_count,district,neighborhood,total_rooms,walkability_score,pri
 18000.0,70.0,2+1,tuzla,icmeler,3.0,38.9,6000.0,66.63
 17000.0,100.0,2+1,sancaktepe,samandira,3.0,15.07,5666.666666666667,55.39
 16000.0,55.0,1+1,esenyurt,merkez,2.0,14.63,8000.0,48.21
-18000.0,110.0,2+1,buyukcekmece,celaliye(kamiloba),3.0,14.19,6000.0,54.27
+18000.0,110.0,2+1,buyukcekmece,celaliye,3.0,14.19,6000.0,54.27
 15000.0,110.0,2+1,buyukcekmece,tepecik,3.0,14.19,5000.0,55.94
 17000.0,48.0,1+1,esenyurt,merkez,2.0,14.63,8500.0,45.75
 17000.0,61.0,1+1,kagithane,gultepe,2.0,33.9,8500.0,55.38
 15500.0,80.0,2+1,arnavutkoy,merkez,3.0,10.88,5166.666666666667,54.02
 14900.0,69.0,1+1,esenyurt,merkez,2.0,14.63,7450.0,50.41
 17000.0,90.0,2+1,silivri,degirmenkoy,3.0,2.5,5666.666666666667,49.11
-15000.0,100.0,2+1,bagcilar,barbaros/yesilbag,3.0,46.1,5000.0,71.89
+15000.0,100.0,2+1,bagcilar,barbaros,3.0,46.1,5000.0,71.89
 18000.0,78.0,1+1,esenyurt,merkez,2.0,14.63,9000.0,43.51
 16000.0,100.0,2+1,esenyurt,merkez,3.0,14.63,5333.333333333333,55.68
 17000.0,130.0,3+1,kucukcekmece,merkez,4.0,43.53,4250.0,71.37

@@ -1,5 +1,22 @@
+# Jupyter
 .ipynb_checkpoints/
+
+# Python
 __pycache__/
+
+# OS
 .DS_Store
+
+# IDE
 .idea/
 anaconda_projects/
+
+# Veri dosyaları (türetilmiş veya ham — yeniden üretilebilir)
+data/istanbul_emlak_final_BEFORE_CLEAN.csv
+data/istanbul_emlak_cleaned.csv
+data/istanbul_emlak_fixed.csv
+data/istanbul_emlak_walkability.csv
+
+# Tamamlanan dilimler checkpoint (scraper)
+data/biten_kısımlar.txt
+scripts/cache

@@ -1,0 +1,448 @@
+district,neighborhood,nearest_metro_km,metro_500m,metro_1km,weighted_1km,cafe_1km,restaurant_1km,university_2km,park_1km
+esenyurt,merkez,7.817,0,0,0.0,1,2,1,29
+basaksehir,ikitelli,0.0,1,2,2.0,5,8,1,0
+bayrampasa,yildirim,1.737,0,0,0.0,8,10,0,34
+avcilar,merkez,5.502,0,0,0.0,17,17,3,14
+esenler,sanayi,0.515,0,3,3.0,5,1,4,26
+umraniye,cakmak,0.641,0,1,1.0,14,27,0,39
+buyukcekmece,celaliye,15.673,0,0,0.0,31,55,1,6
+avcilar,yesilkent,5.573,0,0,0.0,0,0,1,5
+fatih,kocamustafapasa,1.594,0,0,1.5,97,199,7,30
+sultanbeyli,mehmetakif,3.525,0,0,0.0,43,70,0,5
+avcilar,firuzkoy,4.862,0,0,0.0,0,3,3,12
+bagcilar,merkez,0.616,0,2,2.0,18,39,2,35
+beyoglu,kasimpasa,1.716,0,0,0.0,70,36,7,29
+beyoglu,piri pasa,2.63,0,0,0.0,10,3,4,26
+beyoglu,cihangir,0.557,0,1,1.5,328,345,17,25
+beyoglu,sehit muhtar,0.349,1,1,1.5,233,286,16,24
+beyoglu,piyalepasa,2.158,0,0,0.0,2,3,10,35
+beyoglu,ornektepe,2.327,0,0,0.0,2,5,3,37
+beyoglu,yenisehir,0.779,0,1,1.5,102,161,18,21
+beyoglu,halicioglu,2.976,0,0,0.0,5,5,4,30
+beyoglu,omer avni,0.655,0,1,1.5,187,179,20,21
+beyoglu,gumussuyu,0.199,1,1,1.5,208,239,20,23
+beyoglu,firuzaga,0.702,0,2,3.5,345,407,44,18
+beyoglu,kucuk piyale,1.045,0,0,0.0,87,137,14,22
+beyoglu,kadimehmet efendi,0.082,1,2,3.0,309,396,53,18
+beyoglu,sururi mehmet efendi,0.959,0,1,1.5,173,240,15,23
+beyoglu,haciahmet,1.084,0,0,0.0,78,145,17,19
+beyoglu,tomtom,0.456,1,1,2.0,338,404,41,18
+beyoglu,kuloglu,0.726,0,2,3.0,334,366,19,21
+beyoglu,katip mustafa celebi,0.45,1,1,1.5,309,335,14,27
+beyoglu,kocatepe,0.239,1,1,1.5,188,230,16,23
+beyoglu,catma mescit,0.44,1,1,1.5,270,315,23,18
+beyoglu,hacimimi,0.5,0,1,2.0,309,389,54,21
+beyoglu,yahya kahya,0.639,0,1,1.5,232,267,15,20
+beyoglu,kulaksiz,1.448,0,0,0.0,23,15,8,24
+beyoglu,sutluce,2.781,0,0,0.0,14,12,3,31
+beyoglu,kamer hatun,0.773,0,2,3.0,270,318,16,28
+beyoglu,purtelas hasan efendi,0.837,0,1,1.5,249,269,20,18
+beyoglu,camiikebir,1.494,0,0,0.0,65,49,7,30
+beyoglu,kaptanpasa,1.726,0,0,0.0,5,10,11,20
+beyoglu,huseyinaga,0.666,0,2,3.0,285,323,16,28
+beyoglu,kalyoncu kullugu,0.851,0,2,3.0,211,276,16,29
+beyoglu,bereketzade,0.331,1,2,3.0,310,380,53,24
+beyoglu,kececi piri,1.98,0,0,0.0,39,21,8,28
+beyoglu,evliya celebi,0.239,1,1,2.0,304,384,39,15
+beyoglu,bulbul,0.507,0,1,1.5,188,230,17,21
+beyoglu,cukur,0.633,0,1,1.5,218,279,15,30
+beyoglu,sahkulu,0.133,1,2,3.0,313,408,55,21
+beyoglu,bedrettin,0.274,1,2,3.0,241,321,50,17
+beyoglu,asmali mescit,0.4,1,1,2.0,324,379,27,19
+beyoglu,kemankes karamustafa pasa,0.703,0,1,2.0,301,352,53,23
+beyoglu,kilicali pasa,1.018,0,0,1.0,330,358,46,18
+beyoglu,emekyemez,0.323,2,2,3.0,264,354,53,22
+beyoglu,istiklal,1.424,0,0,0.0,45,75,15,18
+beyoglu,mueyyetzade,0.408,1,2,3.0,322,378,54,25
+buyukcekmece,kamiloba,15.673,0,0,0.0,31,55,1,6
+buyukcekmece,yenimahalle,15.673,0,0,0.0,31,55,1,6
+buyukcekmece,hurriyet,15.673,0,0,0.0,31,55,1,6
+buyukcekmece,mimar sinan merkez,17.079,0,0,0.0,0,13,1,4
+buyukcekmece,turkoba,15.673,0,0,0.0,31,55,1,6
+buyukcekmece,kumburgaz,15.673,0,0,0.0,31,55,1,6
+buyukcekmece,ulus,15.673,0,0,0.0,31,55,1,6
+buyukcekmece,pinartepe,13.92,0,0,0.0,0,2,2,9
+buyukcekmece,bahcelievler,15.673,0,0,0.0,31,55,1,6
+buyukcekmece,ataturk,13.955,0,0,0.0,14,11,2,8
+buyukcekmece,dizdariye,15.781,0,0,0.0,30,55,1,6
+buyukcekmece,guzelce,15.673,0,0,0.0,31,55,1,6
+buyukcekmece,cakmakli,12.431,0,0,0.0,0,1,0,1
+buyukcekmece,murat cesme,15.673,0,0,0.0,31,55,1,6
+buyukcekmece,cumhuriyet,12.294,0,0,0.0,4,3,3,2
+buyukcekmece,fatih,15.14,0,0,0.0,33,55,1,8
+buyukcekmece,alkent 2000,12.393,0,0,0.0,1,4,2,1
+buyukcekmece,19 mayis,15.502,0,0,0.0,33,57,1,6
+buyukcekmece,ekinoba,15.673,0,0,0.0,31,55,1,6
+buyukcekmece,ahmediye,15.673,0,0,0.0,31,55,1,6
+arnavutkoy,tasoluk,1.226,0,0,0.0,0,3,0,6
+kucukcekmece,halkali,0.016,1,1,1.0,1,2,1,4
+sariyer,istinye,2.644,0,0,0.0,15,14,1,5
+gaziosmanpasa,merkez,1.687,0,0,0.0,26,25,0,23
+uskudar,ferah,1.394,0,0,0.0,7,7,1,26
+silivri,merkez,41.988,0,0,0.0,20,33,1,17
+beykoz,tokatkoy,5.171,0,0,0.0,4,2,1,5
+kagithane,gultepe,0.0,2,3,3.0,9,14,4,36
+kagithane,merkez,0.0,2,3,3.0,9,14,4,36
+gaziosmanpasa,fevzicakmak,1.551,0,0,0.0,9,5,0,40
+uskudar,merkez,0.449,2,3,3.0,33,29,11,28
+beykoz,merkez,5.242,0,0,0.0,14,13,1,9
+sisli,mecidiyekoy,0.545,0,2,2.0,35,43,9,36
+maltepe,kucukyali,0.0,1,1,1.0,20,35,2,19
+sancaktepe,yenidogan,2.46,0,0,0.0,0,0,0,16
+fatih,haseki,0.426,1,5,6.0,208,337,47,33
+sariyer,buyukdere,2.479,0,0,0.0,2,5,0,4
+maltepe,cevizli,1.02,0,0,0.0,10,22,2,20
+pendik,esenyali,1.145,0,0,0.0,5,2,0,26
+sisli,okmeydani,0.205,1,1,1.0,14,15,6,21
+umraniye,merkez,0.097,1,2,2.0,18,29,1,40
+umraniye,yukaridudullu,0.558,0,2,2.0,5,7,1,15
+sultanbeyli,necipfazil,3.525,0,0,0.0,43,70,0,5
+buyukcekmece,mimarsinan,17.292,0,0,0.0,0,6,1,4
+sultangazi,zubeydehanim,2.811,0,0,0.0,19,20,1,37
+arnavutkoy,merkez,0.89,0,1,1.0,3,7,0,8
+beykoz,pasabahce,5.393,0,0,0.0,5,2,0,5
+kagithane,sirintepe,0.0,2,3,3.0,9,14,4,36
+bagcilar,demirkapi,0.783,0,1,1.0,24,34,1,20
+pendik,camcesme,1.227,0,0,0.0,1,2,0,13
+gaziosmanpasa,kazimkarabekir,0.589,0,2,2.0,4,9,0,49
+sisli,gulbahar,0.854,0,2,2.0,40,46,8,30
+eyupsultan,alibeykoy,0.306,1,2,2.0,12,14,2,46
+buyukcekmece,merkez,17.292,0,0,0.0,0,6,1,4
+besiktas,abbasaga,0.626,0,1,1.0,120,82,18,25
+buyukcekmece,tepecik,15.673,0,0,0.0,31,55,1,6
+sultanbeyli,turgutreis,4.531,0,0,0.0,13,36,0,6
+esenyurt,kirac,10.223,0,0,0.0,4,1,0,4
+sultangazi,sultanciftligi,2.439,0,0,0.0,21,20,1,30
+gungoren,tozkoparan,0.678,0,2,2.0,17,21,9,13
+maltepe,gulsuyu,0.502,0,2,2.0,1,2,0,19
+eyupsultan,yesilpinar,0.43,1,2,2.0,11,14,0,56
+beyoglu,tarlabasi,0.264,1,1,1.5,223,267,15,24
+kucukcekmece,sefakoy,0.818,0,1,1.0,8,10,2,11
+esenler,merkez,0.987,0,1,1.0,12,9,6,21
+esenler,birlik,1.144,0,0,0.0,1,4,0,27
+eyupsultan,merkez,1.961,0,0,0.0,19,16,3,34
+besiktas,gayrettepe,0.067,1,5,5.0,30,44,11,17
+kagithane,caglayan,0.0,2,3,3.0,9,14,4,36
+uskudar,beylerbeyi,2.151,0,0,0.0,6,13,0,11
+catalca,izzettin,22.321,0,0,0.0,0,5,0,11
+catalca,ferhatpasa,22.321,0,0,0.0,0,5,0,11
+catalca,kaleici,22.321,0,0,0.0,0,5,0,11
+besiktas,levazim,0.881,0,2,2.0,10,15,8,15
+besiktas,arnavutkoy,1.758,0,0,0.0,15,30,4,6
+kadikoy,fikirtepe,0.89,0,1,1.0,31,25,4,22
+eyupsultan,gokturk,0.641,0,1,1.0,5,1,0,2
+sariyer,tarabya,1.896,0,0,0.0,0,4,0,4
+uskudar,unalan,0.591,0,2,2.0,9,6,5,15
+uskudar,cengelkoy,3.258,0,0,0.0,6,13,3,4
+sancaktepe,samandira,1.638,0,0,0.0,12,29,0,12
+kagithane,hamidiye,0.0,2,3,3.0,9,14,4,36
+uskudar,bahcelievler,3.227,0,0,0.0,1,3,3,19
+maltepe,idealtepe,0.377,1,1,1.0,33,34,4,21
+kadikoy,suadiye,0.183,1,3,3.0,125,98,0,24
+atasehir,kucukbakkalkoy,0.186,1,1,1.0,44,100,6,38
+kadikoy,caferaga,0.659,0,1,1.0,294,148,2,13
+zeytinburnu,maltepe,1.036,0,0,0.0,8,11,8,15
+kadikoy,goztepe,0.345,1,1,1.0,42,46,5,17
+umraniye,esensehir,0.47,1,2,2.0,2,7,1,14
+uskudar,altunizade,0.523,0,2,2.0,31,13,7,37
+kartal,rahmanlar,0.456,1,2,2.0,31,12,0,22
+zeytinburnu,merkezefendi,1.438,0,0,0.0,49,63,10,21
+kadikoy,19 mayis,0.848,0,3,3.0,63,57,3,33
+sisli,fulya,0.781,0,3,3.0,75,87,22,27
+sancaktepe,sarigazi,0.363,1,1,1.0,18,7,0,22
+sariyer,merkez,3.919,0,0,0.0,7,7,0,17
+maltepe,zumrutevler,0.682,0,2,2.0,12,12,2,14
+kadikoy,bostanci,0.392,2,3,3.0,74,75,2,25
+kadikoy,feneryolu,0.372,1,1,1.0,57,69,5,24
+kadikoy,fenerbahce,1.397,0,0,0.0,39,34,1,12
+kadikoy,merdivenkoy,0.746,0,1,1.0,21,22,6,24
+basaksehir,bahcesehir,6.612,0,0,0.5,6,3,0,24
+sisli,19 mayis,0.528,0,3,3.0,76,84,17,20
+pendik,yenisehir,2.464,0,0,0.0,17,34,1,15
+beylikduzu,kavakli,11.339,0,0,0.0,0,1,0,6
+sariyer,koyler,3.912,0,0,0.0,7,6,0,16
+fatih,merkez,6.697,0,0,0.0,0,0,0,0
+zeytinburnu,cirpici,0.552,0,2,2.0,21,61,5,27
+maltepe,esenkent,0.871,0,1,1.0,0,2,0,14
+bagcilar,gunesli,0.934,0,2,2.0,18,64,0,25
+kadikoy,erenkoy,0.068,1,1,1.0,107,85,2,19
+kadikoy,kozyatagi,0.51,0,3,3.0,88,63,2,20
+basaksehir,koyler,0.542,0,2,2.0,9,6,0,17
+kadikoy,rasimpasa,0.468,1,2,2.5,183,118,2,14
+sultanbeyli,mimarsinan,3.525,0,0,0.0,43,70,0,5
+umraniye,serifali,0.855,0,1,1.0,11,35,0,11
+sariyer,rumelihisari,0.886,0,1,2.0,20,27,6,12
+gungoren,haznedar,0.457,1,2,2.0,12,12,6,24
+tuzla,postane,2.711,0,0,0.0,7,12,2,25
+cekmekoy,tasdelen,2.816,0,0,0.0,2,7,0,13
+bakirkoy,atakoy,0.558,0,3,3.0,12,21,4,21
+sisli,tesvikiye,0.78,0,1,1.0,131,108,25,23
+sisli,cumhuriyet,0.564,0,1,1.0,61,77,15,21
+uskudar,bulgurlu,0.343,1,2,2.0,26,20,1,40
+atasehir,ornek,0.679,0,1,1.0,11,7,4,27
+kagithane,seyrantepe,0.0,2,3,3.0,9,14,4,36
+sisli,bozkurt,0.421,1,1,1.0,84,88,15,19
+kartal,esentepe,0.841,0,1,1.0,16,20,1,27
+maltepe,feyzullah,0.465,1,2,2.0,71,67,1,18
+bahcelievler,yenibosna,0.626,0,2,2.0,2,6,0,20
+atasehir,merkez,1.564,0,0,0.0,22,66,2,32
+maltepe,yali,0.471,1,2,2.0,61,54,0,15
+atasehir,barbaros,1.272,0,0,0.0,26,68,2,18
+bayrampasa,muratpasa,0.721,0,2,2.0,31,23,2,31
+tuzla,icmeler,0.575,0,1,1.0,2,3,0,22
+uskudar,acibadem,0.834,0,1,1.0,15,11,8,20
+fatih,aksaray,0.282,4,5,5.5,152,310,46,33
+basaksehir,merkez,0.181,1,1,1.0,1,4,0,7
+kadikoy,sahrayicedit,0.628,0,1,1.0,30,32,4,37
+kartal,topselvi,0.761,0,1,1.0,1,4,1,13
+eyupsultan,kemerburgaz,1.606,0,0,0.0,0,0,1,10
+cekmekoy,merkez,2.139,0,0,0.0,7,9,0,17
+besiktas,akatlar,0.461,1,2,2.0,18,41,9,22
+bahcelievler,zafer,1.249,0,0,0.0,5,17,2,21
+sisli,merkez,0.702,0,3,3.0,35,46,7,18
+besiktas,turkali,0.942,0,1,1.0,139,100,22,28
+bahcelievler,merkez,0.626,0,2,2.0,2,6,0,20
+sisli,mesrutiyet,0.396,1,1,1.0,100,102,23,21
+beykoz,anadoluhisari,1.908,0,0,0.0,14,20,6,11
+pendik,carsi,0.624,0,1,1.0,11,20,2,20
+bayrampasa,altintepsi,0.521,0,3,3.0,16,18,4,32
+beylikduzu,yakuplu,8.685,0,0,0.0,3,0,0,4
+atasehir,icerenkoy,0.769,0,2,2.0,14,42,6,22
+fatih,sehremini,0.699,0,1,1.0,131,206,9,32
+umraniye,esenevler,1.417,0,0,0.0,7,6,1,44
+kadikoy,acibadem,0.17,1,1,1.0,44,35,8,34
+beylikduzu,gurpinar,13.427,0,0,0.0,0,1,0,26
+uskudar,kandilli,1.721,0,0,0.0,5,17,6,8
+sisli,esentepe,0.195,2,5,5.0,39,52,4,24
+bakirkoy,florya,2.281,0,0,0.0,5,7,1,8
+cekmekoy,alemdag,4.86,0,0,0.0,0,1,0,12
+kadikoy,osmanaga,0.64,0,2,2.0,350,191,2,18
+maltepe,altintepe,0.415,1,3,3.0,46,61,2,23
+maltepe,cinar,0.528,0,3,3.0,25,40,5,21
+maltepe,basibuyuk,2.473,0,0,0.0,1,0,9,6
+maltepe,altaycesme,0.608,0,2,2.0,81,75,0,19
+maltepe,baglarbasi,0.752,0,2,2.0,54,57,1,25
+pendik,fatih,1.693,0,0,0.0,4,2,0,20
+besiktas,kaynarca,1.261,0,0,0.0,95,55,19,19
+pendik,fevzi cakmak,1.001,0,0,0.0,1,5,0,16
+pendik,guzelyali,0.433,1,2,2.0,1,2,0,10
+pendik,gullu baglar,0.798,0,1,1.0,9,1,1,13
+pendik,ahmet yesevi,2.218,0,0,0.0,2,1,1,19
+beyoglu,harmandere,0.082,1,2,3.0,309,396,53,18
+pendik,orhangazi,1.14,0,0,0.0,2,3,0,20
+beyoglu,kurtkoy,0.082,1,2,3.0,309,396,53,18
+pendik,velibaba,1.793,0,0,0.0,1,6,1,16
+pendik,kavakpinar,2.219,0,0,0.0,0,0,0,5
+pendik,cinardere,0.662,0,1,1.0,2,9,1,12
+pendik,suluntepe,1.024,0,0,0.0,5,2,1,14
+pendik,esenler,0.95,0,1,1.0,9,1,1,21
+bahcelievler,bahcelievler,0.049,1,4,4.0,21,10,5,28
+pendik,dumlupinar,0.904,0,1,1.0,0,8,0,12
+pendik,ertugrul gazi,1.956,0,0,0.0,0,0,1,4
+beyoglu,camlik,2.532,0,0,0.0,1,4,3,39
+pendik,seyhli,0.806,0,1,1.0,5,0,1,14
+pendik,orta,0.338,1,1,1.0,1,10,1,10
+pendik,ramazanoglu,1.225,0,0,0.0,2,0,1,4
+pendik,yayalar,0.722,0,1,1.0,2,1,1,8
+besiktas,bati,1.261,0,0,0.0,95,55,19,19
+bahcelievler,sapan baglari,0.526,0,4,4.0,24,12,4,27
+pendik,sanayi,0.522,0,1,1.0,8,9,2,11
+bahcelievler,yeni,0.626,0,2,2.0,2,6,0,20
+besiktas,dogu,1.261,0,0,0.0,95,55,19,19
+bahcelievler,yesilbaglar,0.526,0,4,4.0,24,12,4,27
+sancaktepe,mevlana,3.427,0,0,0.0,0,1,0,7
+sancaktepe,merve,1.841,0,0,0.0,0,0,0,21
+sancaktepe,osmangazi,0.496,1,2,2.0,14,7,0,26
+sancaktepe,veysel karani,2.442,0,0,0.0,5,13,0,7
+sancaktepe,ataturk,0.892,0,1,1.0,14,5,0,27
+sancaktepe,fatih,3.228,0,0,0.0,2,1,1,8
+sancaktepe,safa,2.311,0,0,0.0,0,1,0,17
+sancaktepe,akpinar,1.855,0,0,0.0,1,3,0,8
+sancaktepe,abdurrahmangazi,0.368,1,2,2.0,14,8,0,23
+sancaktepe,yunus emre,3.22,0,0,0.0,0,2,0,8
+sancaktepe,hilal,3.556,0,0,0.0,1,2,0,7
+sancaktepe,kemal turkler,0.537,0,1,1.0,16,7,0,24
+sancaktepe,emek,0.65,0,1,1.0,8,7,1,18
+sancaktepe,inonu,0.145,1,1,1.0,18,7,0,19
+sancaktepe,meclis,0.51,0,2,2.0,22,13,0,23
+sancaktepe,eyup sultan,0.475,1,2,2.0,14,6,0,17
+sariyer,kocatas,3.268,0,0,0.0,2,2,0,1
+sariyer,pinar,0.827,0,1,1.0,11,16,4,11
+sariyer,fatih sultan mehmet,1.457,0,0,0.0,0,3,7,13
+sariyer,maden,4.716,0,0,0.0,1,2,1,1
+sariyer,ferahevler,1.608,0,0,0.0,0,4,0,11
+sariyer,rumeli hisari,0.886,0,1,2.0,20,27,6,12
+sariyer,poligon,1.441,0,0,0.0,2,7,3,13
+sariyer,sariyer merkez,3.919,0,0,0.0,7,7,0,17
+sariyer,cumhuriyet,0.965,0,1,1.0,5,6,0,6
+sariyer,emirgan,2.112,0,0,0.0,9,8,5,8
+sariyer,kirecburnu,1.512,0,0,0.0,2,6,0,7
+sariyer,resitpasa,1.693,0,0,0.0,6,7,4,6
+sariyer,bahcekoy yeni,4.909,0,0,0.0,0,0,2,1
+sariyer,rumeli kavagi,5.94,0,0,0.0,1,4,1,0
+sariyer,yenikoy,3.837,0,0,0.0,14,16,0,4
+sariyer,baltalimani,1.297,0,0,0.0,10,14,6,7
+sariyer,kazim karabekir pasa,2.55,0,0,0.0,0,1,0,1
+sariyer,camlitepe,0.186,1,1,1.0,2,0,1,11
+sariyer,yeni,6.684,0,0,0.0,0,0,2,0
+sariyer,bahcekoy kemer,4.714,0,0,0.0,0,1,2,1
+sariyer,cayirbasi,2.115,0,0,0.0,2,5,0,3
+sariyer,bahcekoy merkez,5.519,0,0,0.0,3,5,2,0
+sariyer,ptt evleri,2.083,0,0,0.0,0,1,0,0
+sariyer,darussafaka,0.453,1,1,1.0,0,0,3,12
+silivri,mimar sinan,41.988,0,0,0.0,20,33,1,17
+silivri,fatih,41.988,0,0,0.0,20,33,1,17
+silivri,alibey,41.988,0,0,0.0,20,33,1,17
+silivri,yeni,41.988,0,0,0.0,20,33,1,17
+silivri,piri mehmet pasa,41.988,0,0,0.0,20,33,1,17
+silivri,cumhuriyet,41.988,0,0,0.0,20,33,1,17
+besiktas,ortakoy,1.554,0,0,0.0,26,32,9,13
+silivri,semizkumlar,41.988,0,0,0.0,20,33,1,17
+silivri,alipasa,41.988,0,0,0.0,20,33,1,17
+adalar,buyukada,4.423,0,0,0.0,15,14,0,8
+beyoglu,kemankes,0.703,0,1,2.0,301,352,53,23
+beyoglu,arapcami,0.082,1,2,3.0,309,396,53,18
+kucukcekmece,merkez,1.567,0,0,0.0,5,3,1,28
+kadikoy,kosuyolu,0.852,0,2,2.0,29,26,8,33
+bakirkoy,yesilkoy,2.312,0,0,0.5,10,21,0,9
+sisli,harbiye,0.891,0,2,2.0,139,134,22,24
+maltepe,aydinevler,0.517,0,1,1.0,10,7,9,12
+zeytinburnu,bestelsiz,1.142,0,0,0.0,30,94,6,30
+besiktas,etiler,0.192,1,2,2.5,23,36,7,16
+kadikoy,caddebostan,1.242,0,0,0.0,73,74,1,9
+besiktas,bebek,0.656,0,2,3.0,23,25,5,12
+besiktas,levent,0.584,0,4,4.0,39,52,6,26
+beyoglu,purtelas,0.685,0,1,1.5,336,353,20,22
+kadikoy,egitim,0.985,0,1,1.0,41,39,5,20
+eyupsultan,rami,1.418,0,0,0.0,21,26,1,30
+bahcelievler,cobancesme,0.616,0,2,2.0,0,0,1,17
+bagcilar,kirazli,0.565,0,3,3.0,24,80,0,26
+bagcilar,mahmutbey,0.521,0,1,1.0,5,8,1,14
+umraniye,ataturk,0.458,1,2,2.0,17,28,1,41
+tuzla,tersaneler,0.527,0,2,2.0,2,2,0,25
+bakirkoy,zuhuratbaba,0.253,2,2,2.5,21,32,3,26
+umraniye,aksemsettin,1.44,0,0,0.0,3,3,1,47
+kucukcekmece,fatih,2.939,0,0,0.5,8,11,0,13
+esenler,ahmet yesevi,0.515,0,3,3.0,5,1,4,26
+kucukcekmece,abdurrahmangazi,2.972,0,0,0.5,9,11,0,16
+buyukcekmece,battalgazi,13.414,0,0,0.0,0,2,3,16
+umraniye,necip fazil,0.386,1,1,1.0,3,3,1,21
+esenler,turgut reis,0.756,0,1,1.0,3,10,0,25
+umraniye,yavuz selim,1.352,0,0,0.0,14,40,1,18
+umraniye,hamidiye,0.599,0,2,2.0,3,8,1,16
+buyukcekmece,adil,15.673,0,0,0.0,31,55,1,6
+buyukcekmece,mimar sinan,17.292,0,0,0.0,0,6,1,4
+esenler,mecidiye,0.515,0,3,3.0,5,1,4,26
+kucukcekmece,hasanpasa,2.972,0,0,0.5,9,11,0,16
+kucukcekmece,mehmet akif,0.605,0,3,3.0,6,6,2,8
+umraniye,orhangazi,0.453,1,2,2.0,0,0,0,21
+bakirkoy,zeytinlik,0.155,2,3,3.5,20,28,2,27
+beyoglu,taksim,0.031,1,1,1.5,223,264,17,27
+bakirkoy,cevizlik,0.324,2,3,3.5,20,28,1,25
+kartal,dragos,1.075,0,0,0.0,1,7,1,18
+sultangazi,zubeyde hanim,1.664,0,0,0.0,5,5,0,39
+sultangazi,50. yil,1.045,0,0,0.0,8,4,1,39
+sultangazi,75. yil,1.535,0,0,0.0,5,3,0,50
+sultangazi,yunus emre,1.511,0,0,0.0,5,3,1,35
+sultangazi,esentepe,2.02,0,0,0.0,3,3,1,34
+sultangazi,cebeci,4.48,0,0,0.0,0,0,0,1
+sultangazi,gazi,2.195,0,0,0.0,5,5,1,41
+sultangazi,cumhuriyet,0.698,0,1,1.0,13,2,1,36
+sultangazi,ugur mumcu,1.924,0,0,0.0,12,14,1,40
+sultangazi,malkocoglu,4.071,0,0,0.0,3,3,0,13
+sultangazi,ismetpasa,3.741,0,0,0.0,16,15,1,27
+sultangazi,habibler,4.195,0,0,0.0,4,7,0,10
+gaziosmanpasa,yildiztabya,1.677,0,0,0.0,4,6,2,32
+kadikoy,hasanpasa,0.626,0,2,2.0,30,37,4,22
+bagcilar,kemalpasa,0.697,0,1,1.0,23,37,0,21
+sile,balibey,38.041,0,0,0.0,8,10,0,18
+sile,cavus,38.041,0,0,0.0,8,10,0,18
+sile,kurfalli,38.041,0,0,0.0,8,10,0,18
+sile,haci kasim,38.041,0,0,0.0,8,10,0,18
+sile,kumbaba,38.041,0,0,0.0,8,10,0,18
+sisli,kustepe,0.845,0,3,3.0,25,22,8,25
+sisli,mahmut sevket pasa,1.838,0,0,0.0,1,5,11,31
+sisli,yayla,1.118,0,0,0.0,36,41,15,27
+sisli,eskisehir,0.891,0,1,1.0,73,90,16,22
+sisli,izzet pasa,0.514,0,1,1.0,74,87,15,20
+sisli,halide edip adivar,1.048,0,0,0.0,24,32,7,19
+sisli,duatepe,0.559,0,1,1.0,48,55,15,20
+sisli,ergenekon,0.43,1,1,1.0,100,99,21,19
+sisli,pasa,1.331,0,0,0.0,14,18,15,23
+sisli,ferikoy,0.786,0,1,1.0,54,52,15,23
+sisli,inonu,0.655,0,1,1.5,134,154,15,25
+sisli,halaskargazi,0.188,1,1,1.0,97,97,23,19
+sisli,halil rifat pasa,1.655,0,0,0.0,4,11,11,26
+sisli,kaptan pasa,0.801,0,2,2.0,33,43,7,18
+buyukcekmece,sifa,15.673,0,0,0.0,31,55,1,6
+tuzla,evliya celebi,0.369,1,1,1.0,2,3,1,30
+tuzla,aydinli,3.791,0,0,0.0,3,9,1,10
+tuzla,yayla,1.391,0,0,0.0,2,3,3,36
+tuzla,aydintepe,0.393,1,2,2.0,5,5,0,21
+umraniye,armaganevler,0.46,1,2,2.0,14,21,1,53
+umraniye,cemil meric,0.434,1,2,2.0,2,3,0,11
+umraniye,esenkent,1.171,0,0,0.0,8,6,1,12
+umraniye,mehmet akif,1.037,0,0,0.0,15,34,1,26
+umraniye,atakent,0.388,1,2,2.0,11,14,1,48
+umraniye,adem yavuz,0.462,1,3,3.0,1,1,1,23
+umraniye,huzur,0.453,1,2,2.0,3,1,0,23
+umraniye,tatlisu,1.473,0,0,0.0,11,36,1,30
+umraniye,istiklal,0.453,1,2,2.0,18,20,1,48
+umraniye,site,1.331,0,0,0.0,7,8,1,44
+umraniye,ihlamurkuyu,0.39,2,2,2.0,4,12,0,21
+atasehir,ataturk,1.162,0,0,0.0,27,40,3,42
+umraniye,asagi dudullu,0.411,1,2,2.0,2,1,1,22
+umraniye,finanskent,2.291,0,0,0.0,18,27,1,23
+umraniye,parseller,0.411,1,2,2.0,0,0,0,23
+umraniye,camlik,1.911,0,0,0.0,10,20,1,27
+umraniye,madenler,0.322,1,2,2.0,14,11,1,26
+atasehir,tantavi,1.564,0,0,0.0,22,66,2,32
+uskudar,yavuzturk,1.849,0,0,0.0,3,2,3,23
+uskudar,burhaniye,0.844,0,1,1.0,6,6,4,21
+uskudar,mehmet akif ersoy,2.157,0,0,0.0,2,4,2,22
+uskudar,ahmediye,0.822,0,2,2.0,27,24,5,24
+uskudar,guzeltepe,3.072,0,0,0.0,2,4,3,16
+uskudar,cumhuriyet,0.71,0,1,1.0,25,7,3,37
+uskudar,valide-i atik,0.89,0,1,1.0,32,23,7,41
+uskudar,kisikli,0.814,0,1,1.0,23,11,0,27
+uskudar,murat reis,0.195,2,2,2.0,28,25,11,19
+uskudar,kupluce,1.493,0,0,0.0,1,4,6,18
+uskudar,icadiye,0.486,1,2,2.0,32,26,8,34
+uskudar,kirazlitepe,1.888,0,0,0.0,0,3,6,16
+uskudar,kucuksu,3.032,0,0,0.0,0,12,5,9
+uskudar,kuzguncuk,0.782,0,1,1.0,27,21,6,30
+uskudar,selami ali,0.3,1,2,2.0,31,18,8,37
+uskudar,selimiye,1.225,0,0,0.0,9,3,5,14
+uskudar,barbaros,1.072,0,0,0.0,27,13,7,39
+uskudar,kuleli,3.082,0,0,0.0,1,9,3,5
+fatih,kucukmustafapasa,0.985,0,1,1.0,183,171,48,25
+fatih,fevzipasa,0.845,0,2,2.0,166,174,45,23
+arnavutkoy,haracci,3.595,0,0,0.0,0,1,0,1
+fatih,akdeniz,0.265,1,2,2.0,133,224,29,21
+uskudar,dogancilar,0.772,0,2,2.0,27,24,4,20
+kagithane,celiktepe,0.0,2,3,3.0,9,14,4,36
+pendik,dolayoba,1.629,0,0,0.0,0,8,0,16
+esenyurt,haramidere,7.396,0,0,0.0,6,3,1,17
+pendik,bahcelievler,0.514,0,2,2.0,28,35,1,19
+bagcilar,barbaros,0.791,0,3,3.0,21,56,0,28
+gaziosmanpasa,kucukkoy,1.523,0,0,0.0,10,8,0,43
+fatih,mevlanakapi,1.309,0,0,0.0,69,99,9,27
+tuzla,mimarsinan,3.336,0,0,0.0,0,0,1,14
+arnavutkoy,hadimkoy,9.581,0,0,0.0,0,1,0,3
+umraniye,asagidudullu,0.097,1,2,2.0,18,29,1,40
+esenler,karabayir,0.796,0,2,2.0,7,13,2,27
+silivri,canta,41.988,0,0,0.0,20,33,1,17
+beylikduzu,merkez,13.813,0,0,0.0,0,2,0,26
+silivri,degirmenkoy,41.988,0,0,0.0,20,33,1,17
+arnavutkoy,bogazkoy,2.207,0,0,0.0,0,0,0,1
+arnavutkoy,bolluca,2.693,0,0,0.0,0,0,0,5
+maltepe,merkez,0.158,1,2,2.0,24,35,2,20
+zeytinburnu,veliefendi,0.924,0,1,1.0,26,93,0,29
+zeytinburnu,seyitnizam,1.077,0,0,0.0,34,72,9,23
+zeytinburnu,gokalp,1.59,0,0,1.0,39,118,1,22
+zeytinburnu,yenidogan,1.941,0,0,0.5,35,98,1,13
+zeytinburnu,sumer,1.764,0,0,0.5,28,87,0,11
+zeytinburnu,telsiz,1.616,0,0,0.5,28,77,6,29
+zeytinburnu,yesiltepe,1.558,0,0,0.5,41,113,1,15
+zeytinburnu,kazlicesme,2.221,0,0,1.0,25,63,1,15
+zeytinburnu,nuripasa,1.842,0,0,0.5,35,99,1,13
