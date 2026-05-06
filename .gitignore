@@ -12,11 +12,13 @@ __pycache__/
 anaconda_projects/
 
 # Veri dosyaları (türetilmiş veya ham — yeniden üretilebilir)
-data/istanbul_emlak_final_BEFORE_CLEAN.csv
 data/istanbul_emlak_cleaned.csv
 data/istanbul_emlak_fixed.csv
 data/istanbul_emlak_walkability.csv
+data/geocoded_locations.csv
+data/unique_locations.csv
+data/geocode_cache.json
+data/poi_raw/
 
 # Tamamlanan dilimler checkpoint (scraper)
-data/biten_kısımlar.txt
-scripts/cache
+data/tamamlanan_dilimler.txt
