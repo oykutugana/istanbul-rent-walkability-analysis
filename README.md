@@ -1,45 +1,51 @@
-# **Istanbul Rental Market & Walkability Analysis** 
+# **Istanbul Rental Market & Walkability Analysis**
 
 > **Project Link:** **[github.com/oykutugana/istanbul-rent-walkability-analysis](https://github.com/oykutugana/istanbul-rent-walkability-analysis)**
 
-This project analyzes rental prices in Istanbul by combining traditional housing features with a custom-engineered Walkability Score and a Student Suitability Index. The goal is to identify the 'sweet spots' in the market — areas that optimize the trade-off between urban accessibility and rental affordability for students. Phase 2 builds regression models to predict rental prices, first with district-level features, then with a richer neighbourhood-level geographic feature set engineered from real-world map data.
+This project analyses rental prices in Istanbul by combining traditional housing features with a custom-engineered Walkability Score and a Student Suitability Index. The goal is to identify market sweet spots — neighbourhoods that optimise the trade-off between urban accessibility and rental affordability for students. Phase 2 builds regression models on the P1 dataset enriched with neighbourhood-level geographic features engineered from real-world map data.
 
 ---
 
 ## **Overview**
-Istanbul's rental market is highly dynamic and influenced by diverse factors. While size and room count are standard, **urban accessibility** is often undervalued in data models. This project introduces a **"Walkability Score"** to quantify how proximity to transport, universities, and social hubs affects market value. It serves as a comprehensive guide for students and young professionals seeking optimal living conditions.
+
+Istanbul's rental market is highly dynamic and influenced by diverse factors. Size and room count are standard predictors, but **urban accessibility** is often undervalued in data models. This project introduces a **Walkability Score** to quantify how proximity to transport, universities, and social hubs affects market value. It serves as a comprehensive guide for students and young professionals seeking optimal living conditions.
 
 ---
 
 ## **Dataset**
 
-The analysis is built upon a high-quality, refined dataset of rental listings across Istanbul's 39 districts.
+The analysis is built upon a refined dataset of rental listings across Istanbul's 38 districts.
 
-**Primary Data Source:** The raw data consists of real estate listings web-scraped from **Sahibinden.com**, Turkey's premier classifieds platform. After cleaning and outlier removal, the final dataset contains **11,733 listings**, ensuring the study reflects realistic residential market dynamics.
+**Primary Data Source:** The raw data consists of real estate listings web-scraped from **Sahibinden.com**, Turkey's leading classifieds platform. After domain-based outlier removal, the P1 cleaned dataset contains **15,272 listings**. After dropping the 293 listings whose neighbourhoods could not be geocoded reliably (Silivri, Şile, Çatalca — peripheral districts where Nominatim returns ambiguous results), the P2 modelling dataset contains **14,979 listings** across 36 districts and 698 unique neighbourhoods.
 
 #### **Data Composition**
+
 | Feature | Description |
 | :--- | :--- |
-| **Price (TL)** | Monthly rental fee (Target Variable). |
-| **Area (m²)** | Gross square meters of the property. |
-| **Room Count** | Number of rooms and living areas (e.g., 2+1, 3+1). |
-| **Location** | District (39) and Neighbourhood (380) level granularity. |
-| **Walkability Score** | Custom engineered feature (0-100), district-level. |
-| **Student Score** | A weighted index (50% Walkability, 50% Per-Room Affordability) for optimal housing selection. |
+| **Price (TL)** | Monthly rental fee (target variable) |
+| **Area (m²)** | Gross square meters of the property |
+| **Room Count** | Number of rooms and living areas (e.g., 2+1, 3+1, Stüdyo) |
+| **Location** | District (38), sub-district (semt), and neighbourhood (mahalle) granularity |
+| **Walkability Score** | Custom engineered feature (0–100), district-level (P1) |
+| **Student Score** | Weighted index (50% Walkability, 50% Per-Room Affordability) for optimal housing selection |
 
 #### **Data Cleaning & Refinement**
-To ensure the model's reliability, we applied domain-based outlier filtering rather than purely statistical bounds:
-* **Price Range:** 12,000 TL – 150,000 TL (removes typo entries below 12k and luxury outliers above 150k)
-* **Area Range:** 30 m² – 250 m² (drops tiny micro-units and oversized commercial-style flats)
-* **Total Rooms:** ≤ 6 (removes rare 7+1 and 8+ configurations that act as extreme leverage points in regression)
-* **Neighbourhood names:** Parenthesised aliases (e.g. `celaliye(kamiloba)`) and slash-separated names (e.g. `barbaros/yesilbag`) were cleaned to their primary form.
 
-#### **Geospatial Integration (P2 v2 — Neighbourhood Level)**
-In P2 v2 we moved beyond district-level aggregation and geocoded **447 unique (district, neighbourhood) pairs** to map coordinates using Nominatim with a three-strategy validation pipeline (tight → medium → fallback). From each neighbourhood centroid we computed:
+Domain-based outlier filtering was applied rather than purely statistical IQR rules:
 
-* **Transit access:** Haversine distance to the closest metro/Marmaray station and weighted station counts within 1 km radius, drawing on **220 Istanbul rail stations** sourced from OpenStreetMap.
-* **POI density:** Counts of cafes, restaurants, university campuses, and parks within 1–2 km buffers via OSMnx.
-* **Data-quality flags:** `is_periphery` (Silivri/Şile/Çatalca, where OSM coverage is sparse) and `is_district_center` (listings whose neighbourhood could only be resolved to district-level coordinates).
+* **Price range:** 10,000 TL – 150,000 TL (URL-filtered at scrape time; removes typo entries and luxury outliers)
+* **Area range:** 30 m² – 250 m² (drops scraping artefacts and oversized commercial-style units)
+* **Total rooms:** ≤ 6 (removes rare 7+1 and 8+ configurations that act as extreme leverage points in regression)
+* **Text normalisation:** ASCII normalisation applied to district, sub-district, and neighborhood names (`ğ→g`, `ı→i`, `ş→s`, etc.)
+
+#### **Geospatial Integration (P2)**
+
+P2 replaces the district-level walkability proxy with neighbourhood-level features. An offline four-script pipeline geocodes each unique `(district, sub_district, neighborhood)` triple and computes radius-based feature counts:
+
+* **Geocoding** — Nominatim with a three-tier fallback strategy (mahalle → semt → ilçe). Bounding-box validation rejects results outside Istanbul.
+* **Transit access** — Haversine distance to the closest metro/Marmaray station, plus weighted station counts within 1 km using OpenStreetMap data fetched via the Overpass API.
+* **POI density** — Counts of cafés, restaurants, university campuses, and parks within 1–2 km buffers.
+* **Data-quality flags** — `is_periphery` (15+ km from city centre) and `is_district_center` (listings whose neighbourhood resolved only to district-level coordinates, ~4% of listings).
 
 ---
 
@@ -47,168 +53,173 @@ In P2 v2 we moved beyond district-level aggregation and geocoded **447 unique (d
 
 | Phase | Focus | Key Deliverable |
 |:---|:---|:---|
-| **Phase 1: Problem & EDA** | **Data Cleaning & Engineering** | Problem formulation, outlier handling, walkability score, student suitability index, and visual EDA across 39 districts. |
-| **Phase 2: Regression** | **Linear & Polynomial Models (two iterations)** | v1: district-level features, linear/polynomial/Ridge/Lasso, R² ~0.46. v2: neighbourhood-level geo engineering, same models, R² ~0.58. |
-| **Phase 3: Beyond Regression** | **Model Selection & Reporting** | Tree-based models (Random Forest / Gradient Boosting), hyperparameter tuning, feature importance (SHAP), and final comprehensive report. |
+| **Phase 1: Problem & EDA** | **Data Cleaning & Engineering** | Problem formulation, outlier handling, walkability score, student suitability index, visual EDA across 38 districts. Final dataset: 15,272 listings × 10 columns. |
+| **Phase 2: Regression** | **Linear & Polynomial Models** | Neighbourhood-level geographic feature engineering (Nominatim + Overpass), Auto-VIF filtering, baseline / multiple LR / polynomial / Ridge / Lasso. **Best model: Polynomial degree 3 plain LR with Test R² 0.635.** |
+| **Phase 3: Beyond Regression** | **Model Selection & Reporting** | Tree-based models (Random Forest, Gradient Boosting), hyperparameter tuning, feature importance (SHAP), final comprehensive report. |
+
+---
 
 ## **Key Questions**
 
-- How do structural features (size, rooms) vs. locational features (walkability, metro distance) affect rental prices?
-- To what extent does urban accessibility influence the "price premium" in central districts?
-- Which features are the strongest predictors of rental price for a machine learning model?
-- Where are the **"Student Sweet Spots"** — districts with high walkability but affordable per-room rents?
-- How can we mathematically balance urban accessibility with budget constraints to find the most "student-friendly" neighborhoods?
+* How do structural features (size, rooms) and locational features (walkability, metro distance) combine to determine rental prices?
+* To what extent does urban accessibility drive the price premium in central districts?
+* Which features are the strongest predictors of rental price for a regression model?
+* Where are the **Student Sweet Spots** — districts with high walkability and affordable per-room rents?
+* How can urban accessibility and budget constraints be balanced mathematically to identify the most student-friendly neighbourhoods?
 
 ---
 
 ## **Methods**
 
 ### **1. Domain-Based Threshold Filtering**
-Instead of purely statistical outlier removal, we applied real-world market limits to preserve high-value but legitimate listings (see Dataset section for exact bounds).
 
-### **2. Feature Engineering (Walkability Index)**
-A weighted composite score calculated based on proximity to essential amenities:
+Domain-informed bounds preserve high-value but legitimate listings while removing structural noise (see Dataset section for exact thresholds).
 
-$$
-Score = (Transport \times 0.5) + (University \times 0.3) + (Social\_Infrastructure \times 0.2)
-$$
+### **2. Walkability Score (P1)**
 
-Computed for all 39 districts. Used in both P1 EDA and P2 v1/v2 regression.
+A weighted composite score computed at the district level from publicly available aggregate counts:
 
-### **3. Feature Engineering (Student Suitability Index)**
+$$\text{Walkability Score} = (\text{Transport} \times 0.5) + (\text{University} \times 0.3) + (\text{Social Infrastructure} \times 0.2)$$
+
+The score is rescaled to 0–100 and applied uniformly to every listing within a district.
+
+### **3. Student Suitability Index (P1)**
+
 A composite index balancing accessibility with **per-room affordability**:
 
-$$
-SSI = (Walkability\_Score \times 0.5) + (Affordability\_Score \times 0.5)
-$$
+$$\text{Student Score} = (\text{Walkability} \times 0.5) + (\text{Affordability} \times 0.5)$$
 
-Where Affordability Score is derived from `price_per_room = price / total_rooms`, then converted to a 0-100 scale via percentile rank inversion. This per-room formulation rewards larger shared apartments where cost distributes across tenants.
+Where `affordability = (1 − rank_pct(price_per_room)) × 100` and `price_per_room = price / effective_rooms`. The studio fix sets `effective_rooms = 1.5` for `Stüdyo (1+0)` listings to reflect realistic single-tenant economics — without this fix, studios would be unfairly penalised by `total_rooms = 1`.
 
-### **4. Neighbourhood-Level Geographic Feature Engineering (P2 v2)**
-To address the within-district heterogeneity identified in P2 v1 residuals (e.g. Bebek vs. Dikilitaş in Beşiktaş sharing the same district score), we built a full offline pipeline:
+### **4. Neighbourhood-Level Geographic Feature Engineering (P2)**
 
-1. **Geocoding** — 447 unique (district, neighbourhood) pairs geocoded with Nominatim using a three-strategy validation (tight → medium → district-center fallback). 370 resolved at neighbourhood level, 49 at district level, 19 peripheral locations handled manually.
-2. **Metro distance** — Haversine distance to 220 OpenStreetMap rail stations (metro, Marmaray, tram, funicular), each weighted by service type.
-3. **POI counts** — OSMnx queries within 1–2 km buffers for cafes, restaurants, universities, and parks.
-4. **Data-quality flags** — periphery and district-center fallback indicators.
+To address the within-district heterogeneity identified in P1 (e.g. Bebek vs. Dikilitaş in Beşiktaş sharing the same district score), a four-step offline pipeline replaces district-level signal with neighbourhood-level features:
 
-### **5. Correlation and Residual Analysis**
-Pearson Correlation, Binned Trend Analysis, and residual diagnostics (residuals vs. fitted, Q-Q plot, histogram) to identify model limitations and guide iterative improvement.
+1. **`01_extract_unique_locations.py`** — Extracts unique `(district, sub_district, neighborhood)` triples from the P1 dataset.
+2. **`02_geocode_locations.py`** — Geocodes each location via Nominatim with a three-tier fallback (mahalle → semt → ilçe). Failed lookups outside Istanbul's bounding box are rejected. Includes resumable JSON cache for rate-limit interruptions.
+3. **`03_fetch_pois.py`** — Fetches all Istanbul POIs (transit stations, restaurants, cafés, universities, parks) from the Overpass API as a one-time city-wide snapshot. Caches raw JSON for reproducibility.
+4. **`04_compute_features.py`** — Computes radius-based counts and haversine distances around each centroid, then merges features with the P1 listings.
+
+### **5. Auto-VIF Feature Filtering (P2)**
+
+The geographic candidate pool contains overlapping signals (e.g., `metro_500m`, `metro_1km`, `weighted_1km` all measure transit-station density). Rather than hardcoding which features to drop, the model uses an iterative **Variance Inflation Factor (VIF)** filter that removes the highest-VIF feature until all remaining VIFs are below 10. In the current run, only `metro_1km` (VIF 46.7) was dropped; the remaining 9 geographic features form a well-conditioned design matrix.
+
+### **6. Correlation and Residual Analysis**
+
+Pearson correlation, binned trend analysis, and residual diagnostics (residuals vs. fitted, Q-Q plot, histogram) used throughout to identify model limitations and guide iterative improvement.
 
 ---
 
-## **P1 Results**
+## **P1 Results — Exploratory Data Analysis**
 
-- **The Power of Size:** Square footage (m²) is the strongest single predictor of price (r ≈ 0.50).
-- **The Accessibility Premium:** Walkability shows a moderate positive correlation with price (r ≈ 0.32), with significant price spikes in highly walkable districts like **Beşiktaş**, **Kadıköy**, and **Şişli**.
-- **The Old Center Paradox:** The walkability-vs-price relationship is non-monotonic. Prices climb with walkability up to the 70-80 range (~52k TL median), then drop sharply at the 80-100 range (~30k TL) where historical centers like Fatih dominate with older, smaller stock.
-- **Student Score Trade-off:** A strong negative correlation between student score and price (r ≈ -0.54) confirms the mathematical consistency of the per-room methodology.
-- **Top Student-Friendly Districts:** Under per-room affordability, **Fatih** leads decisively (85.97), followed by peripheral districts like **Avcılar (69.20), Bağcılar (67.32), Küçükçekmece (61.17)** that benefit from larger, affordable apartments.
-- **District Prestige Premium:** **Kadıköy** holds the highest price-per-m² (~720 TL/m²) — Beşiktaş ranks only 13th.
+* **Physical scale dominates as a single predictor.** `area_m2` correlates with `price` at **+0.565** — the strongest single linear predictor. `total_rooms` adds a secondary contribution (+0.428) but correlates with `area_m2` at +0.82, indicating multicollinearity that P2 addresses.
+* **Walkability premium is real but moderate.** `walkability_score` correlates with `price` at **+0.330**. Rents climb steadily with walkability up to the 70–80 band (~60k TL median), then drop sharply at 80–100 (~36k TL) — Fatih's older, smaller housing stock pulls medians below the city-wide level despite top accessibility.
+* **Student Score trade-off is by design.** The composite student_score correlates with price at **−0.513**, confirming that the percentile-rank affordability term successfully separates expensive-walkable districts from affordable-walkable ones.
+* **Top student-friendly districts.** **Fatih leads decisively (76.48)** — a 17-point gap to second place. The remaining top 10 splits between premium-central districts (Şişli 59.05, Beyoğlu 51.55, Beşiktaş 49.08) where high walkability dominates and affordable peripheral districts (Pendik 54.95, Tuzla 51.25, Esenler 50.29, Esenyurt 47.46) where rent dominates.
+* **District prestige premium.** **Zeytinburnu** holds the highest median price-per-m² (~695 TL/m²), narrowly ahead of Kadıköy (~680) and Bakırköy (~675). Beşiktaş — despite top-tier walkability — sits mid-pack on per-m² because its premium is unit-size driven rather than land-scarcity driven.
 
 ---
 
 ## **P2 Results — Regression Modeling**
 
-P2 was completed in two iterations. v1 used the original P1 feature set. v2 enriched the dataset with neighbourhood-level geographic features and re-ran the full pipeline.
-
-### **P2 v1 — District-Level Features**
-
-Four engineered features: log target, area × walkability interaction, district median price (target encoding), room count one-hot encoding.
+P2 fits five models on the geo-enriched dataset (14,979 listings × 28 features) and compares them on a held-out test set. Feature set: 3 P1 numeric + 9 geographic (Auto-VIF filtered) + 16 room dummies.
 
 | Model | Train R² | Val R² | Test R² | Test RMSE | Test MAE |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| Baseline (area_m2 only) | 0.215 | 0.221 | 0.233 | 22,585 TL | 15,972 TL |
-| Multiple LR | 0.470 | 0.493 | 0.462 | 18,924 TL | 13,050 TL |
-| **Polynomial (degree 3)** | **0.510** | **0.510** | **0.464** | **18,880 TL** | **12,674 TL** |
-| Ridge (α = 10) | 0.470 | 0.492 | 0.462 | 18,927 TL | 13,050 TL |
-| Lasso (α = 0.001) | 0.470 | 0.492 | 0.462 | 18,913 TL | 13,041 TL |
+|:---|:---:|:---:|:---:|---:|---:|
+| Baseline (area_m2 only) | 0.290 | 0.314 | 0.305 | 21,568 TL | 15,109 TL |
+| Multiple LR | 0.522 | 0.550 | 0.535 | 17,637 TL | 12,142 TL |
+| **Polynomial (degree 3, plain LR)** | **0.651** | **0.654** | **0.635** | **15,618 TL** | **10,802 TL** |
+| Ridge (α = 10) | 0.522 | 0.549 | 0.535 | 17,635 TL | 12,141 TL |
+| Lasso (α = 0.0001) | 0.522 | 0.549 | 0.535 | 17,633 TL | 12,141 TL |
 
-**v1 best model:** Polynomial degree 3. **v1 ceiling: test R² ≈ 0.46.** Residual analysis revealed within-district heterogeneity as the main bottleneck — one district label cannot distinguish, for example, Bebek from Dikilitaş in Beşiktaş.
+**Best model:** Polynomial degree 3 (plain Linear Regression). Test R² **0.635**, RMSE **15,618 TL**, MAE **10,802 TL** on a median rent of 39,000 TL.
 
-### **P2 v2 — Neighbourhood-Level Geographic Features**
+### **Key Findings**
 
-Ten additional features added: `nearest_metro_km`, `metro_500m`, `metro_1km`, `weighted_1km`, `cafe_1km`, `restaurant_1km`, `university_2km`, `park_1km`, `is_periphery`, `is_district_center`.
+* **Polynomial expansion delivers genuine signal.** Multiple LR (degree 1) reaches Test R² 0.535. Polynomial degree 3 reaches **0.635** — a +0.10 absolute gain (+19% relative) from the same algorithm with quadratic and cubic interaction terms. The improvement reflects real interactions like "metro proximity matters more in dense restaurant areas" that a linear sum of features cannot represent.
 
-| Model | Train R² | Val R² | Test R² | Test RMSE | Test MAE |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| Baseline (area_m2 only) | 0.215 | 0.221 | 0.233 | 22,585 TL | 15,972 TL |
-| Multiple LR | 0.470 | 0.493 | 0.476 | 18,935 TL | 13,056 TL |
-| **Polynomial (degree 2)** | **0.573** | **0.591** | **0.575** | **16,943 TL** | **11,842 TL** |
-| Ridge (α = 1) | 0.470 | 0.493 | 0.476 | 18,937 TL | 13,056 TL |
-| Lasso (α = 0.001) | 0.470 | 0.493 | 0.476 | 18,922 TL | 13,046 TL |
+* **Auto-VIF cleanup keeps degree 3 from overfitting.** With 470 features at degree 3, overfitting is the natural concern. Three things prevent it: the Auto-VIF filter removed redundant base features upstream, the log transform on the target homogenises variance across price levels, and the 8,987-row training set provides ~19 observations per feature — comfortably above the rule-of-thumb minimum.
 
-**v2 best model:** Polynomial degree 2 (plain LR). Polynomial degree 3 causes numerical explosion due to multi-collinearity among correlated metro-density features — Ridge at degree 3 stabilises the model but does not outperform plain degree 2.
+* **Regularisation is not needed on this dataset.** Ridge and Lasso land within 0.001 of plain MLR on test R² in the linear setting, and Ridge is *worse* than plain OLS at polynomial degree 3 (Test R² 0.611 vs 0.635). The Auto-VIF filter and explicit `total_rooms` removal eliminated the multicollinearity issues that L1/L2 penalties typically address.
 
-### **Key v2 Findings**
+* **Lasso zeroes no features.** With cross-validated `alpha = 0.0001`, Lasso retains all 28 features — the design matrix is well-conditioned enough that no L1 penalty is beneficial.
 
-- **Geographic granularity matters more than model complexity.** Multiple LR improved by only +0.014 with the new features, but polynomial degree 2 improved by **+0.111** — the interaction terms between geographic features capture non-linear urban pricing patterns that no linear combination can reach.
-- **Multi-collinearity is visible but manageable.** `metro_1km` and `weighted_1km` measure overlapping concepts and show opposite coefficient signs — a known multi-collinearity artefact. Ridge regularisation handles this correctly; test R² confirms the model performs well despite the coefficient paradox.
-- **Polynomial degree 3 explodes without regularisation.** At 831 features, OLS matrix inversion fails numerically. This is the clearest signal that linear-family models have hit their architectural ceiling on this dataset.
-- **Predictions improved but remain approximate.** Test RMSE dropped from ~18,900 TL (v1) to ~16,900 TL (v2). A ~11-12k TL average absolute error against a 36k TL median rent is useful for budget planning, not for exact pricing.
-- **`student_score` and `price_per_room` excluded** — both are derived from the target variable and would cause target leakage.
+* **Predictions remain approximate.** A ~10,800 TL average absolute error against a 39,000 TL median rent is useful for budget planning and ranking neighbourhoods, but not for exact pricing. Listing-level attributes the dataset cannot see (building age, floor, view, balcony, furnished status) likely account for most of the remaining unexplained variance.
+
+* **`student_score` and `price_per_room` excluded.** Both are derived from the target variable; including them would inflate validation R² toward 1.0 by leaking the target.
 
 ### **Implications for P3**
-The ~0.58 v2 ceiling confirms that the remaining variance requires non-linear models. A preliminary Random Forest test on the v2 feature set produced test R² **0.665** — a further **+0.09** gain with no additional feature engineering. P3 will formalise this with hyperparameter tuning, cross-validation, and feature importance analysis (SHAP).
+
+The Test R² 0.635 ceiling suggests the linear family has not fully exhausted its capacity, but each additional polynomial degree triples the feature count, making further gains in this family expensive. P3 will move to tree-based models (Random Forest, then Gradient Boosted Trees) which capture non-linear and high-order interactions natively without polynomial expansion or regularisation tuning. The realistic target for P3 is **Test R² in the 0.70–0.75 range**.
 
 ---
 
 ## **Project Structure**
+
 ```text
 istanbul-rent-walkability-analysis/
 ├── data/
 │   ├── istanbul_emlak_data.csv               # Raw scraped listings
-│   ├── istanbul_emlak_final.csv              # P1 cleaned dataset
-│   ├── istanbul_emlak_with_geo.csv           # P2 v2 geo-enriched dataset
-│   ├── neighborhood_coordinates.csv          # 447 neighbourhood centroids
-│   ├── neighborhood_features.csv             # OSMnx POI + metro features
-│   └── istanbul_rail_stations.csv            # 220 rail stations (OSMnx)
+│   ├── istanbul_emlak_final.csv              # P1 cleaned dataset (15,272 rows)
+│   ├── unique_locations.csv                  # Unique (district, sub_district, neighborhood)
+│   ├── geocoded_locations.csv                # Nominatim geocoded centroids
+│   ├── geocode_cache.json                    # Resumable Nominatim cache
+│   ├── poi_raw/                              # Raw Overpass API JSON snapshots
+│   │   ├── raw_transit.json
+│   │   ├── raw_restaurants.json
+│   │   ├── raw_cafes.json
+│   │   ├── raw_universities.json
+│   │   └── raw_parks.json
+│   └── istanbul_emlak_with_geo.csv           # P2 modelling dataset (15,272 × 22)
 ├── p1/
 │   ├── p1_eda_24018020.ipynb                 # P1: EDA notebook
-│   └── p1_plots/                             # P1 visualizations
+│   └── p1_plots/                             # P1 visualisations
 ├── p2/
-│   ├── p2_regression_24018020.ipynb          # P2: v1 + v2 combined notebook
-│   └── p2_plots/                             # P2 visualizations (v1: original, v2: NEW_ prefix)
+│   ├── p2_regression_24018020.ipynb          # P2: regression notebook
+│   └── p2_plots/                             # P2 visualisations
+├── geocoding/
+│   ├── 01_extract_unique_locations.py
+│   ├── 02_geocode_locations.py
+│   ├── 03_fetch_pois.py
+│   ├── 04_compute_features.py
+│   └── geocoding_pipeline.md                 # Pipeline run instructions
 ├── scripts/
-│   ├── data_scraper.py                       # Sahibinden.com scraper
-│   ├── 01_diagnose.py                        # Neighbourhood anomaly detection
-│   ├── 02_clean_neighborhoods.py             # Parenthesis/slash cleanup
-│   ├── 03_geocode_test.py                    # Geocoding v1 test (baseline)
-│   ├── 03b_geocode_test_v2.py               # Geocoding v2 (bbox + type filter)
-│   ├── 03c_geocode_test_v3.py               # Geocoding v3 (addressdetails validation)
-│   ├── 04_geocode_full.py                    # Full 447-neighbourhood geocoding run
-│   ├── 04b_analyze_fails.py                  # FAIL analysis (Silivri/Şile/Çatalca)
-│   ├── 04c_fix_fails.py                      # Manual district-center fallback
-│   ├── 05_build_metro_csv.py                 # OSMnx rail station extraction
-│   ├── 06_pilot_features.py                  # 5-neighbourhood pipeline test
-│   ├── 07_compute_all_features.py            # Full OSMnx + Haversine feature run
-│   ├── 08_merge_and_validate.py              # Join geo features to listing CSV
-│   ├── 08b_quick_rf_test.py                  # Random Forest preview (R² 0.665)
-│   ├── 09_p2_extension_test.py               # v2 model benchmarks
-│   ├── 10_diagnose_poly3.py                  # Polynomial deg 3 explosion diagnosis
+│   └── data_scraper.py                       # Sahibinden.com scraper
 ├── .gitignore
 └── README.md
 ```
+
+---
+
 ## **Reproducing the Geographic Features**
-The geo-enriched dataset (`istanbul_emlak_with_geo.csv`) is not tracked in the repository. 
-To reproduce it, run the scripts in order: `04_geocode_full.py` → `05_build_metro_csv.py` → 
-`07_compute_all_features.py` → `08_merge_and_validate.py`. Total runtime: ~100 minutes.
+
+The geo-enriched dataset (`istanbul_emlak_with_geo.csv`) is not tracked in the repository. To reproduce it, run the scripts in `geocoding/` in order:
+
+```bash
+cd geocoding/
+python 01_extract_unique_locations.py    # < 1 sec
+python 02_geocode_locations.py           # ~10–15 min (Nominatim 1 req/sec)
+python 03_fetch_pois.py                  # ~2–5 min (5 city-wide Overpass queries)
+python 04_compute_features.py            # ~1–2 min (local computation)
+```
+
+Both `02` and `03` cache results — interrupted runs resume from where they left off without re-querying.
+
+---
 
 ## **References & Acknowledgements**
 
-* **Geospatial Data:** Urban amenities and street network features were extracted via OpenStreetMap using the [OSMnx](https://github.com/gboeing/osmnx) library:
-  > Boeing, G. (2025). Modeling and Analyzing Urban Networks and Amenities with OSMnx. *Geographical Analysis*, 57(4), 567-577.
+* **Geospatial Data:** Urban amenities and transit data extracted from **OpenStreetMap** via the [Overpass API](https://overpass-api.de/).
 
-* **Transit Data:** Istanbul rail station coordinates (220 stations across metro, Marmaray, tram, funicular, and commuter lines) were sourced from [OpenStreetMap](https://www.openstreetmap.org) contributors via the OSMnx `features_from_polygon` API with `railway` tags.
+* **Geocoding:** Neighbourhood centroid coordinates resolved using [Nominatim](https://nominatim.org), OpenStreetMap's open geocoding service, with a custom three-tier fallback validation pipeline.
 
-* **Geocoding:** Neighborhood centroid coordinates were resolved using [Nominatim](https://nominatim.org), OpenStreetMap's open geocoding service, via the [GeoPy](https://geopy.readthedocs.io) library with a three-strategy validation pipeline (tight → medium → district-center fallback).
+* **Distance Computation:** Haversine great-circle distances between neighbourhood centroids and POIs computed via vectorised NumPy.
 
-* **Distance Computation:** Haversine great-circle distances between neighbourhood centroids and rail stations were computed using the [math](https://docs.python.org/3/library/math.html) standard library.
+* **Data Source:** Rental listings scraped from [Sahibinden.com](https://www.sahibinden.com), Turkey's largest real estate classifieds platform, using [Selenium](https://www.selenium.dev) with [undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver).
 
-* **Data Source:** Rental listings were scraped from [Sahibinden.com](https://www.sahibinden.com), Turkey's largest real estate classifieds platform, using [Selenium](https://www.selenium.dev) with [undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver).
+* **Machine Learning:** Regression models (Linear, Ridge, Lasso, Polynomial) implemented using [scikit-learn](https://scikit-learn.org):
+  > Pedregosa et al. (2011). Scikit-learn: Machine Learning in Python. *JMLR*, 12, 2825–2830.
 
-* **Machine Learning:** Regression models (Linear, Ridge, Lasso, Polynomial) were implemented using [scikit-learn](https://scikit-learn.org):
-  > Pedregosa et al. (2011). Scikit-learn: Machine Learning in Python. *JMLR*, 12, 2825-2830.
+* **VIF Computation:** [statsmodels](https://www.statsmodels.org) `variance_inflation_factor` for the Auto-VIF feature filter.
 
-* **Data Processing:** [pandas](https://pandas.pydata.org), [NumPy](https://numpy.org), [Matplotlib](https://matplotlib.org), [Seaborn](https://seaborn.pydata.org)
-```
+* **Data Processing:** [pandas](https://pandas.pydata.org), [NumPy](https://numpy.org), [Matplotlib](https://matplotlib.org), [Seaborn](https://seaborn.pydata.org), [SciPy](https://scipy.org) (for Q-Q plots and statistical functions).

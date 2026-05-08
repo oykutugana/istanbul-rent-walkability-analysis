@@ -15,10 +15,6 @@ anaconda_projects/
 data/istanbul_emlak_cleaned.csv
 data/istanbul_emlak_fixed.csv
 data/istanbul_emlak_walkability.csv
-data/geocoded_locations.csv
-data/unique_locations.csv
-data/geocode_cache.json
-data/poi_raw/
 
 # Tamamlanan dilimler checkpoint (scraper)
 data/tamamlanan_dilimler.txt

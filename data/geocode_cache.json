@@ -1,0 +1,3152 @@
+{
+ "anadolu, arnavutkoy, arnavutkoy, Istanbul, Turkey": {
+  "lat": 41.1851685,
+  "lon": 28.7494522,
+  "display": "Anadolu Mahallesi, Arnavutköy, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "arnavutkoy merkez, arnavutkoy, arnavutkoy, Istanbul, Turkey": {
+  "lat": 41.1823968,
+  "lon": 28.7426319,
+  "display": "Arnavutköy Merkez Mahallesi, Arnavutköy, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "hadimkoy, arnavutkoy, arnavutkoy, Istanbul, Turkey": {
+  "lat": 41.1585587,
+  "lon": 28.6212692,
+  "display": "Hadımköy Mahallesi, Arnavutköy, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "i̇mrahor, arnavutkoy, arnavutkoy, Istanbul, Turkey": {
+  "lat": 41.2156124,
+  "lon": 28.7463257,
+  "display": "İmrahor Mahallesi, Arnavutköy, İstanbul, Marmara Bölgesi, 34275, Türkiye"
+ },
+ "i̇slambey, arnavutkoy, arnavutkoy, Istanbul, Turkey": {
+  "lat": 41.1885825,
+  "lon": 28.7415591,
+  "display": "İslambey Mahallesi, Arnavutköy, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "mustafa kemal pasa, arnavutkoy, arnavutkoy, Istanbul, Turkey": {
+  "lat": 41.1868267,
+  "lon": 28.7358834,
+  "display": "Mustafa Kemal Paşa Mahallesi, Arnavutköy, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "nenehatun, arnavutkoy, arnavutkoy, Istanbul, Turkey": {
+  "lat": 41.1821756,
+  "lon": 28.740234,
+  "display": "Nenehatun Caddesi, Arnavutköy Merkez Mahallesi, Arnavutköy, İstanbul, Marmara Bölgesi, 34275, Türkiye"
+ },
+ "yavuz selim, arnavutkoy, arnavutkoy, Istanbul, Turkey": {
+  "lat": 41.2063186,
+  "lon": 28.7307262,
+  "display": "Yavuz Selim Mahallesi, Arnavutköy, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "yunus emre, arnavutkoy, arnavutkoy, Istanbul, Turkey": {
+  "lat": 41.1851922,
+  "lon": 28.7605273,
+  "display": "Yunus Emre Mahallesi, Arnavutköy, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "ataturk, bogazkoy, arnavutkoy, Istanbul, Turkey": {
+  "lat": 41.180139,
+  "lon": 28.763479,
+  "display": "Boğazköy Atatürk Caddesi, Efeler Sokağı, Boğazköy İstiklal Mahallesi, Arnavutköy, İstanbul, Marmara Bölgesi, 34285, Türkiye"
+ },
+ "bogazkoy i̇stiklal, bogazkoy, arnavutkoy, Istanbul, Turkey": {
+  "lat": 41.180795,
+  "lon": 28.770647,
+  "display": "Boğazköy, Milli Egemenlik Caddesi, Boğazköy İstiklal Mahallesi, Arnavutköy, İstanbul, Marmara Bölgesi, 34285, Türkiye"
+ },
+ "hicret, bolluca, arnavutkoy, Istanbul, Turkey": null,
+ "bolluca, arnavutkoy, Istanbul, Turkey": {
+  "lat": 41.1986596,
+  "lon": 28.7666478,
+  "display": "Bolluca Mahallesi, Arnavutköy, İstanbul, Marmara Bölgesi, 34287, Türkiye"
+ },
+ "mavigol, bolluca, arnavutkoy, Istanbul, Turkey": {
+  "lat": 41.2185352,
+  "lon": 28.7696946,
+  "display": "Mavigöl Göleti, Bolluca Mahallesi, Arnavutköy, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "merkez, bolluca, arnavutkoy, Istanbul, Turkey": {
+  "lat": 41.1974977,
+  "lon": 28.7650153,
+  "display": "Bolluca Merkez Camii, İsmet İnönü Caddesi, Hicret Mahallesi, Arnavutköy, İstanbul, Marmara Bölgesi, 34287, Türkiye"
+ },
+ "deliklikaya, hadimkoy(boyalik), arnavutkoy, Istanbul, Turkey": null,
+ "hadimkoy(boyalik), arnavutkoy, Istanbul, Turkey": null,
+ "arnavutkoy, Istanbul, Turkey": {
+  "lat": 41.184471,
+  "lon": 28.7412446,
+  "display": "Arnavutköy, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "dursunkoy, hadimkoy(boyalik), arnavutkoy, Istanbul, Turkey": null,
+ "hastane, hadimkoy(boyalik), arnavutkoy, Istanbul, Turkey": null,
+ "omerli, hadimkoy(boyalik), arnavutkoy, Istanbul, Turkey": null,
+ "haracci, haracci, arnavutkoy, Istanbul, Turkey": {
+  "lat": 41.177438,
+  "lon": 28.702325,
+  "display": "Haraççı, Haraççı - Hadımköy Yolu, Haraççı Mahallesi, Arnavutköy, İstanbul, Marmara Bölgesi, 34281, Türkiye"
+ },
+ "karlibayir, haracci, arnavutkoy, Istanbul, Turkey": {
+  "lat": 41.18262,
+  "lon": 28.720008,
+  "display": "Karlıbayır, Bayrak Sokağı, Karlıbayır Mahallesi, Arnavutköy, İstanbul, Marmara Bölgesi, 34281, Türkiye"
+ },
+ "tayakadin, koyler, arnavutkoy, Istanbul, Turkey": null,
+ "koyler, arnavutkoy, Istanbul, Turkey": null,
+ "yassioren, koyler, arnavutkoy, Istanbul, Turkey": null,
+ "adnan menderes, tasoluk, arnavutkoy, Istanbul, Turkey": {
+  "lat": 41.199995,
+  "lon": 28.704637,
+  "display": "Adnan Menderes Caddesi, Egemen Caddesi, Mehmet Akif Ersoy Mahallesi, Arnavutköy, İstanbul, Marmara Bölgesi, 34283, Türkiye"
+ },
+ "fatih, tasoluk, arnavutkoy, Istanbul, Turkey": null,
+ "tasoluk, arnavutkoy, Istanbul, Turkey": {
+  "lat": 41.2070653,
+  "lon": 28.715889,
+  "display": "Taşoluk, Atatürk Caddesi, Mehmet Akif Ersoy Mahallesi, Arnavutköy, İstanbul, Marmara Bölgesi, 34283, Türkiye"
+ },
+ "maresal fevzi cakmak, tasoluk, arnavutkoy, Istanbul, Turkey": null,
+ "mehmet akif ersoy, tasoluk, arnavutkoy, Istanbul, Turkey": null,
+ "tasoluk, tasoluk, arnavutkoy, Istanbul, Turkey": {
+  "lat": 41.1915259,
+  "lon": 28.707349,
+  "display": "Taşoluk Cd., Taşoluk Mahallesi, Arnavutköy, İstanbul, Marmara Bölgesi, 34283, Türkiye"
+ },
+ "asikveysel, atasehir, atasehir, Istanbul, Turkey": {
+  "lat": 41.0045725,
+  "lon": 29.091795,
+  "display": "Aşıkveysel Mahallesi, Ataşehir, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "ataturk, atasehir, atasehir, Istanbul, Turkey": {
+  "lat": 40.9908392,
+  "lon": 29.1265531,
+  "display": "Atatürk Mahallesi, Ataşehir, İstanbul, Marmara Bölgesi, 34758, Türkiye"
+ },
+ "mevlana, atasehir, atasehir, Istanbul, Turkey": {
+  "lat": 40.9921566,
+  "lon": 29.1533813,
+  "display": "Mevlana, Necip Fazıl Bulvarı, Mevlana Mahallesi, Ataşehir, İstanbul, Marmara Bölgesi, 34779, Türkiye"
+ },
+ "mimar sinan, atasehir, atasehir, Istanbul, Turkey": {
+  "lat": 40.9862374,
+  "lon": 29.159506,
+  "display": "Mimar Sinan Mahallesi, Ataşehir, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "yenisehir, atasehir, atasehir, Istanbul, Turkey": {
+  "lat": 40.9939446,
+  "lon": 29.140645,
+  "display": "Yenişehir Mahallesi, Ataşehir, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "merkez, barbaros, atasehir, Istanbul, Turkey": {
+  "lat": 40.9951827,
+  "lon": 29.1044146,
+  "display": "Batı Ataşehir Merkez Taksi, Mor Menekşe Sokağı, Batı Ataşehir, Barbaros Mahallesi, Ataşehir, İstanbul, Marmara Bölgesi, 34746, Türkiye"
+ },
+ "ferhatpasa, ferhatpasa, atasehir, Istanbul, Turkey": {
+  "lat": 40.9766147,
+  "lon": 29.1752595,
+  "display": "Ferhatpaşa Yolu Caddesi, Büyükbakkalköy Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, 34858, Türkiye"
+ },
+ "i̇cerenkoy, i̇cerenkoy, atasehir, Istanbul, Turkey": {
+  "lat": 40.9789595,
+  "lon": 29.1262074,
+  "display": "İçerenköy, Kayışdağı Caddesi, Karakol Yolu, İçerenköy Mahallesi, Ataşehir, İstanbul, Marmara Bölgesi, 34752, Türkiye"
+ },
+ "i̇nonu, kayisdagi, atasehir, Istanbul, Turkey": {
+  "lat": 40.9785435,
+  "lon": 29.1273909,
+  "display": "Bizim Çocuk Özel Eğitim ve Rehabilitasyon Merkezi, İnönü Mahallesi, Ulusu Caddesi, 19 Mayıs Caddesi, İnönü Mahallesi, Ataşehir, İstanbul, Marmara Bölgesi, 34755, Türkiye"
+ },
+ "kayisdagi, kayisdagi, atasehir, Istanbul, Turkey": {
+  "lat": 40.9846866,
+  "lon": 29.1377413,
+  "display": "Kayışdağı, Dudullu Caddesi, Kayışdağı Mahallesi, Ataşehir, İstanbul, Marmara Bölgesi, 34755, Türkiye"
+ },
+ "kucukbakkalkoy, kucukbakkalkoy, atasehir, Istanbul, Turkey": {
+  "lat": 40.9789726,
+  "lon": 29.1137234,
+  "display": "Küçükbakkalköy, Kayışdağı Caddesi, Bağlariçi, Küçükbakkalköy Mahallesi, Ataşehir, İstanbul, Marmara Bölgesi, 34750, Türkiye"
+ },
+ "mustafa kemal, namik kemal, atasehir, Istanbul, Turkey": null,
+ "namik kemal, atasehir, Istanbul, Turkey": {
+  "lat": 40.9849843,
+  "lon": 29.1338417,
+  "display": "Namık Kemal Caddesi, Atatürk Mahallesi, Ataşehir, İstanbul, Marmara Bölgesi, 34758, Türkiye"
+ },
+ "esatpasa, ornek, atasehir, Istanbul, Turkey": null,
+ "ornek, atasehir, Istanbul, Turkey": {
+  "lat": 40.9956672,
+  "lon": 29.0784307,
+  "display": "Örnek Mahallesi, Ataşehir, İstanbul, Marmara Bölgesi, 34704, Türkiye"
+ },
+ "fetih, ornek, atasehir, Istanbul, Turkey": null,
+ "ornek, ornek, atasehir, Istanbul, Turkey": {
+  "lat": 40.9926322,
+  "lon": 29.0839497,
+  "display": "Örnek Parkı, Örnek Mahallesi, Ataşehir, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "yeni camlica, yeni camlica, atasehir, Istanbul, Turkey": {
+  "lat": 40.988064,
+  "lon": 29.166911,
+  "display": "Yeni Çamlıca, Dursunbey Caddesi, Yeni Çamlıca Mahallesi, Ataşehir, İstanbul, Marmara Bölgesi, 34779, Türkiye"
+ },
+ "merkez, yeni sahra, atasehir, Istanbul, Turkey": {
+  "lat": 40.9899001,
+  "lon": 29.0901932,
+  "display": "Yenisahra Merkez Camii, Odabaşı Sokağı, Yenisahra Mahallesi, Ataşehir, İstanbul, Marmara Bölgesi, 34746, Türkiye"
+ },
+ "ambarli, ambarli, avcilar, Istanbul, Turkey": {
+  "lat": 40.9743033,
+  "lon": 28.7143813,
+  "display": "Ambarlı, Fevzi Çakmak Caddesi, Ambarlı Mahallesi, Avcılar, İstanbul, Marmara Bölgesi, 34315, Türkiye"
+ },
+ "cihangir, avcilar, avcilar, Istanbul, Turkey": {
+  "lat": 40.9873293,
+  "lon": 28.7097252,
+  "display": "Cihangir Mahallesi, Avcılar, İstanbul, Marmara Bölgesi, 34310, Türkiye"
+ },
+ "denizkoskler, avcilar, avcilar, Istanbul, Turkey": {
+  "lat": 40.9764683,
+  "lon": 28.7330024,
+  "display": "Denizköşkler Mahallesi, Avcılar, İstanbul, Marmara Bölgesi, 34315, Türkiye"
+ },
+ "merkez, avcilar, avcilar, Istanbul, Turkey": {
+  "lat": 40.9818362,
+  "lon": 28.7223189,
+  "display": "Merkez Mahallesi, Avcılar, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "mustafa kemal pasa, avcilar, avcilar, Istanbul, Turkey": {
+  "lat": 41.0017915,
+  "lon": 28.7060425,
+  "display": "Mustafa Kemal Paşa Mahallesi, Avcılar, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "firuzkoy, firuzkoy, avcilar, Istanbul, Turkey": {
+  "lat": 41.016428,
+  "lon": 28.70356,
+  "display": "Firuzköy, Destan Sokağı, Firuzköy Mahallesi, Avcılar, İstanbul, Marmara Bölgesi, 34325, Türkiye"
+ },
+ "tahtakale, firuzkoy, avcilar, Istanbul, Turkey": null,
+ "firuzkoy, avcilar, Istanbul, Turkey": {
+  "lat": 41.0085033,
+  "lon": 28.7100714,
+  "display": "Firuzköy Mahallesi, Avcılar, İstanbul, Marmara Bölgesi, 34325, Türkiye"
+ },
+ "gumuspala, gumuspala, avcilar, Istanbul, Turkey": {
+  "lat": 40.9807848,
+  "lon": 28.7352667,
+  "display": "Gümüşpala İlkokulu, Gümüşpala Mahallesi, Avcılar, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "universite, gumuspala, avcilar, Istanbul, Turkey": null,
+ "gumuspala, avcilar, Istanbul, Turkey": {
+  "lat": 40.98106,
+  "lon": 28.7357032,
+  "display": "Gümüşpala Mahallesi, Avcılar, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "yesilkent, yesilkent, avcilar, Istanbul, Turkey": {
+  "lat": 41.0331409,
+  "lon": 28.7093766,
+  "display": "Yeşilkent Merkez Cami, Tevfik Fikret Caddesi, Yeşilkent Mahallesi, Avcılar, İstanbul, Marmara Bölgesi, 34325, Türkiye"
+ },
+ "100. yil, bagcilar, bagcilar, Istanbul, Turkey": {
+  "lat": 41.0636561,
+  "lon": 28.8525699,
+  "display": "100. Yıl Mahallesi, Bağcılar, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "cinar, bagcilar, bagcilar, Istanbul, Turkey": {
+  "lat": 41.0368162,
+  "lon": 28.8605304,
+  "display": "Çınar Mahallesi, Bağcılar, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "fevzi cakmak, bagcilar, bagcilar, Istanbul, Turkey": {
+  "lat": 41.0457899,
+  "lon": 28.8556182,
+  "display": "Fevzi Çakmak Mahallesi, Bağcılar, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "goztepe, bagcilar, bagcilar, Istanbul, Turkey": {
+  "lat": 41.056831,
+  "lon": 28.8479795,
+  "display": "Göztepe, O-3, Fatih Mahallesi, Bağcılar, İstanbul, Marmara Bölgesi, 34218, Türkiye"
+ },
+ "merkez, bagcilar, bagcilar, Istanbul, Turkey": {
+  "lat": 41.0323551,
+  "lon": 28.8633027,
+  "display": "Merkez Mahallesi, Bağcılar, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "sancaktepe, bagcilar, bagcilar, Istanbul, Turkey": {
+  "lat": 41.0366758,
+  "lon": 28.8571152,
+  "display": "Sancaktepe Mahallesi, Bağcılar, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "barbaros, barbaros/yesilbag, bagcilar, Istanbul, Turkey": null,
+ "barbaros/yesilbag, bagcilar, Istanbul, Turkey": null,
+ "bagcilar, Istanbul, Turkey": {
+  "lat": 41.034547,
+  "lon": 28.8567558,
+  "display": "Bağcılar, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "i̇nonu, barbaros/yesilbag, bagcilar, Istanbul, Turkey": null,
+ "kazim karabekir, barbaros/yesilbag, bagcilar, Istanbul, Turkey": null,
+ "yavuz selim, barbaros/yesilbag, bagcilar, Istanbul, Turkey": null,
+ "yildiztepe, barbaros/yesilbag, bagcilar, Istanbul, Turkey": null,
+ "demirkapi, demirkapi, bagcilar, Istanbul, Turkey": {
+  "lat": 41.051991,
+  "lon": 28.839979,
+  "display": "Demirkapı Mahallesi, Velioğlu Caddesi, Demirkapı Mahallesi, Bağcılar, İstanbul, Marmara Bölgesi, 34218, Türkiye"
+ },
+ "15 temmuz, gunesli, bagcilar, Istanbul, Turkey": {
+  "lat": 41.038533,
+  "lon": 28.821263,
+  "display": "15 Temmuz Mahallesi Muhtarlığı, Şehit Hidayet Yılmaz Sokağı, 15 Temmuz Mahallesi, Bağcılar, İstanbul, Marmara Bölgesi, 34212, Türkiye"
+ },
+ "gunesli, gunesli, bagcilar, Istanbul, Turkey": {
+  "lat": 41.0436353,
+  "lon": 28.8249417,
+  "display": "Avrupa Konutları Güneşli-2 İnşaatı, Güneşli Mahallesi, Bağcılar, İstanbul, Marmara Bölgesi, 34212, Türkiye"
+ },
+ "baglar, hurriyet, bagcilar, Istanbul, Turkey": {
+  "lat": 41.0265041,
+  "lon": 28.8291755,
+  "display": "Baglar berber, Atatürk Caddesi, Bağlar Mahallesi, Bağcılar, İstanbul, Marmara Bölgesi, 34212, Türkiye"
+ },
+ "hurriyet, hurriyet, bagcilar, Istanbul, Turkey": {
+  "lat": 41.027907,
+  "lon": 28.829196,
+  "display": "Hürriyet Mahallesi, Atatürk Caddesi, Bağlar Mahallesi, Bağcılar, İstanbul, Marmara Bölgesi, 34212, Türkiye"
+ },
+ "fatih, kemalpasa, bagcilar, Istanbul, Turkey": null,
+ "kemalpasa, bagcilar, Istanbul, Turkey": {
+  "lat": 41.0511389,
+  "lon": 28.8514469,
+  "display": "Kemalpaşa Mahallesi, Bağcılar, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "kemalpasa, kemalpasa, bagcilar, Istanbul, Turkey": {
+  "lat": 41.055385,
+  "lon": 28.850816,
+  "display": "Kemalpaşa Mahallesi, O-3 Güney Yanyolu, Kemalpaşa Mahallesi, Bağcılar, İstanbul, Marmara Bölgesi, 34218, Türkiye"
+ },
+ "kirazli, kirazli, bagcilar, Istanbul, Turkey": {
+  "lat": 41.0318236,
+  "lon": 28.8422874,
+  "display": "Kirazlı, Mevlana Caddesi, Kirazlı Mahallesi, Bağcılar, İstanbul, Marmara Bölgesi, 34212, Türkiye"
+ },
+ "yenimahalle, kirazli, bagcilar, Istanbul, Turkey": {
+  "lat": 41.0413498,
+  "lon": 28.8439055,
+  "display": "Yenimahalle, Ahmet Kabaklı Caddesi, Yenimahalle Mahallesi, Bağcılar, İstanbul, Marmara Bölgesi, 34212, Türkiye"
+ },
+ "merkez, mahmutbey, bagcilar, Istanbul, Turkey": {
+  "lat": 41.0548789,
+  "lon": 28.8205125,
+  "display": "Mahmutbey Merkez Kıraathanes, Gazi Mustafa Kemal Caddesi, Mahmutbey Mahallesi, Bağcılar, İstanbul, Marmara Bölgesi, 34218, Türkiye"
+ },
+ "cobancesme, cobancesme, bahcelievler, Istanbul, Turkey": {
+  "lat": 40.9997399,
+  "lon": 28.8226129,
+  "display": "Çobançeşme, Sanayi Caddesi, Yenibosna Merkez Mahallesi, Bahçelievler, İstanbul, Marmara Bölgesi, 34197, Türkiye"
+ },
+ "merkez, cumhuriyet, bahcelievler, Istanbul, Turkey": {
+  "lat": 41.0168134,
+  "lon": 28.8581973,
+  "display": "Cumhuriyet Mahallesi Merkez Camii, Ballıca Sokağı, Cumhuriyet Mahallesi, Bahçelievler, İstanbul, Marmara Bölgesi, 34186, Türkiye"
+ },
+ "fevzi cakmak, fevzi cakmak, bahcelievler, Istanbul, Turkey": {
+  "lat": 40.999316,
+  "lon": 28.834468,
+  "display": "Fevzi Çakmak Mahallesi, Yıldırım Beyazıd Caddesi, Zafer Mahallesi, Bahçelievler, İstanbul, Marmara Bölgesi, 34197, Türkiye"
+ },
+ "hurriyet, hurriyet, bahcelievler, Istanbul, Turkey": {
+  "lat": 41.0005964,
+  "lon": 28.8405693,
+  "display": "Hürriyet Caddesi, Hürriyet Mahallesi, Bahçelievler, İstanbul, Marmara Bölgesi, 34188, Türkiye"
+ },
+ "kocasinan merkez, kocasinan, bahcelievler, Istanbul, Turkey": {
+  "lat": 41.0184194,
+  "lon": 28.8420305,
+  "display": "Kocasinan Merkez Camii, Mahmutbey Caddesi, Kocasinan Merkez Mahallesi, Bahçelievler, İstanbul, Marmara Bölgesi, 34188, Türkiye"
+ },
+ "bahcelievler, merkez, bahcelievler, Istanbul, Turkey": {
+  "lat": 41.0186755,
+  "lon": 28.8289865,
+  "display": "Garden Hill Bahçelievler, Yenibosna Merkez Mahallesi, Bahçelievler, İstanbul, Marmara Bölgesi, 34197, Türkiye"
+ },
+ "sirinevler, sirinevler, bahcelievler, Istanbul, Turkey": {
+  "lat": 40.9917268,
+  "lon": 28.8468846,
+  "display": "Şirinevler, D-100, Şirinevler Mahallesi, Bahçelievler, İstanbul, Marmara Bölgesi, 34188, Türkiye"
+ },
+ "siyavuspasa, siyavuspasa, bahcelievler, Istanbul, Turkey": {
+  "lat": 40.99851,
+  "lon": 28.857668,
+  "display": "Siyavuşpaşa, Adnan Kahveci Bulvarı, Yayla, Siyavuşpaşa Mahallesi, Bahçelievler, İstanbul, Marmara Bölgesi, 34180, Türkiye"
+ },
+ "soganli, soganli, bahcelievler, Istanbul, Turkey": {
+  "lat": 41.014022,
+  "lon": 28.857484,
+  "display": "Soğanlı, Edirne Caddesi, Camlıkahve, Soğanlı Mahallesi, Bahçelievler, İstanbul, Marmara Bölgesi, 34183, Türkiye"
+ },
+ "yenibosna merkez, yenibosna, bahcelievler, Istanbul, Turkey": {
+  "lat": 41.001857,
+  "lon": 28.834161,
+  "display": "Yenibosna Merkez Camii, Yıldırım Beyazıd Caddesi, Fevzi Çakmak Mahallesi, Bahçelievler, İstanbul, Marmara Bölgesi, 34197, Türkiye"
+ },
+ "merkez, zafer, bahcelievler, Istanbul, Turkey": {
+  "lat": 41.0025239,
+  "lon": 28.8345438,
+  "display": "Yenibosna Merkez Camii, Vadi Sokağı, Zafer Mahallesi, Bahçelievler, İstanbul, Marmara Bölgesi, 34197, Türkiye"
+ },
+ "atakoy 1. kisim, atakoy, bakirkoy, Istanbul, Turkey": {
+  "lat": 40.9741972,
+  "lon": 28.8496451,
+  "display": "Seapearl Ataköy, Ataköy, Ataköy 2-5-6. Kısım Mahallesi, Bakırköy, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "atakoy 2-5-6. kisim, atakoy, bakirkoy, Istanbul, Turkey": {
+  "lat": 40.9741972,
+  "lon": 28.8496451,
+  "display": "Seapearl Ataköy, Ataköy, Ataköy 2-5-6. Kısım Mahallesi, Bakırköy, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "atakoy 3-4-11. kisim, atakoy, bakirkoy, Istanbul, Turkey": null,
+ "atakoy, bakirkoy, Istanbul, Turkey": {
+  "lat": 40.9802282,
+  "lon": 28.8562265,
+  "display": "Ataköy, Kilitbahir Sokağı, Ataköy 2-5-6. Kısım Mahallesi, Bakırköy, İstanbul, Marmara Bölgesi, 34158, Türkiye"
+ },
+ "atakoy 7-8-9-10. kisim, atakoy, bakirkoy, Istanbul, Turkey": {
+  "lat": 40.9903731,
+  "lon": 28.834506,
+  "display": "Sip'in Coffee and Smoothie, 22, Bedri Rahmi Eyüboğlu Caddesi, Ataköy 7-8-9-10. Kısım Mahallesi, Bakırköy, İstanbul, Marmara Bölgesi, 34140, Türkiye"
+ },
+ "merkez, cevizlik, bakirkoy, Istanbul, Turkey": null,
+ "cevizlik, bakirkoy, Istanbul, Turkey": {
+  "lat": 40.9785708,
+  "lon": 28.8754801,
+  "display": "Cevizlik Mahallesi, Bakırköy, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "sakizagaci, cevizlik, bakirkoy, Istanbul, Turkey": null,
+ "yenimahalle, cevizlik, bakirkoy, Istanbul, Turkey": null,
+ "basinkoy, florya, bakirkoy, Istanbul, Turkey": null,
+ "florya, bakirkoy, Istanbul, Turkey": {
+  "lat": 40.972897,
+  "lon": 28.7876122,
+  "display": "Florya, Valilik Yolu Caddesi, Basınköy Mahallesi, Bakırköy, İstanbul, Marmara Bölgesi, 34153, Türkiye"
+ },
+ "senlikkoy, florya, bakirkoy, Istanbul, Turkey": {
+  "lat": 40.981024,
+  "lon": 28.7938759,
+  "display": "Şenlikköy Polis Karakolu, Mektep Sokağı, Florya, Şenlikköy Mahallesi, Bakırköy, İstanbul, Marmara Bölgesi, 34153, Türkiye"
+ },
+ "merkez, kartaltepe, bakirkoy, Istanbul, Turkey": null,
+ "kartaltepe, bakirkoy, Istanbul, Turkey": {
+  "lat": 40.9852114,
+  "lon": 28.8759551,
+  "display": "Kartaltepe Mahallesi, Bakırköy, İstanbul, Marmara Bölgesi, 34145, Türkiye"
+ },
+ "osmaniye, kartaltepe, bakirkoy, Istanbul, Turkey": null,
+ "yesilkoy, yesilkoy, bakirkoy, Istanbul, Turkey": {
+  "lat": 40.9626544,
+  "lon": 28.824857,
+  "display": "Yeşilköy, Eski Havaalanı Caddesi, Yeşilköy Mahallesi, Bakırköy, İstanbul, Marmara Bölgesi, 34149, Türkiye"
+ },
+ "yesilyurt, yesilkoy, bakirkoy, Istanbul, Turkey": {
+  "lat": 40.9635642,
+  "lon": 28.8349914,
+  "display": "Yeşilyurt İstasyon Caddesi, Yeşilyurt Mahallesi, Bakırköy, İstanbul, Marmara Bölgesi, 34149, Türkiye"
+ },
+ "merkez, zeytinlik, bakirkoy, Istanbul, Turkey": {
+  "lat": 40.9991156,
+  "lon": 28.8744999,
+  "display": "M3 Bakırköy Sahil - Kayaşehir Merkez Metro Hattı, Sporcu Sokağı, Zeytinlik Mahallesi, Bakırköy, İstanbul, Marmara Bölgesi, 34140, Türkiye"
+ },
+ "merkez, zuhuratbaba, bakirkoy, Istanbul, Turkey": null,
+ "zuhuratbaba, bakirkoy, Istanbul, Turkey": {
+  "lat": 40.9824138,
+  "lon": 28.8711297,
+  "display": "Zuhuratbaba Mahallesi, Bakırköy, İstanbul, Marmara Bölgesi, 34147, Türkiye"
+ },
+ "bahcesehir 1. kisim, bahcesehir, basaksehir, Istanbul, Turkey": {
+  "lat": 41.0622498,
+  "lon": 28.6896148,
+  "display": "Özel Bahçeşehir Sağlık Polikliniği, 1, Cenk Koray Caddesi, Akasya 03, Bahçeşehir, Bahçeşehir 1. Kısım Mahallesi, Başakşehir, İstanbul, Marmara Bölgesi, 34488, Türkiye"
+ },
+ "bahcesehir 2. kisim, bahcesehir, basaksehir, Istanbul, Turkey": {
+  "lat": 41.0825866,
+  "lon": 28.6764676,
+  "display": "Aras real estate of Turkey, 8, 12. Cadde, Boğazköy, Bahçeşehir 2. Kısım Mahallesi, Başakşehir, İstanbul, Marmara Bölgesi, 34000, Türkiye"
+ },
+ "basak, basaksehir, basaksehir, Istanbul, Turkey": {
+  "lat": 41.1034651,
+  "lon": 28.803761,
+  "display": "Başak Mahallesi, Başakşehir, İstanbul, Marmara Bölgesi, 34480, Türkiye"
+ },
+ "basaksehir, basaksehir, basaksehir, Istanbul, Turkey": {
+  "lat": 41.1060988,
+  "lon": 28.7907747,
+  "display": "Başakşehir Mahallesi, Başakşehir, İstanbul, Marmara Bölgesi, 34480, Türkiye"
+ },
+ "altinsehir, i̇kitelli, basaksehir, Istanbul, Turkey": null,
+ "i̇kitelli, basaksehir, Istanbul, Turkey": {
+  "lat": 41.0711324,
+  "lon": 28.803895,
+  "display": "İkitelli Sanayi, Bedrettimn Dalan Bulvarı, İkitelli OSB Mahallesi, Başakşehir, İstanbul, Marmara Bölgesi, 34490, Türkiye"
+ },
+ "guvercintepe, i̇kitelli, basaksehir, Istanbul, Turkey": null,
+ "i̇kitelli osb, i̇kitelli, basaksehir, Istanbul, Turkey": {
+  "lat": 41.0928922,
+  "lon": 28.7987071,
+  "display": "Trassir Turkey, 1/1/849, OSB Mavi Caddesi, İkitelli OSB Mahallesi, Başakşehir, İstanbul, Marmara Bölgesi, 34384, Türkiye"
+ },
+ "kayabasi, i̇kitelli, basaksehir, Istanbul, Turkey": null,
+ "sahintepe, i̇kitelli, basaksehir, Istanbul, Turkey": null,
+ "ziya gokalp, i̇kitelli, basaksehir, Istanbul, Turkey": null,
+ "samlar, koyler, basaksehir, Istanbul, Turkey": null,
+ "koyler, basaksehir, Istanbul, Turkey": null,
+ "basaksehir, Istanbul, Turkey": {
+  "lat": 41.1075794,
+  "lon": 28.7950711,
+  "display": "Başakşehir, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "altintepsi, altintepsi, bayrampasa, Istanbul, Turkey": {
+  "lat": 41.0387966,
+  "lon": 28.9014711,
+  "display": "T.C. Altıntepsi Mahalle Muhtarlığı, Lozan Sokağı, Altıntepsi Mahallesi, Bayrampaşa, İstanbul, Marmara Bölgesi, 34035, Türkiye"
+ },
+ "terazidere, altintepsi, bayrampasa, Istanbul, Turkey": null,
+ "altintepsi, bayrampasa, Istanbul, Turkey": {
+  "lat": 41.0388737,
+  "lon": 28.9015865,
+  "display": "Altıntepsi Mahallesi, Bayrampaşa, İstanbul, Marmara Bölgesi, 34035, Türkiye"
+ },
+ "vatan, altintepsi, bayrampasa, Istanbul, Turkey": null,
+ "i̇smet pasa, muratpasa, bayrampasa, Istanbul, Turkey": null,
+ "muratpasa, bayrampasa, Istanbul, Turkey": {
+  "lat": 41.0473011,
+  "lon": 28.9062926,
+  "display": "Muratpaşa Mahallesi, Bayrampaşa, İstanbul, Marmara Bölgesi, 34040, Türkiye"
+ },
+ "kartaltepe, muratpasa, bayrampasa, Istanbul, Turkey": null,
+ "muratpasa, muratpasa, bayrampasa, Istanbul, Turkey": {
+  "lat": 41.0467204,
+  "lon": 28.9082471,
+  "display": "İSPARK Bayrampaşa Muratpaşa Yeraltı Otoparkı, İlhan Sokağı, Bereç, Muratpaşa Mahallesi, Bayrampaşa, İstanbul, Marmara Bölgesi, 34040, Türkiye"
+ },
+ "orta, numunebag, bayrampasa, Istanbul, Turkey": null,
+ "numunebag, bayrampasa, Istanbul, Turkey": {
+  "lat": 41.0375352,
+  "lon": 28.9136532,
+  "display": "Numunebağ, Yenidoğan Mahallesi, Bayrampaşa, İstanbul, Marmara Bölgesi, 34030, Türkiye"
+ },
+ "yenidogan, numunebag, bayrampasa, Istanbul, Turkey": null,
+ "cevatpasa, yildirim, bayrampasa, Istanbul, Turkey": null,
+ "yildirim, bayrampasa, Istanbul, Turkey": {
+  "lat": 41.0637573,
+  "lon": 28.8914625,
+  "display": "Yıldırım Mahallesi, Bayrampaşa, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "kocatepe, yildirim, bayrampasa, Istanbul, Turkey": null,
+ "yildirim, yildirim, bayrampasa, Istanbul, Turkey": {
+  "lat": 41.0684267,
+  "lon": 28.888329,
+  "display": "Yıldırım Beyazıt Parkı, Yıldırım Mahallesi, Bayrampaşa, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "abbasaga, abbasaga, besiktas, Istanbul, Turkey": {
+  "lat": 41.0467657,
+  "lon": 29.0050743,
+  "display": "Abbasağa Kuyu Sokağı, Türkali Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34357, Türkiye"
+ },
+ "cihannuma, abbasaga, besiktas, Istanbul, Turkey": null,
+ "abbasaga, besiktas, Istanbul, Turkey": {
+  "lat": 41.0495742,
+  "lon": 29.0051707,
+  "display": "Abbasağa Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "sinanpasa, abbasaga, besiktas, Istanbul, Turkey": null,
+ "akat, akatlar, besiktas, Istanbul, Turkey": null,
+ "akatlar, besiktas, Istanbul, Turkey": {
+  "lat": 41.086865,
+  "lon": 29.0235417,
+  "display": "BJK Akatlar Arena, Gelincik Sokak, Karanfilköy, Akat Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34335, Türkiye"
+ },
+ "arnavutkoy, arnavutkoy, besiktas, Istanbul, Turkey": {
+  "lat": 41.0667815,
+  "lon": 29.0433754,
+  "display": "Arnavutköy, Bebek Arnavutköy Caddesi, Arnavutköy Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34345, Türkiye"
+ },
+ "kurucesme, arnavutkoy, besiktas, Istanbul, Turkey": {
+  "lat": 41.0645953,
+  "lon": 29.0410169,
+  "display": "Kuruçeşme Koleji İsbike İstasyonu, Bebek Arnavutköy Caddesi, Arnavutköy Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34345, Türkiye"
+ },
+ "merkez, bebek, besiktas, Istanbul, Turkey": null,
+ "bebek, besiktas, Istanbul, Turkey": {
+  "lat": 41.0790159,
+  "lon": 29.0439589,
+  "display": "Bebek Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34342, Türkiye"
+ },
+ "merkez, etiler, besiktas, Istanbul, Turkey": null,
+ "etiler, besiktas, Istanbul, Turkey": {
+  "lat": 41.0824567,
+  "lon": 29.0375989,
+  "display": "Etiler, Nisbetiye Caddesi, Etiler Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34337, Türkiye"
+ },
+ "balmumcu, gayrettepe, besiktas, Istanbul, Turkey": {
+  "lat": 41.059906,
+  "lon": 29.010659,
+  "display": "Balmumcu, Barbaros Bulvarı, Dikilitaş Mahallesi, Gayrettepe Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34349, Türkiye"
+ },
+ "dikilitas, gayrettepe, besiktas, Istanbul, Turkey": {
+  "lat": 41.0582262,
+  "lon": 29.0090991,
+  "display": "Dikilitaş, Dolmabahçe - Levazım Tüneli, Ulus, Gayrettepe Mahallesi, Ulus Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34349, Türkiye"
+ },
+ "merkez, gayrettepe, besiktas, Istanbul, Turkey": {
+  "lat": 41.0634366,
+  "lon": 29.0105114,
+  "display": "Smeg Türkiye Merkez Ofis, 52, Yıldız Posta Caddesi, Gayrettepe Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34349, Türkiye"
+ },
+ "yildiz, gayrettepe, besiktas, Istanbul, Turkey": {
+  "lat": 41.0653295,
+  "lon": 29.0088968,
+  "display": "Yıldız Posta Caddesi, Gayrettepe Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34349, Türkiye"
+ },
+ "kultur, levazim, besiktas, Istanbul, Turkey": null,
+ "levazim, besiktas, Istanbul, Turkey": {
+  "lat": 41.0627271,
+  "lon": 29.0196144,
+  "display": "Levazım Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "levazim, levazim, besiktas, Istanbul, Turkey": {
+  "lat": 41.0552421,
+  "lon": 29.0043262,
+  "display": "Dolmabahçe - Levazım Tüneli, Dikilitaş Mahallesi, Levazım Mahallesi, Ulus Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34349, Türkiye"
+ },
+ "nisbetiye, levazim, besiktas, Istanbul, Turkey": null,
+ "ulus, levazim, besiktas, Istanbul, Turkey": {
+  "lat": 41.0599076,
+  "lon": 29.0258356,
+  "display": "Ulus Palmiye Sitesi, Ambarlıdere Yolu, Ulus, Ortaköy Mahallesi, Ulus Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34340, Türkiye"
+ },
+ "konaklar, levent, besiktas, Istanbul, Turkey": null,
+ "levent, besiktas, Istanbul, Turkey": {
+  "lat": 41.0815723,
+  "lon": 29.0169502,
+  "display": "Levent Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "merkez, levent, besiktas, Istanbul, Turkey": {
+  "lat": 41.0755237,
+  "lon": 29.0159594,
+  "display": "İSKİ Avrupa Bölgesi Terfi Merkez Şubesi Müdürlüğü Levent Depo ve Terfi Merkezi, Karakol Sokağı, Levent Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34330, Türkiye"
+ },
+ "mecidiye, ortakoy, besiktas, Istanbul, Turkey": null,
+ "ortakoy, besiktas, Istanbul, Turkey": {
+  "lat": 41.0546272,
+  "lon": 29.0281901,
+  "display": "Ortaköy Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34347, Türkiye"
+ },
+ "ortakoy, ortakoy, besiktas, Istanbul, Turkey": {
+  "lat": 41.049536,
+  "lon": 29.029947,
+  "display": "Ortaköy, 15 Temmuz Şehitler Köprüsü, Ortaköy Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34347, Türkiye"
+ },
+ "muradiye, turkali, besiktas, Istanbul, Turkey": {
+  "lat": 41.047459,
+  "lon": 29.000023,
+  "display": "Muradiye, Nüzhetiye Caddesi, Muradiye Mahallesi, Türkali Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34357, Türkiye"
+ },
+ "turkali, turkali, besiktas, Istanbul, Turkey": {
+  "lat": 41.0480378,
+  "lon": 29.0023817,
+  "display": "Türkali Köprü Sokağı, Türkali Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34357, Türkiye"
+ },
+ "visnezade, turkali, besiktas, Istanbul, Turkey": null,
+ "turkali, besiktas, Istanbul, Turkey": {
+  "lat": 41.047674,
+  "lon": 29.0023049,
+  "display": "Türkali Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "anadolu hisari, anadoluhisari, beykoz, Istanbul, Turkey": {
+  "lat": 41.0820905,
+  "lon": 29.0670489,
+  "display": "Anadolu Hisarı, Körfez Caddesi, Anadolu Hisarı Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34810, Türkiye"
+ },
+ "kanlica, anadoluhisari, beykoz, Istanbul, Turkey": null,
+ "anadoluhisari, beykoz, Istanbul, Turkey": {
+  "lat": 41.0820905,
+  "lon": 29.0670489,
+  "display": "Anadolu Hisarı, Körfez Caddesi, Anadolu Hisarı Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34810, Türkiye"
+ },
+ "kavacik, anadoluhisari, beykoz, Istanbul, Turkey": {
+  "lat": 41.0908081,
+  "lon": 29.0884133,
+  "display": "Kavacık, 2. Çevre Yolu, Otağtepe, Kavacık Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34810, Türkiye"
+ },
+ "gumussuyu, beykoz, beykoz, Istanbul, Turkey": {
+  "lat": 41.1274751,
+  "lon": 29.1019054,
+  "display": "Gümüşsuyu Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34820, Türkiye"
+ },
+ "merkez, beykoz, beykoz, Istanbul, Turkey": {
+  "lat": 41.1344539,
+  "lon": 29.0926456,
+  "display": "Merkez Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "ortacesme, beykoz, beykoz, Istanbul, Turkey": {
+  "lat": 41.1454717,
+  "lon": 29.0873267,
+  "display": "Ortaçeşme Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "tokatkoy, beykoz, beykoz, Istanbul, Turkey": {
+  "lat": 41.1512733,
+  "lon": 29.0902937,
+  "display": "Tokatköy Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "yeni mahalle, beykoz, beykoz, Istanbul, Turkey": {
+  "lat": 41.0683149,
+  "lon": 29.0822276,
+  "display": "Yeni Mahalle Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "baklaci, cavusbasi, beykoz, Istanbul, Turkey": null,
+ "cavusbasi, beykoz, Istanbul, Turkey": {
+  "lat": 41.0805835,
+  "lon": 29.1402268,
+  "display": "Çavuşbaşı Çiftlik Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34830, Türkiye"
+ },
+ "cavusbasi ciftlik, cavusbasi, beykoz, Istanbul, Turkey": {
+  "lat": 41.0764977,
+  "lon": 29.1359827,
+  "display": "Beykoz Çavuşbaşı Çiftlik Mahalle Parkı, Çavuşbaşı, Çavuşbaşı Çiftlik Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "cengeldere, cavusbasi, beykoz, Istanbul, Turkey": null,
+ "fatih, cavusbasi, beykoz, Istanbul, Turkey": null,
+ "yavuz selim, cavusbasi, beykoz, Istanbul, Turkey": null,
+ "cubuklu, cubuklu, beykoz, Istanbul, Turkey": {
+  "lat": 41.106783,
+  "lon": 29.084008,
+  "display": "Çubuklu, Şehit Ersin Güner Caddesi, Çubuklu Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34805, Türkiye"
+ },
+ "ruzgarlibahce, cubuklu, beykoz, Istanbul, Turkey": null,
+ "cubuklu, beykoz, Istanbul, Turkey": {
+  "lat": 41.1070356,
+  "lon": 29.0823348,
+  "display": "Çubuklu Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "goksu, goksu, beykoz, Istanbul, Turkey": {
+  "lat": 41.079174,
+  "lon": 29.074364,
+  "display": "Göksu, Göksu Caddesi, Göksu Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34815, Türkiye"
+ },
+ "goztepe, goksu, beykoz, Istanbul, Turkey": null,
+ "goksu, beykoz, Istanbul, Turkey": {
+  "lat": 41.0788847,
+  "lon": 29.0735518,
+  "display": "Göksu Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "dereseki, koyler, beykoz, Istanbul, Turkey": null,
+ "koyler, beykoz, Istanbul, Turkey": null,
+ "beykoz, Istanbul, Turkey": {
+  "lat": 41.1343001,
+  "lon": 29.0920378,
+  "display": "Beykoz, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "elmali, koyler, beykoz, Istanbul, Turkey": null,
+ "ornekkoy, koyler, beykoz, Istanbul, Turkey": null,
+ "pasamandira, koyler, beykoz, Istanbul, Turkey": null,
+ "riva, koyler, beykoz, Istanbul, Turkey": null,
+ "acarlar, pasabahce, beykoz, Istanbul, Turkey": null,
+ "pasabahce, beykoz, Istanbul, Turkey": {
+  "lat": 41.1158743,
+  "lon": 29.0954233,
+  "display": "Paşabahçe Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "cigdem, pasabahce, beykoz, Istanbul, Turkey": {
+  "lat": 41.1128654,
+  "lon": 29.0971924,
+  "display": "Çiğdem İlkokulu, Karagözsırtı Caddesi, Çiğdem Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34800, Türkiye"
+ },
+ "i̇ncirkoy, pasabahce, beykoz, Istanbul, Turkey": null,
+ "pasabahce, pasabahce, beykoz, Istanbul, Turkey": {
+  "lat": 41.115726,
+  "lon": 29.094976,
+  "display": "Paşabahçe, Barbaros Caddesi, Paşabahçe Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34800, Türkiye"
+ },
+ "soguksu, pasabahce, beykoz, Istanbul, Turkey": {
+  "lat": 41.1141764,
+  "lon": 29.1048163,
+  "display": "PTT Soğuksu Şubesi, Mehmet Akif Ersoy Caddesi, İncirköy Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34800, Türkiye"
+ },
+ "camlibahce, tokatkoy, beykoz, Istanbul, Turkey": null,
+ "tokatkoy, beykoz, Istanbul, Turkey": {
+  "lat": 41.1512733,
+  "lon": 29.0902937,
+  "display": "Tokatköy Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "yalikoy, tokatkoy, beykoz, Istanbul, Turkey": null,
+ "adnan kahveci, gurpinar, beylikduzu, Istanbul, Turkey": null,
+ "gurpinar, beylikduzu, Istanbul, Turkey": {
+  "lat": 40.9898645,
+  "lon": 28.6110486,
+  "display": "Gürpınar Mahallesi, Beylikdüzü, İstanbul, Marmara Bölgesi, 34528, Türkiye"
+ },
+ "dereagzi, gurpinar, beylikduzu, Istanbul, Turkey": {
+  "lat": 40.976547,
+  "lon": 28.602989,
+  "display": "Dereağzı Mahallesi, Ömer Seyfettin Caddesi, Gürpınar Mahallesi, Beylikdüzü, İstanbul, Marmara Bölgesi, 34528, Türkiye"
+ },
+ "gurpinar, gurpinar, beylikduzu, Istanbul, Turkey": {
+  "lat": 40.9921341,
+  "lon": 28.5972406,
+  "display": "Beylikdüzü Gürpınar Sahili Halk Plajı, Gürpınar Mahallesi, Beylikdüzü, İstanbul, Marmara Bölgesi, 34528, Türkiye"
+ },
+ "baris, kavakli, beylikduzu, Istanbul, Turkey": null,
+ "kavakli, beylikduzu, Istanbul, Turkey": {
+  "lat": 40.9819486,
+  "lon": 28.6403256,
+  "display": "Kavaklı Mahallesi, Beylikdüzü, İstanbul, Marmara Bölgesi, 34520, Türkiye"
+ },
+ "buyuksehir, kavakli, beylikduzu, Istanbul, Turkey": null,
+ "cumhuriyet, kavakli, beylikduzu, Istanbul, Turkey": null,
+ "kavakli, kavakli, beylikduzu, Istanbul, Turkey": {
+  "lat": 40.9820357,
+  "lon": 28.6406715,
+  "display": "Kavaklı, Marmara Caddesi, Kavaklı Mahallesi, Beylikdüzü, İstanbul, Marmara Bölgesi, 34520, Türkiye"
+ },
+ "sahil, kavakli, beylikduzu, Istanbul, Turkey": {
+  "lat": 40.9678597,
+  "lon": 28.6393402,
+  "display": "Sahil Yolu, Marmara Caddesi, Kavaklı Mahallesi, Beylikdüzü, İstanbul, Marmara Bölgesi, 34520, Türkiye"
+ },
+ "marmara, yakuplu, beylikduzu, Istanbul, Turkey": null,
+ "yakuplu, beylikduzu, Istanbul, Turkey": {
+  "lat": 40.990113,
+  "lon": 28.6700436,
+  "display": "Yakuplu Mahallesi, Beylikdüzü, İstanbul, Marmara Bölgesi, 34524, Türkiye"
+ },
+ "merkez, yakuplu, beylikduzu, Istanbul, Turkey": null,
+ "bereketzade, arapcami, beyoglu, Istanbul, Turkey": null,
+ "arapcami, beyoglu, Istanbul, Turkey": null,
+ "beyoglu, Istanbul, Turkey": {
+  "lat": 41.0284233,
+  "lon": 28.9736808,
+  "display": "Beyoğlu, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "sahkulu, arapcami, beyoglu, Istanbul, Turkey": null,
+ "firuzaga, cihangir, beyoglu, Istanbul, Turkey": null,
+ "cihangir, beyoglu, Istanbul, Turkey": {
+  "lat": 41.0330402,
+  "lon": 28.9853187,
+  "display": "Cihangir Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "katip mustafa celebi, cihangir, beyoglu, Istanbul, Turkey": null,
+ "kilicali pasa, cihangir, beyoglu, Istanbul, Turkey": null,
+ "kuloglu, cihangir, beyoglu, Istanbul, Turkey": null,
+ "merkez, cihangir, beyoglu, Istanbul, Turkey": null,
+ "tomtom, cihangir, beyoglu, Istanbul, Turkey": null,
+ "fetihtepe, halicioglu, beyoglu, Istanbul, Turkey": null,
+ "halicioglu, beyoglu, Istanbul, Turkey": {
+  "lat": 41.0488286,
+  "lon": 28.9496751,
+  "display": "Halıcıoğlu, Halıcıoğlu Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34445, Türkiye"
+ },
+ "halicioglu, halicioglu, beyoglu, Istanbul, Turkey": {
+  "lat": 41.0455923,
+  "lon": 28.9439338,
+  "display": "Halıcıoğlu, Halıcıoğlu Kavşağı, Halıcıoğlu, Halıcıoğlu Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34445, Türkiye"
+ },
+ "kececi piri, halicioglu, beyoglu, Istanbul, Turkey": null,
+ "ornektepe, halicioglu, beyoglu, Istanbul, Turkey": null,
+ "piri pasa, halicioglu, beyoglu, Istanbul, Turkey": null,
+ "sutluce, halicioglu, beyoglu, Istanbul, Turkey": null,
+ "asmali mescit, i̇stiklal, beyoglu, Istanbul, Turkey": {
+  "lat": 41.0310866,
+  "lon": 28.9740165,
+  "display": "Mikla - Turkey fusion , 15, Meşrutiyet Caddesi, İstiklal, Asmalı Mescit, Asmalı Mescit Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34430, Türkiye"
+ },
+ "catma mescit, i̇stiklal, beyoglu, Istanbul, Turkey": null,
+ "i̇stiklal, beyoglu, Istanbul, Turkey": {
+  "lat": 41.0416191,
+  "lon": 28.9692374,
+  "display": "İstiklal Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "bedrettin, kasimpasa, beyoglu, Istanbul, Turkey": null,
+ "kasimpasa, beyoglu, Istanbul, Turkey": {
+  "lat": 41.0350419,
+  "lon": 28.9650767,
+  "display": "Kasımpaşa, Kadı Mehmet Efendi, Kadı Mehmet Efendi Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34440, Türkiye"
+ },
+ "camiikebir, kasimpasa, beyoglu, Istanbul, Turkey": null,
+ "haciahmet, kasimpasa, beyoglu, Istanbul, Turkey": null,
+ "i̇stiklal, kasimpasa, beyoglu, Istanbul, Turkey": null,
+ "kadimehmet efendi, kasimpasa, beyoglu, Istanbul, Turkey": null,
+ "kaptanpasa, kasimpasa, beyoglu, Istanbul, Turkey": {
+  "lat": 41.0394792,
+  "lon": 28.9653002,
+  "display": "Kaptanpaşa unlu mamülleri, Kasımpaşa Zincirlikuyu Caddesi, Kaptanpaşa Mahallesi, Camiikebir Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34440, Türkiye"
+ },
+ "kucuk piyale, kasimpasa, beyoglu, Istanbul, Turkey": {
+  "lat": 41.0398402,
+  "lon": 28.9657533,
+  "display": "Kücük Piyale Cami, Kasımpaşa Zincirlikuyu Caddesi, Kaptanpaşa Mahallesi, Camiikebir Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34440, Türkiye"
+ },
+ "kulaksiz, kasimpasa, beyoglu, Istanbul, Turkey": {
+  "lat": 41.0360665,
+  "lon": 28.9647485,
+  "display": "Kulaksız Caddesi, Kasımpaşa, Kadı Mehmet Efendi, Kadı Mehmet Efendi Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34440, Türkiye"
+ },
+ "piyalepasa, kasimpasa, beyoglu, Istanbul, Turkey": {
+  "lat": 41.0424483,
+  "lon": 28.9662728,
+  "display": "Fırın Piyalepaşa, Kasımpaşa Zincirlikuyu Caddesi, Kaptanpaşa Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34440, Türkiye"
+ },
+ "yahya kahya, kasimpasa, beyoglu, Istanbul, Turkey": null,
+ "hacimimi, kemankes, beyoglu, Istanbul, Turkey": null,
+ "kemankes, beyoglu, Istanbul, Turkey": {
+  "lat": 41.0240811,
+  "lon": 28.9789862,
+  "display": "Kemankeş Karamustafa Paşa Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "kemankes karamustafa pasa, kemankes, beyoglu, Istanbul, Turkey": {
+  "lat": 41.0240206,
+  "lon": 28.9785963,
+  "display": "Kemankeş Karamustafa Paşa, Kemankeş Karamustafa Paşa Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34425, Türkiye"
+ },
+ "mueyyetzade, kemankes, beyoglu, Istanbul, Turkey": null,
+ "omer avni, purtelas, beyoglu, Istanbul, Turkey": null,
+ "purtelas, beyoglu, Istanbul, Turkey": {
+  "lat": 41.0306987,
+  "lon": 28.9876883,
+  "display": "Pürtelaş Hasan Efendi Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "purtelas hasan efendi, purtelas, beyoglu, Istanbul, Turkey": {
+  "lat": 41.030743,
+  "lon": 28.9877541,
+  "display": "Pürtelaş Hasan Efendi, Pürtelaş Hasan Efendi Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34427, Türkiye"
+ },
+ "gumussuyu, taksim, beyoglu, Istanbul, Turkey": {
+  "lat": 41.0381896,
+  "lon": 28.9915687,
+  "display": "İTÜ Gümüşsuyu Yerleşkesi, Dolmabahçe Gazhane Caddesi, Taksim, Gümüşsuyu, Gümüşsuyu Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34437, Türkiye"
+ },
+ "kocatepe, taksim, beyoglu, Istanbul, Turkey": null,
+ "taksim, beyoglu, Istanbul, Turkey": {
+  "lat": 41.0380506,
+  "lon": 28.985549,
+  "display": "Taksim, Taksim Meydanı, Taksim, Gümüşsuyu, Gümüşsuyu Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34437, Türkiye"
+ },
+ "bostan, tarlabasi, beyoglu, Istanbul, Turkey": null,
+ "tarlabasi, beyoglu, Istanbul, Turkey": {
+  "lat": 41.0366163,
+  "lon": 28.9806984,
+  "display": "Tarlabaşı, Tarlabaşı Bulvarı, Şehit Muhtar, Şehit Muhtar Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34435, Türkiye"
+ },
+ "bulbul, tarlabasi, beyoglu, Istanbul, Turkey": {
+  "lat": 41.040424,
+  "lon": 28.97883,
+  "display": "Bülbül Mahallesi, Irmak Caddesi, Tarlabaşı, Bülbül, Bülbül Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34435, Türkiye"
+ },
+ "cukur, tarlabasi, beyoglu, Istanbul, Turkey": null,
+ "huseyinaga, tarlabasi, beyoglu, Istanbul, Turkey": null,
+ "kalyoncu kullugu, tarlabasi, beyoglu, Istanbul, Turkey": null,
+ "kamer hatun, tarlabasi, beyoglu, Istanbul, Turkey": null,
+ "sehit muhtar, tarlabasi, beyoglu, Istanbul, Turkey": null,
+ "sururi mehmet efendi, tarlabasi, beyoglu, Istanbul, Turkey": null,
+ "yenisehir, yenisehir, beyoglu, Istanbul, Turkey": null,
+ "yenisehir, beyoglu, Istanbul, Turkey": {
+  "lat": 41.0422931,
+  "lon": 28.9781545,
+  "display": "Yenişehir Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "19 mayis, buyukcekmece, buyukcekmece, Istanbul, Turkey": {
+  "lat": 41.0224834,
+  "lon": 28.5818267,
+  "display": "19 Mayıs Mahallesi, Büyükçekmece, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "alkent 2000, buyukcekmece, buyukcekmece, Istanbul, Turkey": {
+  "lat": 41.0771599,
+  "lon": 28.6194181,
+  "display": "Alkent 2000 Mahallesi, Büyükçekmece, İstanbul, Marmara Bölgesi, 34500, Türkiye"
+ },
+ "ataturk, buyukcekmece, buyukcekmece, Istanbul, Turkey": {
+  "lat": 41.0122636,
+  "lon": 28.6004016,
+  "display": "Atatürk Mahallesi, Büyükçekmece, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "cakmakli, buyukcekmece, buyukcekmece, Istanbul, Turkey": {
+  "lat": 41.0533184,
+  "lon": 28.6231063,
+  "display": "Çakmaklı Mahallesi, Büyükçekmece, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "cumhuriyet, buyukcekmece, buyukcekmece, Istanbul, Turkey": {
+  "lat": 41.0182947,
+  "lon": 28.6199899,
+  "display": "Cumhuriyet Mahallesi, Büyükçekmece, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "dizdariye, buyukcekmece, buyukcekmece, Istanbul, Turkey": {
+  "lat": 41.0206023,
+  "lon": 28.5784482,
+  "display": "Dizdariye Mahallesi, Büyükçekmece, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "fatih, buyukcekmece, buyukcekmece, Istanbul, Turkey": {
+  "lat": 41.0208293,
+  "lon": 28.586099,
+  "display": "Fatih Mahallesi, Büyükçekmece, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "pinartepe, buyukcekmece, buyukcekmece, Istanbul, Turkey": {
+  "lat": 41.003226,
+  "lon": 28.6018529,
+  "display": "Pınartepe Mahallesi, Büyükçekmece, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "yenimahalle, buyukcekmece, buyukcekmece, Istanbul, Turkey": null,
+ "buyukcekmece, buyukcekmece, Istanbul, Turkey": {
+  "lat": 41.0248506,
+  "lon": 28.5729016,
+  "display": "Büyükçekmece Barajı, Dizdariye Mahallesi, Büyükçekmece, İstanbul, Marmara Bölgesi, 34500, Türkiye"
+ },
+ "celaliye, celaliye(kamiloba), buyukcekmece, Istanbul, Turkey": null,
+ "celaliye(kamiloba), buyukcekmece, Istanbul, Turkey": null,
+ "buyukcekmece, Istanbul, Turkey": {
+  "lat": 41.021654,
+  "lon": 28.579757,
+  "display": "Büyükçekmece, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "kamiloba, celaliye(kamiloba), buyukcekmece, Istanbul, Turkey": null,
+ "bahcelievler, kumburgaz, buyukcekmece, Istanbul, Turkey": {
+  "lat": 41.009845,
+  "lon": 28.502267,
+  "display": "Bahçelievler Mahallesi, D-100, Tepecik, Güzelce Mahallesi, Büyükçekmece, İstanbul, Marmara Bölgesi, 34530, Türkiye"
+ },
+ "guzelce, kumburgaz, buyukcekmece, Istanbul, Turkey": {
+  "lat": 41.00749,
+  "lon": 28.516557,
+  "display": "Güzelce(E-5), D-100, Tepecik, Güzelce Mahallesi, Büyükçekmece, İstanbul, Marmara Bölgesi, 34530, Türkiye"
+ },
+ "kumburgaz, kumburgaz, buyukcekmece, Istanbul, Turkey": null,
+ "kumburgaz, buyukcekmece, Istanbul, Turkey": null,
+ "mimaroba, merkez, buyukcekmece, Istanbul, Turkey": {
+  "lat": 41.0114527,
+  "lon": 28.544221,
+  "display": "New Drita Mimaroba 1. Blok, 37/A, Hürriyet Caddesi, Tepecik, Ekinoba Mahallesi, Büyükçekmece, İstanbul, Marmara Bölgesi, 34535, Türkiye"
+ },
+ "sinanoba, merkez, buyukcekmece, Istanbul, Turkey": {
+  "lat": 41.0144383,
+  "lon": 28.5460094,
+  "display": "Sharz - Sinanoba, D-100, Tepecik, Mimarsinan Mahallesi, Büyükçekmece, İstanbul, Marmara Bölgesi, 34535, Türkiye"
+ },
+ "ekinoba, mimarsinan, buyukcekmece, Istanbul, Turkey": {
+  "lat": 41.0121703,
+  "lon": 28.5360414,
+  "display": "Ekinoba, D-100, Tepecik, Murat Çesme Mahallesi, Büyükçekmece, İstanbul, Marmara Bölgesi, 34535, Türkiye"
+ },
+ "mimar sinan merkez, mimarsinan, buyukcekmece, Istanbul, Turkey": {
+  "lat": 41.016004,
+  "lon": 28.5606145,
+  "display": "Mimar Sinan Merkez Camil, Çınar Sokak, Tepecik, Mimarsinan Mahallesi, Büyükçekmece, İstanbul, Marmara Bölgesi, 34535, Türkiye"
+ },
+ "murat cesme, mimarsinan, buyukcekmece, Istanbul, Turkey": {
+  "lat": 41.0167597,
+  "lon": 28.5528008,
+  "display": "Sultan Murat Caddesi, Tepecik, Mimarsinan Mahallesi, Büyükçekmece, İstanbul, Marmara Bölgesi, 34535, Türkiye"
+ },
+ "hurriyet, tepecik, buyukcekmece, Istanbul, Turkey": {
+  "lat": 41.0138296,
+  "lon": 28.5486979,
+  "display": "Hürriyet Caddesi, Tepecik, Mimarsinan Mahallesi, Büyükçekmece, İstanbul, Marmara Bölgesi, 34535, Türkiye"
+ },
+ "turkoba, tepecik, buyukcekmece, Istanbul, Turkey": {
+  "lat": 41.0341204,
+  "lon": 28.5060277,
+  "display": "Türkoba Caddesi, Tepekent, Türkoba Mahallesi, Büyükçekmece, İstanbul, Marmara Bölgesi, 34537, Türkiye"
+ },
+ "ulus, tepecik, buyukcekmece, Istanbul, Turkey": {
+  "lat": 41.0038573,
+  "lon": 28.5404017,
+  "display": "Ulus Sokağı, Tepecik, Batıköy, Mimaroba Mahallesi, Büyükçekmece, İstanbul, Marmara Bölgesi, 34535, Türkiye"
+ },
+ "ferhatpasa, catalca, catalca, Istanbul, Turkey": null,
+ "catalca, catalca, Istanbul, Turkey": null,
+ "catalca, Istanbul, Turkey": null,
+ "i̇zzettin, catalca, catalca, Istanbul, Turkey": {
+  "lat": 41.1767042,
+  "lon": 28.5039242,
+  "display": "İzzettin Mahallesi, Çatalca, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "nakkas, merkez, catalca, Istanbul, Turkey": null,
+ "merkez, catalca, Istanbul, Turkey": null,
+ "alemdag, alemdag(alemdar), cekmekoy, Istanbul, Turkey": null,
+ "alemdag(alemdar), cekmekoy, Istanbul, Turkey": null,
+ "cekmekoy, Istanbul, Turkey": {
+  "lat": 41.0351579,
+  "lon": 29.1739149,
+  "display": "Çekmeköy, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "catalmese, alemdag(alemdar), cekmekoy, Istanbul, Turkey": null,
+ "eksioglu, alemdag(alemdar), cekmekoy, Istanbul, Turkey": null,
+ "nisantepe, alemdag(alemdar), cekmekoy, Istanbul, Turkey": null,
+ "camlik, cekmekoy, cekmekoy, Istanbul, Turkey": {
+  "lat": 41.0172216,
+  "lon": 29.193114,
+  "display": "Çamlık Mahallesi, Çekmeköy, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "hamidiye, cekmekoy, cekmekoy, Istanbul, Turkey": {
+  "lat": 41.0268635,
+  "lon": 29.1885101,
+  "display": "Hamidiye Mahallesi, Çekmeköy, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "mehmet akif, cekmekoy, cekmekoy, Istanbul, Turkey": {
+  "lat": 41.0208246,
+  "lon": 29.1858308,
+  "display": "Mehmet Akif Mahallesi, Çekmeköy, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "merkez, cekmekoy, cekmekoy, Istanbul, Turkey": {
+  "lat": 41.0369088,
+  "lon": 29.1771094,
+  "display": "Merkez Mahallesi, Çekmeköy, İstanbul, Marmara Bölgesi, 34782, Türkiye"
+ },
+ "mimar sinan, cekmekoy, cekmekoy, Istanbul, Turkey": {
+  "lat": 41.032758,
+  "lon": 29.1750966,
+  "display": "Mimar Sinan Mahallesi, Çekmeköy, İstanbul, Marmara Bölgesi, 34782, Türkiye"
+ },
+ "resadiye, koyler, cekmekoy, Istanbul, Turkey": null,
+ "koyler, cekmekoy, Istanbul, Turkey": null,
+ "aydinlar, tasdelen, cekmekoy, Istanbul, Turkey": null,
+ "tasdelen, cekmekoy, Istanbul, Turkey": {
+  "lat": 41.031185,
+  "lon": 29.2311306,
+  "display": "Taşdelen Mahallesi, Çekmeköy, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "cumhuriyet, tasdelen, cekmekoy, Istanbul, Turkey": null,
+ "gungoren, tasdelen, cekmekoy, Istanbul, Turkey": null,
+ "kirazlidere, tasdelen, cekmekoy, Istanbul, Turkey": null,
+ "sogukpinar, tasdelen, cekmekoy, Istanbul, Turkey": null,
+ "sultanciftligi, tasdelen, cekmekoy, Istanbul, Turkey": null,
+ "tasdelen, tasdelen, cekmekoy, Istanbul, Turkey": {
+  "lat": 41.031461,
+  "lon": 29.227749,
+  "display": "Taşdelen, Turgut Özal Caddesi, Taşdelen Mahallesi, Çekmeköy, İstanbul, Marmara Bölgesi, 34788, Türkiye"
+ },
+ "atisalani, birlik, esenler, Istanbul, Turkey": {
+  "lat": 41.0491553,
+  "lon": 28.8764248,
+  "display": "Atışalanı Caddesi, Birlik Mahallesi, Esenler, İstanbul, Marmara Bölgesi, 34230, Türkiye"
+ },
+ "merkez, birlik, esenler, Istanbul, Turkey": {
+  "lat": 41.0542836,
+  "lon": 28.8732278,
+  "display": "Atışalanı Merkez Cami, Köyiçi Caddesi, Atışalanı Mahallesi, Esenler, İstanbul, Marmara Bölgesi, 34230, Türkiye"
+ },
+ "cifte havuzlar, esenler, esenler, Istanbul, Turkey": {
+  "lat": 41.0267887,
+  "lon": 28.8954257,
+  "display": "Çifte Havuzlar Mahallesi, Esenler, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "fevzi cakmak, esenler, esenler, Istanbul, Turkey": {
+  "lat": 41.0387523,
+  "lon": 28.883188,
+  "display": "Fevzi Çakmak Mahallesi, Esenler, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "kemer, esenler, esenler, Istanbul, Turkey": {
+  "lat": 41.0526257,
+  "lon": 28.876571,
+  "display": "Kemer Mahallesi, Esenler, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "menderes, esenler, esenler, Istanbul, Turkey": {
+  "lat": 41.0427411,
+  "lon": 28.8784952,
+  "display": "Menderes, 373. Sokak, Menderes Mahallesi, Esenler, İstanbul, Marmara Bölgesi, 34225, Türkiye"
+ },
+ "mimar sinan, esenler, esenler, Istanbul, Turkey": {
+  "lat": 41.0358974,
+  "lon": 28.8848756,
+  "display": "Mimar Sinan Mahallesi, Esenler, İstanbul, Marmara Bölgesi, 34220, Türkiye"
+ },
+ "namik kemal, esenler, esenler, Istanbul, Turkey": {
+  "lat": 41.0311027,
+  "lon": 28.8955728,
+  "display": "Namık Kemal Mahallesi, Esenler, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "nine hatun, esenler, esenler, Istanbul, Turkey": {
+  "lat": 41.0370239,
+  "lon": 28.8802419,
+  "display": "Nine Hatun Mahallesi, Esenler, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "fatih, karabayir, esenler, Istanbul, Turkey": {
+  "lat": 41.0385137,
+  "lon": 28.8721288,
+  "display": "Fatih Caddesi, Karabayır, Fatih Mahallesi, Esenler, İstanbul, Marmara Bölgesi, 34225, Türkiye"
+ },
+ "kazim karabekir, karabayir, esenler, Istanbul, Turkey": null,
+ "karabayir, esenler, Istanbul, Turkey": {
+  "lat": 41.0437401,
+  "lon": 28.8689526,
+  "display": "Karabayır, Fatih Mahallesi, Esenler, İstanbul, Marmara Bölgesi, 34225, Türkiye"
+ },
+ "tuna, karabayir, esenler, Istanbul, Turkey": {
+  "lat": 41.0462212,
+  "lon": 28.8662549,
+  "display": "Tuna Mesleki ve Teknik Anadolu Lisesi, Çinçindere Caddesi, Karabayır, Tuna Mahallesi, Esenler, İstanbul, Marmara Bölgesi, 34225, Türkiye"
+ },
+ "15 temmuz, sanayi, esenler, Istanbul, Turkey": null,
+ "sanayi, esenler, Istanbul, Turkey": {
+  "lat": 40.8923274,
+  "lon": 29.2653951,
+  "display": "Remik Kimya Sanayi ve Ticaret A.Ş, Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "orucreis, sanayi, esenler, Istanbul, Turkey": null,
+ "turgut reis, sanayi, esenler, Istanbul, Turkey": null,
+ "akcaburgaz, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0733127,
+  "lon": 28.6334269,
+  "display": "Akçaburgaz Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "akevler, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0191199,
+  "lon": 28.67678,
+  "display": "Akevler Mahallesi 7 sokak, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "aksemseddin, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0172962,
+  "lon": 28.6944236,
+  "display": "Akşemseddin Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, 34510, Türkiye"
+ },
+ "ardicli, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0461686,
+  "lon": 28.6798101,
+  "display": "Ardıçlı Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "asik veysel, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0585357,
+  "lon": 28.6738904,
+  "display": "Aşık Veysel Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "ataturk, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.037115,
+  "lon": 28.636196,
+  "display": "Atatürk Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "balikyolu, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0396612,
+  "lon": 28.6904284,
+  "display": "Balıkyolu Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "barbaros hayrettin pasa, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0182515,
+  "lon": 28.6414475,
+  "display": "Barbaros Hayrettin Paşa Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "battalgazi, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0394344,
+  "lon": 28.6562357,
+  "display": "Battalgazi Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "cinar, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0411611,
+  "lon": 28.6642095,
+  "display": "Çınar Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "cumhuriyet, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0169451,
+  "lon": 28.6489243,
+  "display": "Cumhuriyet Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "esenkent, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0593586,
+  "lon": 28.6809268,
+  "display": "Esenkent Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "fatih, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0298974,
+  "lon": 28.6746475,
+  "display": "Fatih Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "gokevler, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0252638,
+  "lon": 28.6335726,
+  "display": "Gökevler Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "hurriyet, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.031599,
+  "lon": 28.6466704,
+  "display": "Hürriyet Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "i̇ncirtepe, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0206769,
+  "lon": 28.6909976,
+  "display": "İncirtepe Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "i̇nonu, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0270909,
+  "lon": 28.6866366,
+  "display": "İnönü Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "koza, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0645603,
+  "lon": 28.6652589,
+  "display": "Koza Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "mehmet akif ersoy, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0138079,
+  "lon": 28.6667966,
+  "display": "Mehmet Akif Ersoy Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "mehtercesme, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0185614,
+  "lon": 28.6628747,
+  "display": "Mehterçeşme Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, 34515, Türkiye"
+ },
+ "merkez, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0350405,
+  "lon": 28.6760001,
+  "display": "Merkez Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "mevlana, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0124992,
+  "lon": 28.6567189,
+  "display": "Mevlana Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "namik kemal, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0101007,
+  "lon": 28.6938039,
+  "display": "Namık Kemal Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "necip fazil kisakurek, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0309904,
+  "lon": 28.6527815,
+  "display": "Necip Fazıl Kısakürek Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "orhan gazi, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0709914,
+  "lon": 28.6542125,
+  "display": "Orhan Gazi Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, 34538, Türkiye"
+ },
+ "ornek, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0447965,
+  "lon": 28.6703501,
+  "display": "Örnek Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "osmangazi, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0415514,
+  "lon": 28.6458279,
+  "display": "Osmangazi Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, 34522, Türkiye"
+ },
+ "pinar, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0335095,
+  "lon": 28.6655807,
+  "display": "Pınar Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "piri reis, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0199712,
+  "lon": 28.6480848,
+  "display": "Piri Reis Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "saadetdere, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0081748,
+  "lon": 28.6976834,
+  "display": "Saadetdere Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "sehitler, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0332974,
+  "lon": 28.6550502,
+  "display": "Şehitler Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "selahaddin eyyubi, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.044908,
+  "lon": 28.6622124,
+  "display": "Selahaddin Eyyubi Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, 34517, Türkiye"
+ },
+ "suleymaniye, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0439199,
+  "lon": 28.6810152,
+  "display": "Süleymaniye Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "sultaniye, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.03369,
+  "lon": 28.6827178,
+  "display": "Sultaniye Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "talatpasa, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0229955,
+  "lon": 28.6721151,
+  "display": "Talatpaşa Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "turgut ozal, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0046495,
+  "lon": 28.6938819,
+  "display": "Turgut Özal Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "ucevler, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0266491,
+  "lon": 28.6801351,
+  "display": "Üçevler Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "yenikent, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0368086,
+  "lon": 28.6808544,
+  "display": "Yenikent Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, 34510, Türkiye"
+ },
+ "yesilkent, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0265322,
+  "lon": 28.6637265,
+  "display": "Yeşilkent Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "yunus emre, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0285572,
+  "lon": 28.693938,
+  "display": "Yunus Emre Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "zafer, esenyurt, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0176797,
+  "lon": 28.6855692,
+  "display": "Zafer Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, 34513, Türkiye"
+ },
+ "guzelyurt, haramidere, esenyurt, Istanbul, Turkey": {
+  "lat": 41.006514,
+  "lon": 28.6676766,
+  "display": "Opet Esenyurt Güzelyurt, 19, Haramidere Caddesi, Yakuplu Mahallesi, Beylikdüzü, İstanbul, Marmara Bölgesi, 34515, Türkiye"
+ },
+ "i̇stiklal, kirac, esenyurt, Istanbul, Turkey": {
+  "lat": 41.0385321,
+  "lon": 28.6493274,
+  "display": "İstiklal Sokağı, Kıraç, İstiklal Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, 34522, Türkiye"
+ },
+ "5. levent, alibeykoy, eyupsultan, Istanbul, Turkey": null,
+ "alibeykoy, eyupsultan, Istanbul, Turkey": {
+  "lat": 41.0791413,
+  "lon": 28.949577,
+  "display": "Alibeyköy, 1. Çayır Sokağı, Alibeyköy Mahallesi, Eyüpsultan, İstanbul, Marmara Bölgesi, 34060, Türkiye"
+ },
+ "alibeykoy, alibeykoy, eyupsultan, Istanbul, Turkey": {
+  "lat": 41.0791413,
+  "lon": 28.949577,
+  "display": "Alibeyköy, 1. Çayır Sokağı, Alibeyköy Mahallesi, Eyüpsultan, İstanbul, Marmara Bölgesi, 34060, Türkiye"
+ },
+ "emniyettepe, alibeykoy, eyupsultan, Istanbul, Turkey": null,
+ "guzeltepe, alibeykoy, eyupsultan, Istanbul, Turkey": null,
+ "aksemsettin, circir, eyupsultan, Istanbul, Turkey": null,
+ "circir, eyupsultan, Istanbul, Turkey": {
+  "lat": 41.0801289,
+  "lon": 28.9363025,
+  "display": "Çırçır, Mustafa Kemal Bulvarı, Çırçır Mahallesi, Eyüpsultan, İstanbul, Marmara Bölgesi, 34070, Türkiye"
+ },
+ "circir, circir, eyupsultan, Istanbul, Turkey": {
+  "lat": 41.0801289,
+  "lon": 28.9363025,
+  "display": "Çırçır, Mustafa Kemal Bulvarı, Çırçır Mahallesi, Eyüpsultan, İstanbul, Marmara Bölgesi, 34070, Türkiye"
+ },
+ "esentepe, eyupsultan, eyupsultan, Istanbul, Turkey": {
+  "lat": 41.0686652,
+  "lon": 28.9393536,
+  "display": "Esentepe Mahallesi, Eyüpsultan, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "i̇slambey, eyupsultan, eyupsultan, Istanbul, Turkey": {
+  "lat": 41.0467148,
+  "lon": 28.9314745,
+  "display": "İslambey Mahallesi, Eyüpsultan, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "merkez, eyupsultan, eyupsultan, Istanbul, Turkey": {
+  "lat": 41.0474069,
+  "lon": 28.9356137,
+  "display": "Merkez Mahallesi, Eyüpsultan, İstanbul, Marmara Bölgesi, 34050, Türkiye"
+ },
+ "nisanci, eyupsultan, eyupsultan, Istanbul, Turkey": {
+  "lat": 41.0433814,
+  "lon": 28.936088,
+  "display": "Nişancı Mahallesi, Eyüpsultan, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "sakarya, eyupsultan, eyupsultan, Istanbul, Turkey": {
+  "lat": 41.0647435,
+  "lon": 28.9405122,
+  "display": "Sakarya Mahallesi, Eyüpsultan, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "silahtaraga, eyupsultan, eyupsultan, Istanbul, Turkey": {
+  "lat": 41.0613259,
+  "lon": 28.940346,
+  "display": "Silahtarağa Mahallesi, Eyüpsultan, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "gokturk merkez, gokturk, eyupsultan, Istanbul, Turkey": {
+  "lat": 41.1787178,
+  "lon": 28.8899004,
+  "display": "Göktürk Merkez Camii, Belediye Caddesi, KemerLife XXI, Göktürk Merkez Mahallesi, Eyüpsultan, İstanbul, Marmara Bölgesi, 34077, Türkiye"
+ },
+ "mimar sinan, kemerburgaz, eyupsultan, Istanbul, Turkey": {
+  "lat": 41.138065,
+  "lon": 28.957936,
+  "display": "Mimar Sinan, Kemerburgaz Caddesi, Mimar Sinan Mahallesi, Eyüpsultan, İstanbul, Marmara Bölgesi, 34075, Türkiye"
+ },
+ "mithatpasa, kemerburgaz, eyupsultan, Istanbul, Turkey": null,
+ "kemerburgaz, eyupsultan, Istanbul, Turkey": {
+  "lat": 41.159163,
+  "lon": 28.9102378,
+  "display": "Kemerburgaz, Selanik Bulvarı, Kemerburgaz, Mithatpaşa Mahallesi, Eyüpsultan, İstanbul, Marmara Bölgesi, 34075, Türkiye"
+ },
+ "dugmeciler, rami, eyupsultan, Istanbul, Turkey": null,
+ "rami, eyupsultan, Istanbul, Turkey": {
+  "lat": 41.0484918,
+  "lon": 28.9207553,
+  "display": "Rami, Rami Cuma Mahallesi, Eyüpsultan, İstanbul, Marmara Bölgesi, 34055, Türkiye"
+ },
+ "rami cuma, rami, eyupsultan, Istanbul, Turkey": {
+  "lat": 41.048541,
+  "lon": 28.9198081,
+  "display": "Rami Cuma Mahallesi Muhtarlığı, Gazi Ethempaşa Sokağı, Rami Cuma Mahallesi, Eyüpsultan, İstanbul, Marmara Bölgesi, 34055, Türkiye"
+ },
+ "rami yeni, rami, eyupsultan, Istanbul, Turkey": {
+  "lat": 41.0465961,
+  "lon": 28.9156112,
+  "display": "Rami, Rami Kışla Caddesi, Rami Yeni Mahallesi, Eyüpsultan, İstanbul, Marmara Bölgesi, 34055, Türkiye"
+ },
+ "topcular, rami, eyupsultan, Istanbul, Turkey": {
+  "lat": 41.0475321,
+  "lon": 28.9202324,
+  "display": "Topçular Değirmeni Sokağı, Rami, Rami Cuma Mahallesi, Eyüpsultan, İstanbul, Marmara Bölgesi, 34055, Türkiye"
+ },
+ "karadolap, yesilpinar, eyupsultan, Istanbul, Turkey": null,
+ "yesilpinar, eyupsultan, Istanbul, Turkey": {
+  "lat": 41.0822903,
+  "lon": 28.9182892,
+  "display": "Yeşilpınar, Mustafa Kemal Bulvarı, Yeşilpınar Mahallesi, Eyüpsultan, İstanbul, Marmara Bölgesi, 34065, Türkiye"
+ },
+ "yesilpinar, yesilpinar, eyupsultan, Istanbul, Turkey": {
+  "lat": 41.0822903,
+  "lon": 28.9182892,
+  "display": "Yeşilpınar, Mustafa Kemal Bulvarı, Yeşilpınar Mahallesi, Eyüpsultan, İstanbul, Marmara Bölgesi, 34065, Türkiye"
+ },
+ "aksemsettin, akdeniz, fatih, Istanbul, Turkey": {
+  "lat": 41.0204695,
+  "lon": 28.9417875,
+  "display": "Akşemsettin Caddesi, Akdeniz, Akşemsettin Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34080, Türkiye"
+ },
+ "i̇skenderpasa, akdeniz, fatih, Istanbul, Turkey": {
+  "lat": 41.013959,
+  "lon": 28.945038,
+  "display": "İskenderpaşa, Ahmediye Caddesi, Akdeniz, İskenderpaşa Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34080, Türkiye"
+ },
+ "molla gurani, aksaray, fatih, Istanbul, Turkey": null,
+ "aksaray, fatih, Istanbul, Turkey": {
+  "lat": 41.0083123,
+  "lon": 28.9502838,
+  "display": "Aksaray Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34096, Türkiye"
+ },
+ "topkapi, aksaray, fatih, Istanbul, Turkey": null,
+ "emin sinan, beyazit, fatih, Istanbul, Turkey": null,
+ "beyazit, fatih, Istanbul, Turkey": {
+  "lat": 41.009722,
+  "lon": 28.9665055,
+  "display": "Beyazıt Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "cerrahpasa, fatih, fatih, Istanbul, Turkey": {
+  "lat": 41.0027734,
+  "lon": 28.9402534,
+  "display": "Cerrahpaşa, Samatya Sahili Sokağı, Cerrahpaşa Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34098, Türkiye"
+ },
+ "karagumruk, fatih, fatih, Istanbul, Turkey": {
+  "lat": 41.0268821,
+  "lon": 28.9373882,
+  "display": "Karagümrük Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "atikali, fener, fatih, Istanbul, Turkey": null,
+ "fener, fatih, Istanbul, Turkey": {
+  "lat": 41.0298173,
+  "lon": 28.9509216,
+  "display": "Fener, Balat Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34087, Türkiye"
+ },
+ "ayvansaray, fener, fatih, Istanbul, Turkey": {
+  "lat": 41.0321554,
+  "lon": 28.9486823,
+  "display": "Ayvansaray Caddesi, Fener, Balat Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34087, Türkiye"
+ },
+ "balat, fener, fatih, Istanbul, Turkey": {
+  "lat": 41.0340207,
+  "lon": 28.9480391,
+  "display": "Balat, Mürselpaşa Caddesi, Fener, Ayvansaray Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34087, Türkiye"
+ },
+ "dervis ali, fener, fatih, Istanbul, Turkey": null,
+ "ali kuscu, fevzipasa, fatih, Istanbul, Turkey": {
+  "lat": 41.0211273,
+  "lon": 28.9463114,
+  "display": "Ali usta, Fevzipaşa Caddesi, Ali Kuşçu Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34083, Türkiye"
+ },
+ "hirka-i serif, fevzipasa, fatih, Istanbul, Turkey": null,
+ "fevzipasa, fatih, Istanbul, Turkey": {
+  "lat": 41.0210379,
+  "lon": 28.9462599,
+  "display": "Fevzipaşa Caddesi, Ali Kuşçu Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34083, Türkiye"
+ },
+ "zeyrek, fevzipasa, fatih, Istanbul, Turkey": null,
+ "aksaray, haseki, fatih, Istanbul, Turkey": {
+  "lat": 41.0088576,
+  "lon": 28.9477595,
+  "display": "Aksaray Pilavcısı, Cerrahpașa Caddesi, Yenikapı, Aksaray Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34096, Türkiye"
+ },
+ "haseki sultan, haseki, fatih, Istanbul, Turkey": {
+  "lat": 41.0085883,
+  "lon": 28.941859,
+  "display": "Haseki Sultan Camii, Haseki Caddesi, Haseki Sultan Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34096, Türkiye"
+ },
+ "koca mustafapasa, kocamustafapasa, fatih, Istanbul, Turkey": null,
+ "kocamustafapasa, fatih, Istanbul, Turkey": {
+  "lat": 40.9999287,
+  "lon": 28.9331768,
+  "display": "Kocamustafapaşa, İç Kalpakçı Sokağı, Samatya, Koca Mustafapaşa Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34098, Türkiye"
+ },
+ "seyyid omer, kocamustafapasa, fatih, Istanbul, Turkey": null,
+ "silivrikapi, kocamustafapasa, fatih, Istanbul, Turkey": null,
+ "sumbul efendi, kocamustafapasa, fatih, Istanbul, Turkey": null,
+ "cibali, kucukmustafapasa, fatih, Istanbul, Turkey": {
+  "lat": 41.0266817,
+  "lon": 28.9577591,
+  "display": "Cibali, Cibali Şerefiye Sokağı, Küçükmustafapaşa, Yavuz Sultan Selim Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34083, Türkiye"
+ },
+ "yavuz sultan selim, kucukmustafapasa, fatih, Istanbul, Turkey": {
+  "lat": 41.0262451,
+  "lon": 28.951634,
+  "display": "Yavuz Sultan Selim Türbesi, Yavuz Selim Caddesi, Küçükmustafapaşa, Yavuz Sultan Selim Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34083, Türkiye"
+ },
+ "katip kasim, kumkapi, fatih, Istanbul, Turkey": null,
+ "kumkapi, fatih, Istanbul, Turkey": {
+  "lat": 41.0033651,
+  "lon": 28.9629002,
+  "display": "Kumkapı, Hisar Çesmesi Sokağı, Muhsine Hatun Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34130, Türkiye"
+ },
+ "muhsine hatun, kumkapi, fatih, Istanbul, Turkey": null,
+ "nisanca, kumkapi, fatih, Istanbul, Turkey": null,
+ "mevlanakapi, mevlanakapi, fatih, Istanbul, Turkey": {
+  "lat": 41.0140675,
+  "lon": 28.9221525,
+  "display": "Mevlanakapı Caddesi, Mevlanakapı Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34104, Türkiye"
+ },
+ "sehremini, sehremini, fatih, Istanbul, Turkey": {
+  "lat": 41.0144044,
+  "lon": 28.9306789,
+  "display": "Şehremini Erkek Kuaförü, Deniz Abdal Çeşmesi Sokağı, Şehremini Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34104, Türkiye"
+ },
+ "binbirdirek, sultanahmet, fatih, Istanbul, Turkey": null,
+ "sultanahmet, fatih, Istanbul, Turkey": {
+  "lat": 41.0041141,
+  "lon": 28.9769087,
+  "display": "Sultan Ahmet Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "demirtas, vefa, fatih, Istanbul, Turkey": null,
+ "vefa, fatih, Istanbul, Turkey": {
+  "lat": 41.0166138,
+  "lon": 28.9589045,
+  "display": "Vefa, Molla Hüsrev Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34134, Türkiye"
+ },
+ "haci kadin, vefa, fatih, Istanbul, Turkey": null,
+ "kemal pasa, vefa, fatih, Istanbul, Turkey": null,
+ "molla husrev, vefa, fatih, Istanbul, Turkey": {
+  "lat": 41.0147778,
+  "lon": 28.959381,
+  "display": "Molla Hüsrev cami Turbası, Müşküle Sokağı, Vefa, Molla Hüsrev Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34134, Türkiye"
+ },
+ "merkez, yedikule, fatih, Istanbul, Turkey": {
+  "lat": 40.9965566,
+  "lon": 28.9272737,
+  "display": "Merkez dürüm evi, Tahta Tulumba Sokağı, Yedikule Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34107, Türkiye"
+ },
+ "fevzi cakmak, fevzicakmak, gaziosmanpasa, Istanbul, Turkey": {
+  "lat": 41.0723158,
+  "lon": 28.9021544,
+  "display": "Fevzi Çakmak Parkı, Küçükköy, Fevzi Çakmak Mahallesi, Gaziosmanpaşa, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "karayollari, fevzicakmak, gaziosmanpasa, Istanbul, Turkey": null,
+ "fevzicakmak, gaziosmanpasa, Istanbul, Turkey": {
+  "lat": 41.0716725,
+  "lon": 28.9048028,
+  "display": "Fevzi Çakmak Mahallesi, Gaziosmanpaşa, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "mevlana, fevzicakmak, gaziosmanpasa, Istanbul, Turkey": null,
+ "baglarbasi, gaziosmanpasa, gaziosmanpasa, Istanbul, Turkey": {
+  "lat": 41.0631149,
+  "lon": 28.9143839,
+  "display": "Bağlarbaşı Mahallesi, Gaziosmanpaşa, İstanbul, Marmara Bölgesi, 34245, Türkiye"
+ },
+ "merkez, gaziosmanpasa, gaziosmanpasa, Istanbul, Turkey": {
+  "lat": 41.0573173,
+  "lon": 28.9117986,
+  "display": "Merkez Mahallesi, Gaziosmanpaşa, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "sarigol, gaziosmanpasa, gaziosmanpasa, Istanbul, Turkey": {
+  "lat": 41.058849,
+  "lon": 28.9179346,
+  "display": "Sarıgöl Mahallesi, Gaziosmanpaşa, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "kazim karabekir, kazimkarabekir, gaziosmanpasa, Istanbul, Turkey": {
+  "lat": 41.077447,
+  "lon": 28.912594,
+  "display": "Kazim Karabekir, 922. Sokak, Kazım Karabekir Mahallesi, Gaziosmanpaşa, İstanbul, Marmara Bölgesi, 34255, Türkiye"
+ },
+ "barbaros hayrettinpasa, kucukkoy, gaziosmanpasa, Istanbul, Turkey": null,
+ "kucukkoy, gaziosmanpasa, Istanbul, Turkey": {
+  "lat": 41.0728252,
+  "lon": 28.9040964,
+  "display": "Kucukkoy, İstanbul Caddesi, Küçükköy, Fevzi Çakmak Mahallesi, Gaziosmanpaşa, İstanbul, Marmara Bölgesi, 34255, Türkiye"
+ },
+ "hurriyet, kucukkoy, gaziosmanpasa, Istanbul, Turkey": null,
+ "karadeniz, kucukkoy, gaziosmanpasa, Istanbul, Turkey": null,
+ "semsipasa, kucukkoy, gaziosmanpasa, Istanbul, Turkey": {
+  "lat": 41.0689308,
+  "lon": 28.9073295,
+  "display": "Şemsipaşa, Küçükköy Caddesi, Şemsipaşa Mahallesi, Gaziosmanpaşa, İstanbul, Marmara Bölgesi, 34250, Türkiye"
+ },
+ "yeni mahalle, kucukkoy, gaziosmanpasa, Istanbul, Turkey": null,
+ "karlitepe, yildiztabya, gaziosmanpasa, Istanbul, Turkey": {
+  "lat": 41.0614262,
+  "lon": 28.9283226,
+  "display": "Karlıtepe, Temiz Sokağı, Yıldıztabya Mahallesi, Gaziosmanpaşa, İstanbul, Marmara Bölgesi, 34240, Türkiye"
+ },
+ "pazarici, yildiztabya, gaziosmanpasa, Istanbul, Turkey": null,
+ "yildiztabya, gaziosmanpasa, Istanbul, Turkey": {
+  "lat": 41.0646555,
+  "lon": 28.931006,
+  "display": "Yıldıztabya Mahallesi, Gaziosmanpaşa, İstanbul, Marmara Bölgesi, 34240, Türkiye"
+ },
+ "yenidogan, yildiztabya, gaziosmanpasa, Istanbul, Turkey": null,
+ "yildiztabya, yildiztabya, gaziosmanpasa, Istanbul, Turkey": {
+  "lat": 41.0658094,
+  "lon": 28.9346859,
+  "display": "Yıldıztabya, Yıldıztabya Caddesi, Yıldıztabya Mahallesi, Gaziosmanpaşa, İstanbul, Marmara Bölgesi, 34240, Türkiye"
+ },
+ "abdurrahman nafiz gurman, abdurrahman nafiz gurman, gungoren, Istanbul, Turkey": {
+  "lat": 41.0029637,
+  "lon": 28.8844427,
+  "display": "Abdurrahman Nafiz Gürman Parkı Basketbol Sahası, Merter 2 Köprülü Kavşağı, Abdurrahman Nafiz Gürman Mahallesi, Bahçelievler Mahallesi, Bahçelievler, İstanbul, Marmara Bölgesi, 34180, Türkiye"
+ },
+ "akincilar, akincilar, gungoren, Istanbul, Turkey": {
+  "lat": 41.0170846,
+  "lon": 28.8714252,
+  "display": "Akıncılar, Abdi İpekçi Caddesi, Akıncılar Mahallesi, Güngören, İstanbul, Marmara Bölgesi, 34160, Türkiye"
+ },
+ "guven, akincilar, gungoren, Istanbul, Turkey": null,
+ "akincilar, gungoren, Istanbul, Turkey": {
+  "lat": 41.0160064,
+  "lon": 28.8710186,
+  "display": "Akıncılar Mahallesi, Güngören, İstanbul, Marmara Bölgesi, 34160, Türkiye"
+ },
+ "maresal cakmak, akincilar, gungoren, Istanbul, Turkey": null,
+ "gunestepe, gungoren, gungoren, Istanbul, Turkey": {
+  "lat": 41.0259668,
+  "lon": 28.8649183,
+  "display": "Güneştepe Mahallesi, Güngören, İstanbul, Marmara Bölgesi, 34164, Türkiye"
+ },
+ "merkez, gungoren, gungoren, Istanbul, Turkey": {
+  "lat": 41.0243935,
+  "lon": 28.8719813,
+  "display": "Merkez Mahallesi, Güngören, İstanbul, Marmara Bölgesi, 34164, Türkiye"
+ },
+ "merkez, haznedar, gungoren, Istanbul, Turkey": null,
+ "haznedar, gungoren, Istanbul, Turkey": {
+  "lat": 41.0104658,
+  "lon": 28.8707783,
+  "display": "Haznedar Mahallesi, Güngören, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "gencosman, sanayi, gungoren, Istanbul, Turkey": {
+  "lat": 41.028318,
+  "lon": 28.877902,
+  "display": "Gençosman İmkb Çok Programli Anadolu Lisesi, Çinçindere Caddesi, Gençosman Mahallesi, Güngören, İstanbul, Marmara Bölgesi, 34220, Türkiye"
+ },
+ "merkez, sanayi, gungoren, Istanbul, Turkey": null,
+ "sanayi, gungoren, Istanbul, Turkey": {
+  "lat": 41.0191385,
+  "lon": 28.8808882,
+  "display": "Sanayi Mahallesi, Güngören, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "mehmet nesih ozmen, tozkoparan, gungoren, Istanbul, Turkey": null,
+ "tozkoparan, gungoren, Istanbul, Turkey": {
+  "lat": 41.014823,
+  "lon": 28.8966072,
+  "display": "Tozkoparan Mahallesi, Güngören, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "merkez, tozkoparan, gungoren, Istanbul, Turkey": null,
+ "19 mayis, 19 mayis, kadikoy, Istanbul, Turkey": {
+  "lat": 40.9760301,
+  "lon": 29.0851017,
+  "display": "19 Mayıs Parkı, Kazasker, 19 Mayıs Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34736, Türkiye"
+ },
+ "acibadem, acibadem, kadikoy, Istanbul, Turkey": {
+  "lat": 41.0023323,
+  "lon": 29.0444009,
+  "display": "Acıbadem, Eski D-100 Karayolu, Acıbadem Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34718, Türkiye"
+ },
+ "bostanci, bostanci, kadikoy, Istanbul, Turkey": {
+  "lat": 40.9539323,
+  "lon": 29.094902,
+  "display": "Bostancı, Bağdat Caddesi, Bostancı Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34744, Türkiye"
+ },
+ "merkez, caddebostan, kadikoy, Istanbul, Turkey": {
+  "lat": 40.9626891,
+  "lon": 29.076034,
+  "display": "Jolly Tours - Merkez Ofis, 371/A, Bağdat Caddesi, Şaşkınbakkal, Suadiye Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34740, Türkiye"
+ },
+ "caferaga, caferaga, kadikoy, Istanbul, Turkey": {
+  "lat": 40.9884103,
+  "lon": 29.0260507,
+  "display": "Kadıköy Belediyesi Caferağa Spor Salonu, Nail Bey Sokağı, Bahariye, Caferağa Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34710, Türkiye"
+ },
+ "egitim, egitim, kadikoy, Istanbul, Turkey": {
+  "lat": 40.9858655,
+  "lon": 29.0528238,
+  "display": "Atatürk Eğitim Fakültesi, İç Bahçe, Eğitim Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34722, Türkiye"
+ },
+ "erenkoy, erenkoy, kadikoy, Istanbul, Turkey": {
+  "lat": 40.9716791,
+  "lon": 29.0763662,
+  "display": "Erenköy, Eralp Sokağı, Erenköy Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34738, Türkiye"
+ },
+ "fenerbahce, fenerbahce, kadikoy, Istanbul, Turkey": {
+  "lat": 40.9696064,
+  "lon": 29.0375737,
+  "display": "Fenerbahçe, Atlıhan Sokağı, Fenerbahçe Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34726, Türkiye"
+ },
+ "merkez, feneryolu, kadikoy, Istanbul, Turkey": null,
+ "feneryolu, kadikoy, Istanbul, Turkey": {
+  "lat": 40.9788502,
+  "lon": 29.0487327,
+  "display": "Feneryolu, Gazi Muhtarpaşa Sokağı, Feneryolu Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34724, Türkiye"
+ },
+ "zuhtupasa, feneryolu, kadikoy, Istanbul, Turkey": {
+  "lat": 40.9841404,
+  "lon": 29.0400399,
+  "display": "Zühtüpaşa Camii, 35/1, Bağdat Caddesi, Kızıltoprak, Zühtüpaşa Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34724, Türkiye"
+ },
+ "dumlupinar, fikirtepe, kadikoy, Istanbul, Turkey": null,
+ "fikirtepe, kadikoy, Istanbul, Turkey": {
+  "lat": 40.9932183,
+  "lon": 29.0516214,
+  "display": "Fikirtepe Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "merkez, fikirtepe, kadikoy, Istanbul, Turkey": {
+  "lat": 40.996139,
+  "lon": 29.0503768,
+  "display": "Fikirtepe Merkez Camii, Erdemler Sokağı, Fikirtepe Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34720, Türkiye"
+ },
+ "goztepe, goztepe, kadikoy, Istanbul, Turkey": {
+  "lat": 40.979211,
+  "lon": 29.0626291,
+  "display": "Göztepe, 61, Yeşilbahar Sokağı, Çiftehavuzlar, Göztepe Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34730, Türkiye"
+ },
+ "hasanpasa, hasanpasa, kadikoy, Istanbul, Turkey": {
+  "lat": 40.9967582,
+  "lon": 29.0429015,
+  "display": "Müze Gazhane, Botanik Sokağı, Hasanpaşa Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34722, Türkiye"
+ },
+ "kosuyolu, kosuyolu, kadikoy, Istanbul, Turkey": {
+  "lat": 41.009316,
+  "lon": 29.037033,
+  "display": "Koşuyolu, Koşuyolu Caddesi, Koşuyolu Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34718, Türkiye"
+ },
+ "kozyatagi, kozyatagi, kadikoy, Istanbul, Turkey": {
+  "lat": 40.97539,
+  "lon": 29.0996756,
+  "display": "Kozyatağı, Metro Altgeçidi, İçerenköy Mahallesi, Ataşehir, İstanbul, Marmara Bölgesi, 34752, Türkiye"
+ },
+ "merdivenkoy, merdivenkoy, kadikoy, Istanbul, Turkey": {
+  "lat": 40.9865349,
+  "lon": 29.0750826,
+  "display": "Merdivenköy, Sayım Sokağı, Merdivenköy Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34732, Türkiye"
+ },
+ "osmanaga, osmanaga, kadikoy, Istanbul, Turkey": {
+  "lat": 40.9908391,
+  "lon": 29.0261231,
+  "display": "Osman Ağa Cami, Söğütlüçeşme Caddesi, Osmanağa Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34714, Türkiye"
+ },
+ "rasimpasa, rasimpasa, kadikoy, Istanbul, Turkey": {
+  "lat": 40.9953995,
+  "lon": 29.0318992,
+  "display": "Rasimpaşa Mahallesi Muhtarlığı, Uzun Hafız Sokak Köprüsü, Yeldeğirmeni, Rasimpaşa Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34716, Türkiye"
+ },
+ "sahrayi cedit, sahrayicedit, kadikoy, Istanbul, Turkey": null,
+ "sahrayicedit, kadikoy, Istanbul, Turkey": {
+  "lat": 40.9831733,
+  "lon": 29.0831882,
+  "display": "Sahrayıcedit Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34734, Türkiye"
+ },
+ "merkez, suadiye, kadikoy, Istanbul, Turkey": {
+  "lat": 40.9561346,
+  "lon": 29.0798489,
+  "display": "Suadiye Merkez Taksi, Plaj Yolu Sokağı, Şaşkınbakkal, Suadiye Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34740, Türkiye"
+ },
+ "caglayan, caglayan, kagithane, Istanbul, Turkey": {
+  "lat": 41.079001,
+  "lon": 28.978415,
+  "display": "Çağlayan, Yıldızhan Caddesi, Çağlayan Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34403, Türkiye"
+ },
+ "hurriyet, caglayan, kagithane, Istanbul, Turkey": null,
+ "caglayan, kagithane, Istanbul, Turkey": {
+  "lat": 41.0707068,
+  "lon": 28.9805133,
+  "display": "Çağlayan, Taşocağı Caddesi, Hürriyet Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34403, Türkiye"
+ },
+ "celiktepe, celiktepe, kagithane, Istanbul, Turkey": {
+  "lat": 41.0829587,
+  "lon": 29.002495,
+  "display": "Çeliktepe Muhtarlığı, İsmet İnönü Caddesi, Çeliktepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34413, Türkiye"
+ },
+ "gultepe, gultepe, kagithane, Istanbul, Turkey": {
+  "lat": 41.0797395,
+  "lon": 28.9938158,
+  "display": "Gültepe İmam Hatip Ortaokulu, İşçi Sokağı, Gültepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34410, Türkiye"
+ },
+ "harmantepe, gultepe, kagithane, Istanbul, Turkey": null,
+ "gultepe, kagithane, Istanbul, Turkey": {
+  "lat": 41.0810024,
+  "lon": 28.9949074,
+  "display": "Gültepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "ortabayir, gultepe, kagithane, Istanbul, Turkey": null,
+ "telsizler, gultepe, kagithane, Istanbul, Turkey": null,
+ "yahya kemal, gultepe, kagithane, Istanbul, Turkey": null,
+ "merkez, hamidiye, kagithane, Istanbul, Turkey": null,
+ "hamidiye, kagithane, Istanbul, Turkey": {
+  "lat": 41.0945221,
+  "lon": 28.9708151,
+  "display": "Hamidiye Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34408, Türkiye"
+ },
+ "gursel, kagithane, kagithane, Istanbul, Turkey": {
+  "lat": 41.0709262,
+  "lon": 28.972669,
+  "display": "Gürsel Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "mehmet akif ersoy, kagithane, kagithane, Istanbul, Turkey": {
+  "lat": 41.0593001,
+  "lon": 28.9564044,
+  "display": "Mehmet Akif Ersoy Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "merkez, kagithane, kagithane, Istanbul, Turkey": {
+  "lat": 41.079396,
+  "lon": 28.9692391,
+  "display": "Merkez Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34406, Türkiye"
+ },
+ "nurtepe, kagithane, kagithane, Istanbul, Turkey": {
+  "lat": 41.0798589,
+  "lon": 28.9634762,
+  "display": "Nurtepe, Sokullu Caddesi, Nurtepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34406, Türkiye"
+ },
+ "talatpasa, kagithane, kagithane, Istanbul, Turkey": {
+  "lat": 41.063141,
+  "lon": 28.9635226,
+  "display": "Talatpaşa Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34400, Türkiye"
+ },
+ "merkez, seyrantepe, kagithane, Istanbul, Turkey": {
+  "lat": 41.1001038,
+  "lon": 28.9983105,
+  "display": "Seyrantepe Merkez Cami, Nato Caddesi, Seyrantepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34418, Türkiye"
+ },
+ "yesilce, seyrantepe, kagithane, Istanbul, Turkey": {
+  "lat": 41.0965017,
+  "lon": 28.9968336,
+  "display": "Yeşilce Mahallesi, Kağıthane Barbaros Caddesi, Seyrantepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34418, Türkiye"
+ },
+ "emniyet evleri, sirintepe, kagithane, Istanbul, Turkey": null,
+ "sirintepe, kagithane, Istanbul, Turkey": {
+  "lat": 41.0889065,
+  "lon": 28.9909795,
+  "display": "Şirintepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "sirintepe, sirintepe, kagithane, Istanbul, Turkey": {
+  "lat": 41.088156,
+  "lon": 28.990391,
+  "display": "Şirintepe, Akan Yıldız Sokağı, Şirintepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34415, Türkiye"
+ },
+ "sultan selim, sirintepe, kagithane, Istanbul, Turkey": {
+  "lat": 41.090289,
+  "lon": 28.996565,
+  "display": "Sultan Selim Mahallesi Merkez Camii, Gümüşhane Caddesi, Sultan Selim Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34415, Türkiye"
+ },
+ "orhantepe, dragos, kartal, Istanbul, Turkey": {
+  "lat": 40.901779,
+  "lon": 29.147132,
+  "display": "Fiziksel Engelliler Vakfı Orhantepe, Turgut Özal Bulvarı, Dragos, Orhantepe Mahallesi, Kartal, İstanbul, Marmara Bölgesi, 34865, Türkiye"
+ },
+ "karliktepe, esentepe, kartal, Istanbul, Turkey": {
+  "lat": 40.90075,
+  "lon": 29.1839795,
+  "display": "Ptt - Karlıktepe, Tecerdağı Caddesi, Karlıktepe Mahallesi, Kartal, İstanbul, Marmara Bölgesi, 34862, Türkiye"
+ },
+ "merkez, esentepe, kartal, Istanbul, Turkey": null,
+ "esentepe, kartal, Istanbul, Turkey": {
+  "lat": 40.9069182,
+  "lon": 29.1868775,
+  "display": "Esentepe Mahallesi, Kartal, İstanbul, Marmara Bölgesi, 34870, Türkiye"
+ },
+ "cevizli, orhantepe, kartal, Istanbul, Turkey": {
+  "lat": 40.9100807,
+  "lon": 29.1559855,
+  "display": "Cevizli, Orhangazi Caddesi, Orhantepe Mahallesi, Kartal, İstanbul, Marmara Bölgesi, 34865, Türkiye"
+ },
+ "atalar, rahmanlar (atalar), kartal, Istanbul, Turkey": null,
+ "rahmanlar (atalar), kartal, Istanbul, Turkey": {
+  "lat": 40.8987112,
+  "lon": 29.1703719,
+  "display": "Rahmanlar Şifa Eczanesi, Üsküdar Caddesi, Atalar Mahallesi, Kartal, İstanbul, Marmara Bölgesi, 34865, Türkiye"
+ },
+ "kordonboyu, rahmanlar (atalar), kartal, Istanbul, Turkey": null,
+ "petrolis, rahmanlar (atalar), kartal, Istanbul, Turkey": null,
+ "yukari, rahmanlar (atalar), kartal, Istanbul, Turkey": null,
+ "gumuspinar, soganlik, kartal, Istanbul, Turkey": null,
+ "soganlik, kartal, Istanbul, Turkey": {
+  "lat": 40.9132162,
+  "lon": 29.1924269,
+  "display": "Soğanlık, Ankara Asfaltı Yanyolu, Soğanlık Yeni Mahallesi, Kartal, İstanbul, Marmara Bölgesi, 34880, Türkiye"
+ },
+ "orta, soganlik, kartal, Istanbul, Turkey": {
+  "lat": 40.9144727,
+  "lon": 29.2019581,
+  "display": "Kartal Orta Mahalle Muhtarlığı, Tiryaki Hasan Paşa Sokak, Soğanlık, Orta Mahallesi, Kartal, İstanbul, Marmara Bölgesi, 34880, Türkiye"
+ },
+ "soganlik yeni, soganlik, kartal, Istanbul, Turkey": {
+  "lat": 40.9176319,
+  "lon": 29.1933918,
+  "display": "Soğanlık Yeni Mahalle Muhtarlığı, Yahya Kemal Beyatlı Caddesi, Soğanlık Yeni Mahallesi, Kartal, İstanbul, Marmara Bölgesi, 34880, Türkiye"
+ },
+ "cavusoglu, topselvi, kartal, Istanbul, Turkey": null,
+ "topselvi, kartal, Istanbul, Turkey": {
+  "lat": 40.8939427,
+  "lon": 29.2153856,
+  "display": "Topselvi Mahalesi, Kartal, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "merkez, topselvi, kartal, Istanbul, Turkey": {
+  "lat": 40.8936308,
+  "lon": 29.2173873,
+  "display": "Topselvi̇ Merkez Cami̇, Topselvi Caddesi, Topselvi Mahalesi, Kartal, İstanbul, Marmara Bölgesi, 34873, Türkiye"
+ },
+ "yali, topselvi, kartal, Istanbul, Turkey": {
+  "lat": 40.8922526,
+  "lon": 29.2162585,
+  "display": "Yalı Yunus Topselvi Mahalle Bölge Başkanlığı, İkiz Sokak, Topselvi Mahalesi, Kartal, İstanbul, Marmara Bölgesi, 34873, Türkiye"
+ },
+ "yunus, topselvi, kartal, Istanbul, Turkey": {
+  "lat": 40.8894074,
+  "lon": 29.2166276,
+  "display": "Yunus Mahallesi Muhtarlığı, Yeşil Sokağı, Yunus Mahallesi, Topselvi Mahalesi, Kartal, İstanbul, Marmara Bölgesi, 34873, Türkiye"
+ },
+ "ugur mumcu, ugurmumcu, kartal, Istanbul, Turkey": {
+  "lat": 40.9322088,
+  "lon": 29.2132981,
+  "display": "Uğur Mumcu Kültür Merkezi, 17, Şeyh Şamil Caddesi, Uğur Mumcu Mahallesi, Kartal, İstanbul, Marmara Bölgesi, 34882, Türkiye"
+ },
+ "cumhuriyet, yakacik, kartal, Istanbul, Turkey": null,
+ "yakacik, kartal, Istanbul, Turkey": {
+  "lat": 40.9190971,
+  "lon": 29.2247675,
+  "display": "Yakacık, Yakacık Yeni Mahallesi, Kartal, İstanbul, Marmara Bölgesi, 34882, Türkiye"
+ },
+ "hurriyet, yakacik, kartal, Istanbul, Turkey": null,
+ "yakacik carsi, yakacik, kartal, Istanbul, Turkey": {
+  "lat": 40.9178348,
+  "lon": 29.226884,
+  "display": "Yakacık Çarşı Mahallesi Muhtarlığı, Tarihi Ayazma Caddesi, Yakacık Çarşı Mahallesi, Kartal, İstanbul, Marmara Bölgesi, 34876, Türkiye"
+ },
+ "yakacik yeni, yakacik, kartal, Istanbul, Turkey": {
+  "lat": 40.9199023,
+  "lon": 29.224849,
+  "display": "Yakacık, Samandıra Caddesi, Yakacık, Yakacık Yeni Mahallesi, Kartal, İstanbul, Marmara Bölgesi, 34882, Türkiye"
+ },
+ "merkez, cennet, kucukcekmece, Istanbul, Turkey": null,
+ "cennet, kucukcekmece, Istanbul, Turkey": {
+  "lat": 40.9896625,
+  "lon": 28.7775673,
+  "display": "Cennet Mahallesi, Küçükçekmece, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "yeni mahalle, cennet, kucukcekmece, Istanbul, Turkey": {
+  "lat": 40.9933522,
+  "lon": 28.7688819,
+  "display": "Yeni Eczanesi, Hatboyu Caddes', Cumhuriyet Mahallesi, Küçükçekmece, İstanbul, Marmara Bölgesi, 34290, Türkiye"
+ },
+ "atakent, halkali, kucukcekmece, Istanbul, Turkey": {
+  "lat": 41.0336998,
+  "lon": 28.7739638,
+  "display": "Atakent Pet Kuaför, 11, Turgut Özal Bulvarı, Halkalı, İstasyon Mahallesi, Küçükçekmece, İstanbul, Marmara Bölgesi, 34303, Türkiye"
+ },
+ "ataturk, halkali, kucukcekmece, Istanbul, Turkey": {
+  "lat": 41.0222548,
+  "lon": 28.772139,
+  "display": "Atatürk Parkı, Halkalı, İstasyon Mahallesi, Küçükçekmece, İstanbul, Marmara Bölgesi, 34303, Türkiye"
+ },
+ "halkali merkez, halkali, kucukcekmece, Istanbul, Turkey": {
+  "lat": 41.0326817,
+  "lon": 28.77521,
+  "display": "Halkalı Yunus Emre Kültür Merkez Ve Cem Vakfı, 2. Sakarya Sokağı, Halkalı, İstasyon Mahallesi, Küçükçekmece, İstanbul, Marmara Bölgesi, 34303, Türkiye"
+ },
+ "mehmet akif, halkali, kucukcekmece, Istanbul, Turkey": {
+  "lat": 41.0225125,
+  "lon": 28.7825243,
+  "display": "Mehmet Akif Ersoy Bulvarı, Halkalı, İstasyon Mahallesi, Küçükçekmece, İstanbul, Marmara Bölgesi, 34303, Türkiye"
+ },
+ "cumhuriyet, merkez, kucukcekmece, Istanbul, Turkey": {
+  "lat": 41.045571,
+  "lon": 28.795606,
+  "display": "Cumhuriyet Caddesi, Selçuklu Caddesi, Alarko blokları, Atakent Mahallesi, Küçükçekmece, İstanbul, Marmara Bölgesi, 34307, Türkiye"
+ },
+ "fatih, merkez, kucukcekmece, Istanbul, Turkey": {
+  "lat": 41.0284714,
+  "lon": 28.8032611,
+  "display": "Fatih Metro İstasyonu (M1B), Halkalı Merkez Mahallesi, Küçükçekmece, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "i̇stasyon, merkez, kucukcekmece, Istanbul, Turkey": {
+  "lat": 41.0315706,
+  "lon": 28.7780619,
+  "display": "İstasyon Mahallesi Parkı, Halkalı Merkez Mahallesi, Küçükçekmece, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "kanarya, merkez, kucukcekmece, Istanbul, Turkey": null,
+ "merkez, kucukcekmece, Istanbul, Turkey": {
+  "lat": 41.0356342,
+  "lon": 28.7925691,
+  "display": "Halkalı Merkez Mahallesi, Küçükçekmece, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "besyol, sefakoy, kucukcekmece, Istanbul, Turkey": null,
+ "sefakoy, kucukcekmece, Istanbul, Turkey": {
+  "lat": 41.0042585,
+  "lon": 28.7979845,
+  "display": "Sefaköy, Kartaltepe Mahallesi, Küçükçekmece, İstanbul, Marmara Bölgesi, 34295, Türkiye"
+ },
+ "fevzi cakmak, sefakoy, kucukcekmece, Istanbul, Turkey": null,
+ "gultepe, sefakoy, kucukcekmece, Istanbul, Turkey": null,
+ "i̇nonu, sefakoy, kucukcekmece, Istanbul, Turkey": null,
+ "kartaltepe, sefakoy, kucukcekmece, Istanbul, Turkey": {
+  "lat": 41.000391,
+  "lon": 28.797929,
+  "display": "Kartaltepe, Süvari Caddesi, Sefaköy, Kartaltepe Mahallesi, Küçükçekmece, İstanbul, Marmara Bölgesi, 34295, Türkiye"
+ },
+ "kemalpasa, sefakoy, kucukcekmece, Istanbul, Turkey": null,
+ "sogutlu cesme, sefakoy, kucukcekmece, Istanbul, Turkey": null,
+ "sultan murat, sefakoy, kucukcekmece, Istanbul, Turkey": null,
+ "tevfik bey, sefakoy, kucukcekmece, Istanbul, Turkey": null,
+ "yesilova, sefakoy, kucukcekmece, Istanbul, Turkey": null,
+ "yarimburgaz, yarimburgaz, kucukcekmece, Istanbul, Turkey": {
+  "lat": 41.04397,
+  "lon": 28.752999,
+  "display": "Yarımburgaz, Kurşun Sokağı, Yarımburgaz Mahallesi, Küçükçekmece, İstanbul, Marmara Bölgesi, 34303, Türkiye"
+ },
+ "aydinevler, aydinevler, maltepe, Istanbul, Turkey": {
+  "lat": 40.9536116,
+  "lon": 29.1218477,
+  "display": "Aydınevler, Siteler Yolu Sokağı, Aydınevler Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, 34854, Türkiye"
+ },
+ "basibuyuk, aydinevler, maltepe, Istanbul, Turkey": {
+  "lat": 40.950994,
+  "lon": 29.1332902,
+  "display": "Başıbüyük Çobanlarderesi Camii, İdealtepe Yolu, Başıbüyük Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, 34854, Türkiye"
+ },
+ "findikli, aydinevler, maltepe, Istanbul, Turkey": null,
+ "aydinevler, maltepe, Istanbul, Turkey": {
+  "lat": 40.9490261,
+  "lon": 29.1281559,
+  "display": "Aydınevler Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "merkez, cevizli, maltepe, Istanbul, Turkey": {
+  "lat": 40.9183178,
+  "lon": 29.1670091,
+  "display": "Fortes Mühendislik Genel Merkez, Tugay Yolu Caddesi, Cevizli Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, 34846, Türkiye"
+ },
+ "merkez, esenkent, maltepe, Istanbul, Turkey": {
+  "lat": 40.9252913,
+  "lon": 29.1625701,
+  "display": "Esenkent Merkez Camii, Malazgirt Caddesi, Esenkent Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, 34848, Türkiye"
+ },
+ "buyukbakkalkoy, ferhatpasa, maltepe, Istanbul, Turkey": null,
+ "ferhatpasa, maltepe, Istanbul, Turkey": {
+  "lat": 40.9723349,
+  "lon": 29.1893533,
+  "display": "Ferhatpaşa Yolu Caddesi, Büyükbakkalköy Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, 34858, Türkiye"
+ },
+ "merkez, feyzullah, maltepe, Istanbul, Turkey": {
+  "lat": 40.9246786,
+  "lon": 29.1304707,
+  "display": "Maltepe Merkez Cumhuriyet Camii, Süreyyaplajı, Feyzullah Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "gulensu, gulsuyu, maltepe, Istanbul, Turkey": {
+  "lat": 40.9315012,
+  "lon": 29.1646086,
+  "display": "Gülensu Yolu, Kazım Karabekir Caddesi, Gülsuyu Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, 34848, Türkiye"
+ },
+ "gulsuyu, gulsuyu, maltepe, Istanbul, Turkey": {
+  "lat": 40.9312014,
+  "lon": 29.1537736,
+  "display": "Gülsuyu Mezarlığı, Gülsuyu Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "altaycesme, i̇dealtepe, maltepe, Istanbul, Turkey": null,
+ "i̇dealtepe, maltepe, Istanbul, Turkey": {
+  "lat": 40.9378351,
+  "lon": 29.1142301,
+  "display": "İdealtepe, Hatboyu Yolu Caddesi, İdealtepe Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, 34841, Türkiye"
+ },
+ "cinar, i̇dealtepe, maltepe, Istanbul, Turkey": {
+  "lat": 40.9454259,
+  "lon": 29.1115393,
+  "display": "Çınar, Bağdat Caddesi, Çınar Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, 34841, Türkiye"
+ },
+ "i̇dealtepe, i̇dealtepe, maltepe, Istanbul, Turkey": {
+  "lat": 40.9378351,
+  "lon": 29.1142301,
+  "display": "İdealtepe, Hatboyu Yolu Caddesi, İdealtepe Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, 34841, Türkiye"
+ },
+ "altintepe, kucukyali, maltepe, Istanbul, Turkey": {
+  "lat": 40.9484414,
+  "lon": 29.1001047,
+  "display": "Altıntepe, Turgut Özal Bulvarı, Küçükyalı, Küçükyalı Merkez Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, 34840, Türkiye"
+ },
+ "kucukyali, kucukyali, maltepe, Istanbul, Turkey": {
+  "lat": 40.946258,
+  "lon": 29.1071674,
+  "display": "Küçükyalı, Cumhuriyet Caddesi, Küçükyalı, Küçükyalı Merkez Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, 34840, Türkiye"
+ },
+ "baglarbasi, yali, maltepe, Istanbul, Turkey": null,
+ "yali, maltepe, Istanbul, Turkey": {
+  "lat": 40.9201889,
+  "lon": 29.1277394,
+  "display": "Yalı Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "yali, yali, maltepe, Istanbul, Turkey": {
+  "lat": 40.9150327,
+  "lon": 29.1439107,
+  "display": "Dragos Yalı Konakları Sitesi, Yalı Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "girne, zumrutevler, maltepe, Istanbul, Turkey": {
+  "lat": 40.9454168,
+  "lon": 29.1381934,
+  "display": "Girne Caddesi, Zümrütevler Mahallesi, Girne Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, 34852, Türkiye"
+ },
+ "zumrutevler, zumrutevler, maltepe, Istanbul, Turkey": {
+  "lat": 40.9423801,
+  "lon": 29.1508532,
+  "display": "Zümrütevler Mahalle Muhtarlığı, Nil Caddesi, Zümrütevler Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, 34852, Türkiye"
+ },
+ "bahcelievler, bahcelievler, pendik, Istanbul, Turkey": {
+  "lat": 40.8823632,
+  "lon": 29.2387587,
+  "display": "Bahçelievler Parkı, Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye"
+ },
+ "sapan baglari, bahcelievler, pendik, Istanbul, Turkey": null,
+ "bahcelievler, pendik, Istanbul, Turkey": {
+  "lat": 40.8839106,
+  "lon": 29.2353786,
+  "display": "Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "yeni, bahcelievler, pendik, Istanbul, Turkey": {
+  "lat": 40.8844687,
+  "lon": 29.2361689,
+  "display": "Yeni Sokak, Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye"
+ },
+ "yesilbaglar, bahcelievler, pendik, Istanbul, Turkey": {
+  "lat": 40.8905863,
+  "lon": 29.2295295,
+  "display": "Yeşilbağlar Novipazar Spor Kompleksi, 91, Şehit Fethi Caddesi, Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye"
+ },
+ "camcesme, camcesme, pendik, Istanbul, Turkey": {
+  "lat": 40.872057,
+  "lon": 29.2709794,
+  "display": "Çamçeşme, Düzey Sokağı, Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye"
+ },
+ "esenler, camcesme, pendik, Istanbul, Turkey": null,
+ "camcesme, pendik, Istanbul, Turkey": {
+  "lat": 40.872231,
+  "lon": 29.2705129,
+  "display": "Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "fevzi cakmak, camcesme, pendik, Istanbul, Turkey": null,
+ "kavakpinar, camcesme, pendik, Istanbul, Turkey": {
+  "lat": 40.8693374,
+  "lon": 29.2809034,
+  "display": "Kavakpınar, Kurtköy-Pendik Bağlantısı, Atabey, Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye"
+ },
+ "bati, carsi, pendik, Istanbul, Turkey": null,
+ "carsi, pendik, Istanbul, Turkey": {
+  "lat": 40.9153788,
+  "lon": 29.2982399,
+  "display": "Üstün Çarşı, Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "dogu, carsi, pendik, Istanbul, Turkey": null,
+ "kaynarca, carsi, pendik, Istanbul, Turkey": null,
+ "cinardere, dolayoba, pendik, Istanbul, Turkey": {
+  "lat": 40.8981608,
+  "lon": 29.238255,
+  "display": "Çınardere Yeni Camii, Ayazma Küme Sokak, Dolayoba, Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye"
+ },
+ "dumlupinar, dolayoba, pendik, Istanbul, Turkey": null,
+ "dolayoba, pendik, Istanbul, Turkey": {
+  "lat": 40.8933739,
+  "lon": 29.2440197,
+  "display": "Dolayoba, Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye"
+ },
+ "orta, dolayoba, pendik, Istanbul, Turkey": null,
+ "velibaba, dolayoba, pendik, Istanbul, Turkey": null,
+ "ahmet yesevi, esenyali, pendik, Istanbul, Turkey": null,
+ "esenyali, pendik, Istanbul, Turkey": {
+  "lat": 40.8624956,
+  "lon": 29.2950466,
+  "display": "Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "esenyali, esenyali, pendik, Istanbul, Turkey": {
+  "lat": 40.8587489,
+  "lon": 29.2938594,
+  "display": "Esenyalı Çocuk Parkı, Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye"
+ },
+ "fatih, esenyali, pendik, Istanbul, Turkey": null,
+ "guzelyali, esenyali, pendik, Istanbul, Turkey": null,
+ "orhangazi, esenyali, pendik, Istanbul, Turkey": null,
+ "gocbeyli, koyler, pendik, Istanbul, Turkey": null,
+ "koyler, pendik, Istanbul, Turkey": null,
+ "pendik, Istanbul, Turkey": {
+  "lat": 40.8768715,
+  "lon": 29.2349672,
+  "display": "Pendik, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "gullu baglar, seyhli, pendik, Istanbul, Turkey": null,
+ "seyhli, pendik, Istanbul, Turkey": {
+  "lat": 40.9069317,
+  "lon": 29.2844986,
+  "display": "Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "sanayi, seyhli, pendik, Istanbul, Turkey": {
+  "lat": 40.9020614,
+  "lon": 29.2938092,
+  "display": "Sanayi Caddesi, Ramazanoğlu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye"
+ },
+ "seyhli, seyhli, pendik, Istanbul, Turkey": {
+  "lat": 40.9049519,
+  "lon": 29.2851031,
+  "display": "Şeyhli, Kaynarca Caddesi, Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye"
+ },
+ "merkez, yayalar, pendik, Istanbul, Turkey": null,
+ "yayalar, pendik, Istanbul, Turkey": {
+  "lat": 40.9027998,
+  "lon": 29.267275,
+  "display": "Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "suluntepe, yayalar, pendik, Istanbul, Turkey": null,
+ "camlik, yenisehir, pendik, Istanbul, Turkey": {
+  "lat": 40.926903,
+  "lon": 29.287591,
+  "display": "Çamlık Sitesi, Selçuklu Caddesi, Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye"
+ },
+ "harmandere, yenisehir, pendik, Istanbul, Turkey": {
+  "lat": 40.929112,
+  "lon": 29.323396,
+  "display": "Harmandere, Ankara Caddesi, Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye"
+ },
+ "kurtkoy, yenisehir, pendik, Istanbul, Turkey": {
+  "lat": 40.9378875,
+  "lon": 29.3290582,
+  "display": "Kurtköy, Kurtköy Kavşağı, Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye"
+ },
+ "yenisehir, yenisehir, pendik, Istanbul, Turkey": {
+  "lat": 40.9457707,
+  "lon": 29.3087667,
+  "display": "Yenişehir Mesire Alanı, Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye"
+ },
+ "abdurrahmangazi, samandira, sancaktepe, Istanbul, Turkey": {
+  "lat": 40.9873715,
+  "lon": 29.2280614,
+  "display": "Abdurrahmangazi Caddesi, Samandıra, Abdurrahmangazi Mahallesi, Sancaktepe, İstanbul, Marmara Bölgesi, 34887, Türkiye"
+ },
+ "akpinar, samandira, sancaktepe, Istanbul, Turkey": null,
+ "samandira, sancaktepe, Istanbul, Turkey": {
+  "lat": 40.9853835,
+  "lon": 29.229541,
+  "display": "Samandıra, Abdurrahmangazi Mahallesi, Sancaktepe, İstanbul, Marmara Bölgesi, 34887, Türkiye"
+ },
+ "eyup sultan, samandira, sancaktepe, Istanbul, Turkey": null,
+ "fatih, samandira, sancaktepe, Istanbul, Turkey": {
+  "lat": 40.965307,
+  "lon": 29.2129489,
+  "display": "Sancaktepe Fatih Borsa İstanbul Mesleki ve Teknik Anadolu Lisesi, Samandıra Caddesi, Ortadağ, Fatih Mahallesi, Sancaktepe, İstanbul, Marmara Bölgesi, 34885, Türkiye"
+ },
+ "osmangazi, samandira, sancaktepe, Istanbul, Turkey": {
+  "lat": 40.9908875,
+  "lon": 29.224174,
+  "display": "Osmangazi Caddesi, Samandıra, Abdurrahmangazi Mahallesi, Sancaktepe, İstanbul, Marmara Bölgesi, 34887, Türkiye"
+ },
+ "veysel karani, samandira, sancaktepe, Istanbul, Turkey": null,
+ "ataturk, sarigazi, sancaktepe, Istanbul, Turkey": {
+  "lat": 41.0084266,
+  "lon": 29.2041936,
+  "display": "Atatürk Caddesi, Sarıgazi, Sarıgazi Mahallesi, Sancaktepe, İstanbul, Marmara Bölgesi, 34785, Türkiye"
+ },
+ "emek, sarigazi, sancaktepe, Istanbul, Turkey": {
+  "lat": 41.0018878,
+  "lon": 29.2020479,
+  "display": "Emek Metro İnşaat Alanı (M13), Emek Mahallesi, Sancaktepe, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "i̇nonu, sarigazi, sancaktepe, Istanbul, Turkey": null,
+ "sarigazi, sancaktepe, Istanbul, Turkey": {
+  "lat": 41.0100295,
+  "lon": 29.2126756,
+  "display": "Sarıgazi, Termal Sokağı, İnönü Mahallesi, Sancaktepe, İstanbul, Marmara Bölgesi, 34785, Türkiye"
+ },
+ "kemal turkler, sarigazi, sancaktepe, Istanbul, Turkey": null,
+ "meclis, sarigazi, sancaktepe, Istanbul, Turkey": null,
+ "sarigazi, sarigazi, sancaktepe, Istanbul, Turkey": {
+  "lat": 41.0084128,
+  "lon": 29.2138943,
+  "display": "Sarıgazi, Sarıgazi Mahallesi, Sancaktepe, İstanbul, Marmara Bölgesi, 34785, Türkiye"
+ },
+ "hilal, yenidogan, sancaktepe, Istanbul, Turkey": null,
+ "yenidogan, sancaktepe, Istanbul, Turkey": {
+  "lat": 41.013189,
+  "lon": 29.2416963,
+  "display": "Yenidoğan Mahallesi, Sancaktepe, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "merve, yenidogan, sancaktepe, Istanbul, Turkey": {
+  "lat": 41.0083247,
+  "lon": 29.2400459,
+  "display": "Merve Mahallesi, Atatürk Caddesi, Yenidoğan, Yenidoğan Mahallesi, Sancaktepe, İstanbul, Marmara Bölgesi, 34791, Türkiye"
+ },
+ "mevlana, yenidogan, sancaktepe, Istanbul, Turkey": null,
+ "safa, yenidogan, sancaktepe, Istanbul, Turkey": null,
+ "yenidogan, yenidogan, sancaktepe, Istanbul, Turkey": {
+  "lat": 41.0140074,
+  "lon": 29.2456766,
+  "display": "Yenidoğan, Yenidoğan Mahallesi, Sancaktepe, İstanbul, Marmara Bölgesi, 34791, Türkiye"
+ },
+ "yunus emre, yenidogan, sancaktepe, Istanbul, Turkey": null,
+ "bahcekoy kemer, bahcekoy, sariyer, Istanbul, Turkey": {
+  "lat": 41.1709383,
+  "lon": 28.9911451,
+  "display": "Bahçeköy Kemer Mahallesi Muhtarlığı, Valide Sultan Caddesi, Bahçeköy, Bahçeköy Merkez Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye"
+ },
+ "bahcekoy merkez, bahcekoy, sariyer, Istanbul, Turkey": {
+  "lat": 41.179861,
+  "lon": 28.992931,
+  "display": "Bahçeköy Merkez, Adnan Menderes Caddesi, Bahçeköy, Bahçeköy Yeni Mahalle, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye"
+ },
+ "bahcekoy yeni, bahcekoy, sariyer, Istanbul, Turkey": {
+  "lat": 41.179506,
+  "lon": 28.9918685,
+  "display": "Bahçeköy Yeni Camii, Bahçeköy Merkez Cami Sokağı, Bahçeköy, Bahçeköy Merkez Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye"
+ },
+ "buyukdere, buyukdere, sariyer, Istanbul, Turkey": {
+  "lat": 41.16111,
+  "lon": 29.044237,
+  "display": "Büyükdere, Çayırbaşı Caddesi, Büyükdere Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye"
+ },
+ "cayirbasi, buyukdere, sariyer, Istanbul, Turkey": {
+  "lat": 41.1659189,
+  "lon": 29.0324461,
+  "display": "Çayırbaşı Tüneli, Kocataş Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye"
+ },
+ "kazim karabekir pasa, buyukdere, sariyer, Istanbul, Turkey": null,
+ "buyukdere, sariyer, Istanbul, Turkey": {
+  "lat": 41.1602485,
+  "lon": 29.0421459,
+  "display": "Büyükdere Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "ptt evleri, buyukdere, sariyer, Istanbul, Turkey": null,
+ "merkez, emirgan, sariyer, Istanbul, Turkey": null,
+ "emirgan, sariyer, Istanbul, Turkey": {
+  "lat": 41.103131,
+  "lon": 29.0536894,
+  "display": "Emirgan Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "resitpasa, emirgan, sariyer, Istanbul, Turkey": null,
+ "i̇stinye, i̇stinye, sariyer, Istanbul, Turkey": {
+  "lat": 41.1132509,
+  "lon": 29.0611679,
+  "display": "İstinye, İstinye Caddesi, İstinye Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34460, Türkiye"
+ },
+ "pinar, i̇stinye, sariyer, Istanbul, Turkey": {
+  "lat": 41.1105921,
+  "lon": 29.0340644,
+  "display": "The KASE Turkey Maazası, Katar Caddesi, Pınar Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34460, Türkiye"
+ },
+ "poligon, i̇stinye, sariyer, Istanbul, Turkey": null,
+ "i̇stinye, sariyer, Istanbul, Turkey": {
+  "lat": 41.1150511,
+  "lon": 29.055486,
+  "display": "İstinye Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "garipce, koyler, sariyer, Istanbul, Turkey": null,
+ "koyler, sariyer, Istanbul, Turkey": {
+  "lat": 41.2081994,
+  "lon": 29.0227278,
+  "display": "Sarıyer Belediyesi Köyler Hizmet Birimi, 4. Cadde, Zekeriyaköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34450, Türkiye"
+ },
+ "kumkoy, koyler, sariyer, Istanbul, Turkey": null,
+ "uskumrukoy, koyler, sariyer, Istanbul, Turkey": null,
+ "zekeriyakoy, koyler, sariyer, Istanbul, Turkey": null,
+ "ayazaga, merkez, sariyer, Istanbul, Turkey": null,
+ "merkez, sariyer, Istanbul, Turkey": {
+  "lat": 41.1717313,
+  "lon": 29.0518358,
+  "display": "Merkez, Merkez Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34450, Türkiye"
+ },
+ "huzur, merkez, sariyer, Istanbul, Turkey": null,
+ "maslak, merkez, sariyer, Istanbul, Turkey": null,
+ "baltalimani, rumelihisari, sariyer, Istanbul, Turkey": {
+  "lat": 41.0925449,
+  "lon": 29.0549667,
+  "display": "Baltalimanı Hisar Caddesi, Baltalimanı Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34470, Türkiye"
+ },
+ "fatih sultan mehmet, rumelihisari, sariyer, Istanbul, Turkey": {
+  "lat": 41.0912283,
+  "lon": 29.0611742,
+  "display": "Fatih Sultan Mehmet Köprüsü, Rumelihisarı Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "rumeli hisari, rumelihisari, sariyer, Istanbul, Turkey": {
+  "lat": 41.0849171,
+  "lon": 29.0567125,
+  "display": "Rumeli Hisarı, Hisar Cafe & Restaurant, Rumelihisarı Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34470, Türkiye"
+ },
+ "maden, sariyer, sariyer, Istanbul, Turkey": {
+  "lat": 41.1817996,
+  "lon": 29.0379835,
+  "display": "Maden Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "sariyer merkez, sariyer, sariyer, Istanbul, Turkey": {
+  "lat": 41.1695338,
+  "lon": 29.0555158,
+  "display": "Merkez Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "yeni, sariyer, sariyer, Istanbul, Turkey": {
+  "lat": 41.1897861,
+  "lon": 28.9861797,
+  "display": "İkinci Mahmut Bendi, Bahçeköy Merkez Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye"
+ },
+ "camlitepe, tarabya, sariyer, Istanbul, Turkey": null,
+ "tarabya, sariyer, Istanbul, Turkey": {
+  "lat": 41.1385739,
+  "lon": 29.0530421,
+  "display": "Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "cumhuriyet, tarabya, sariyer, Istanbul, Turkey": {
+  "lat": 41.1401701,
+  "lon": 29.0312962,
+  "display": "Cumhuriyet Mahallesi, Öz Gül Sokağı, Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye"
+ },
+ "darussafaka, tarabya, sariyer, Istanbul, Turkey": null,
+ "ferahevler, tarabya, sariyer, Istanbul, Turkey": {
+  "lat": 41.137749,
+  "lon": 29.037918,
+  "display": "Ferahevler Yolu, Tarabya Bayırı Caddesi, Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye"
+ },
+ "kirecburnu, tarabya, sariyer, Istanbul, Turkey": {
+  "lat": 41.148044,
+  "lon": 29.046129,
+  "display": "Kireçburnu, Haydar Aliyev Caddesi, Kireçburnu Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye"
+ },
+ "merkez, tarabya, sariyer, Istanbul, Turkey": {
+  "lat": 41.1399083,
+  "lon": 29.0337079,
+  "display": "Merkez Kort, Lale Sokağı / Sevgi Lalesi Sokağı, Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye"
+ },
+ "yenikoy, yenikoy, sariyer, Istanbul, Turkey": {
+  "lat": 41.121543,
+  "lon": 29.070128,
+  "display": "Yeniköy, Yeniköy Tarabya Caddesi, Yeniköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34464, Türkiye"
+ },
+ "agva merkez, agva, sile, Istanbul, Turkey": null,
+ "agva, sile, Istanbul, Turkey": null,
+ "sile, Istanbul, Turkey": null,
+ "ahmetli, koyler, sile, Istanbul, Turkey": null,
+ "koyler, sile, Istanbul, Turkey": null,
+ "akcakese, koyler, sile, Istanbul, Turkey": null,
+ "i̇mrendere, koyler, sile, Istanbul, Turkey": null,
+ "i̇mrenli, koyler, sile, Istanbul, Turkey": null,
+ "karacakoy, koyler, sile, Istanbul, Turkey": null,
+ "mesrutiyet, koyler, sile, Istanbul, Turkey": null,
+ "balibey, sile, sile, Istanbul, Turkey": null,
+ "sile, sile, Istanbul, Turkey": null,
+ "cavus, sile, sile, Istanbul, Turkey": null,
+ "haci kasim, sile, sile, Istanbul, Turkey": null,
+ "kumbaba, sile, sile, Istanbul, Turkey": null,
+ "canta balaban, canta, silivri, Istanbul, Turkey": null,
+ "canta, silivri, Istanbul, Turkey": null,
+ "silivri, Istanbul, Turkey": null,
+ "canta sancaktepe, canta, silivri, Istanbul, Turkey": null,
+ "degirmenkoy fevzipasa, degirmenkoy, silivri, Istanbul, Turkey": null,
+ "degirmenkoy, silivri, Istanbul, Turkey": null,
+ "degirmenkoy i̇smetpasa, degirmenkoy, silivri, Istanbul, Turkey": null,
+ "gumusyaka, gumusyaka, silivri, Istanbul, Turkey": null,
+ "gumusyaka, silivri, Istanbul, Turkey": null,
+ "seymen, koyler, silivri, Istanbul, Turkey": null,
+ "koyler, silivri, Istanbul, Turkey": null,
+ "ortakoy, ortakoy, silivri, Istanbul, Turkey": null,
+ "ortakoy, silivri, Istanbul, Turkey": null,
+ "selimpasa, selimpasa, silivri, Istanbul, Turkey": null,
+ "selimpasa, silivri, Istanbul, Turkey": null,
+ "alibey, silivri, silivri, Istanbul, Turkey": null,
+ "silivri, silivri, Istanbul, Turkey": null,
+ "alipasa, silivri, silivri, Istanbul, Turkey": null,
+ "cumhuriyet, silivri, silivri, Istanbul, Turkey": null,
+ "fatih, silivri, silivri, Istanbul, Turkey": null,
+ "mimar sinan, silivri, silivri, Istanbul, Turkey": null,
+ "piri mehmet pasa, silivri, silivri, Istanbul, Turkey": null,
+ "semizkumlar, silivri, silivri, Istanbul, Turkey": null,
+ "yeni, silivri, silivri, Istanbul, Turkey": null,
+ "19 mayis, 19 mayis, sisli, Istanbul, Turkey": {
+  "lat": 41.0609562,
+  "lon": 28.9898071,
+  "display": "19 Mayıs Caddesi, 19 Mayıs Mahallesi, Osmanbey, Şişli, İstanbul, Marmara Bölgesi, 34363, Türkiye"
+ },
+ "eskisehir, bozkurt, sisli, Istanbul, Turkey": null,
+ "bozkurt, sisli, Istanbul, Turkey": {
+  "lat": 41.0498994,
+  "lon": 28.984135,
+  "display": "Bozkurt Mahallesi, Pangaltı, Şişli, İstanbul, Marmara Bölgesi, 34373, Türkiye"
+ },
+ "merkez, bozkurt, sisli, Istanbul, Turkey": null,
+ "merkez, cumhuriyet, sisli, Istanbul, Turkey": {
+  "lat": 41.0581981,
+  "lon": 28.9851918,
+  "display": "Şişli Merkez Aile Sağlığı Merkezi, 23, Oktay Cebeci Sokağı, Merkez Mahallesi, Bomonti, Şişli, İstanbul, Marmara Bölgesi, 34384, Türkiye"
+ },
+ "merkez, duatepe, sisli, Istanbul, Turkey": {
+  "lat": 41.0529954,
+  "lon": 28.9776318,
+  "display": "Feriköy Behram Çavuş Merkez Cami, Behram Çavuş Sokağı, Paşa, Paşa Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34379, Türkiye"
+ },
+ "pasa, duatepe, sisli, Istanbul, Turkey": {
+  "lat": 41.0517132,
+  "lon": 28.9792936,
+  "display": "Mahmut Şevket Paşa Ortaokulu, Gediz Sokağı, Duatepe Mahallesi, Feriköy Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34377, Türkiye"
+ },
+ "merkez, esentepe, sisli, Istanbul, Turkey": {
+  "lat": 41.0694554,
+  "lon": 29.0073725,
+  "display": "Jolly Tours - Merkez Ofis, Hikaye Sokağı, Zincirlikuyu, Esentepe Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34394, Türkiye"
+ },
+ "ferikoy, ferikoy, sisli, Istanbul, Turkey": {
+  "lat": 41.0534776,
+  "lon": 28.9817604,
+  "display": "Özel Feriköy Ermeni Okulu, Çobanoğlu Sokağı, Duatepe Mahallesi, Feriköy Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34377, Türkiye"
+ },
+ "yayla, ferikoy, sisli, Istanbul, Turkey": null,
+ "ferikoy, sisli, Istanbul, Turkey": {
+  "lat": 41.0490846,
+  "lon": 28.9794103,
+  "display": "Feriköy Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34377, Türkiye"
+ },
+ "merkez, fulya, sisli, Istanbul, Turkey": {
+  "lat": 41.066013,
+  "lon": 28.9950587,
+  "display": "Merkez Caddesi, Merkez Mahallesi, Osmanbey, Şişli, İstanbul, Marmara Bölgesi, 34384, Türkiye"
+ },
+ "gulbahar, gulbahar, sisli, Istanbul, Turkey": {
+  "lat": 41.0733428,
+  "lon": 28.9963537,
+  "display": "Gülbahar Caddesi, Mecidiyeköy Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34381, Türkiye"
+ },
+ "halide edip adivar, halide edip, sisli, Istanbul, Turkey": {
+  "lat": 41.0621583,
+  "lon": 28.9755772,
+  "display": "Halide Edip Adıvar Parkı, Halide Edip Adıvar Mahallesi, Şişli, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "i̇nonu, harbiye, sisli, Istanbul, Turkey": null,
+ "harbiye, sisli, Istanbul, Turkey": {
+  "lat": 41.0452381,
+  "lon": 28.9910139,
+  "display": "Harbiye Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34367, Türkiye"
+ },
+ "merkez, harbiye, sisli, Istanbul, Turkey": null,
+ "i̇zzet pasa, mecidiyekoy, sisli, Istanbul, Turkey": null,
+ "mecidiyekoy, sisli, Istanbul, Turkey": {
+  "lat": 41.0700421,
+  "lon": 28.9962529,
+  "display": "Mecidiyeköy Mahallesi, Osmanbey, Şişli, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "kustepe, mecidiyekoy, sisli, Istanbul, Turkey": null,
+ "mecidiyekoy, mecidiyekoy, sisli, Istanbul, Turkey": {
+  "lat": 41.0668048,
+  "lon": 28.992731,
+  "display": "Mecidiyeköy, 1. Çevre Yolu, Mecidiyeköy Mahallesi, Osmanbey, Şişli, İstanbul, Marmara Bölgesi, 34381, Türkiye"
+ },
+ "mesrutiyet, mesrutiyet, sisli, Istanbul, Turkey": {
+  "lat": 41.0542957,
+  "lon": 28.9929665,
+  "display": "Meşrutiyet Hamidiye Camii, Özlem Sokağı, Meşrutiyet Mahallesi, Nişantaşı, Şişli, İstanbul, Marmara Bölgesi, 34363, Türkiye"
+ },
+ "halaskargazi, nisantasi, sisli, Istanbul, Turkey": {
+  "lat": 41.0514835,
+  "lon": 28.9888479,
+  "display": "Halaskargazi Mahallesi, Nişantaşı, Şişli, İstanbul, Marmara Bölgesi, 34371, Türkiye"
+ },
+ "halil rifat pasa, okmeydani, sisli, Istanbul, Turkey": {
+  "lat": 41.057578,
+  "lon": 28.968949,
+  "display": "Halil Rifat Paşa, Ertan Sokağı, Okmeydanı, Halil Rıfat Paşa Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34384, Türkiye"
+ },
+ "kaptan pasa, okmeydani, sisli, Istanbul, Turkey": null,
+ "okmeydani, sisli, Istanbul, Turkey": {
+  "lat": 41.0623809,
+  "lon": 28.9699157,
+  "display": "Okmeydanı, Halil Rıfat Paşa Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34384, Türkiye"
+ },
+ "mahmut sevket pasa, okmeydani, sisli, Istanbul, Turkey": null,
+ "ergenekon, sisli, sisli, Istanbul, Turkey": {
+  "lat": 41.0489803,
+  "lon": 28.9864057,
+  "display": "Ergenekon Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34373, Türkiye"
+ },
+ "merkez, sisli, sisli, Istanbul, Turkey": {
+  "lat": 41.0634057,
+  "lon": 28.9845271,
+  "display": "Merkez Mahallesi, Osmanbey, Şişli, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "tesvikiye, tesvikiye, sisli, Istanbul, Turkey": {
+  "lat": 41.0493802,
+  "lon": 28.9942805,
+  "display": "Teşvikiye Camii, Ahmet Fetgeri Sokağı, Teşvikiye Mahallesi, Nişantaşı, Şişli, İstanbul, Marmara Bölgesi, 34365, Türkiye"
+ },
+ "abdurrahmangazi, mehmetakif, sultanbeyli, Istanbul, Turkey": null,
+ "mehmetakif, sultanbeyli, Istanbul, Turkey": null,
+ "sultanbeyli, Istanbul, Turkey": {
+  "lat": 40.9670242,
+  "lon": 29.2671314,
+  "display": "Sultanbeyli, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "fatih, mehmetakif, sultanbeyli, Istanbul, Turkey": null,
+ "hasanpasa, mehmetakif, sultanbeyli, Istanbul, Turkey": null,
+ "mehmet akif, mehmetakif, sultanbeyli, Istanbul, Turkey": null,
+ "adil, mimarsinan, sultanbeyli, Istanbul, Turkey": null,
+ "mimarsinan, sultanbeyli, Istanbul, Turkey": null,
+ "battalgazi, mimarsinan, sultanbeyli, Istanbul, Turkey": null,
+ "mimar sinan, mimarsinan, sultanbeyli, Istanbul, Turkey": null,
+ "aksemsettin, necipfazil, sultanbeyli, Istanbul, Turkey": null,
+ "necipfazil, sultanbeyli, Istanbul, Turkey": null,
+ "hamidiye, necipfazil, sultanbeyli, Istanbul, Turkey": null,
+ "necip fazil, necipfazil, sultanbeyli, Istanbul, Turkey": null,
+ "orhangazi, necipfazil, sultanbeyli, Istanbul, Turkey": null,
+ "yavuz selim, necipfazil, sultanbeyli, Istanbul, Turkey": null,
+ "ahmet yesevi, turgutreis, sultanbeyli, Istanbul, Turkey": null,
+ "turgutreis, sultanbeyli, Istanbul, Turkey": {
+  "lat": 40.9666377,
+  "lon": 29.2804313,
+  "display": "Turgutreis eczane, İbrahim Hakkı Sokağı, Turgut Reis Mahallesi, Sultanbeyli, İstanbul, Marmara Bölgesi, 34930, Türkiye"
+ },
+ "mecidiye, turgutreis, sultanbeyli, Istanbul, Turkey": null,
+ "turgut reis, turgutreis, sultanbeyli, Istanbul, Turkey": null,
+ "habibler, cebeci, sultangazi, Istanbul, Turkey": {
+  "lat": 41.1209088,
+  "lon": 28.8510308,
+  "display": "Habibler, Kuzey Marmara Otoyolu, Cebeci Mahallesi, Sultangazi, İstanbul, Marmara Bölgesi, 34270, Türkiye"
+ },
+ "i̇smetpasa, cebeci, sultangazi, Istanbul, Turkey": {
+  "lat": 41.112596,
+  "lon": 28.85767,
+  "display": "İsmetpaşa Mahallesi, Eski Edirne Asfaltı, Cebeci Mahallesi, Sultangazi, İstanbul, Marmara Bölgesi, 34270, Türkiye"
+ },
+ "merkez, cebeci, sultangazi, Istanbul, Turkey": {
+  "lat": 41.109661,
+  "lon": 28.8661504,
+  "display": "Cebeci Merkez Taksi, 2542. Sokak, Cebeci Mahallesi, Sultangazi, İstanbul, Marmara Bölgesi, 34270, Türkiye"
+ },
+ "eski habipler, merkez, sultangazi, Istanbul, Turkey": null,
+ "merkez, sultangazi, Istanbul, Turkey": {
+  "lat": 41.1040592,
+  "lon": 28.8611136,
+  "display": "Merkez Parti İlçe Başkanlığı, Osmangazi Alt Geçidi, Sultançiftliği Mahallesi, Sultangazi, İstanbul, Marmara Bölgesi, 34265, Türkiye"
+ },
+ "50. yil, sultanciftligi, sultangazi, Istanbul, Turkey": null,
+ "sultanciftligi, sultangazi, Istanbul, Turkey": {
+  "lat": 41.1003942,
+  "lon": 28.8609026,
+  "display": "Sultançiftliği Mahallesi, Sultangazi, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "cumhuriyet, sultanciftligi, sultangazi, Istanbul, Turkey": null,
+ "esentepe, sultanciftligi, sultangazi, Istanbul, Turkey": null,
+ "sultanciftligi, sultanciftligi, sultangazi, Istanbul, Turkey": {
+  "lat": 41.104248,
+  "lon": 28.861292,
+  "display": "Sultançiftliği, Osmangazi Alt Geçidi, Sultançiftliği Mahallesi, Sultangazi, İstanbul, Marmara Bölgesi, 34265, Türkiye"
+ },
+ "ugur mumcu, sultanciftligi, sultangazi, Istanbul, Turkey": null,
+ "75. yil, zubeydehanim, sultangazi, Istanbul, Turkey": null,
+ "zubeydehanim, sultangazi, Istanbul, Turkey": null,
+ "sultangazi, Istanbul, Turkey": {
+  "lat": 41.1043344,
+  "lon": 28.8614367,
+  "display": "Sultangazi, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "gazi, zubeydehanim, sultangazi, Istanbul, Turkey": null,
+ "yunus emre, zubeydehanim, sultangazi, Istanbul, Turkey": null,
+ "zubeyde hanim, zubeydehanim, sultangazi, Istanbul, Turkey": null,
+ "tepeoren, akfirat, tuzla, Istanbul, Turkey": {
+  "lat": 40.924894,
+  "lon": 29.42102,
+  "display": "Akfırat, 4. Cadde, Akfırat, Akfırat Mahallesi, Tuzla, İstanbul, Marmara Bölgesi, 34959, Türkiye"
+ },
+ "aydinli, aydinli, tuzla, Istanbul, Turkey": {
+  "lat": 40.8682387,
+  "lon": 29.3281634,
+  "display": "Aydınlı, Başkomutan Caddesi, Aydınlı, Aydınlı Mahallesi, Tuzla, İstanbul, Marmara Bölgesi, 34953, Türkiye"
+ },
+ "aydintepe, i̇cmeler, tuzla, Istanbul, Turkey": null,
+ "i̇cmeler, tuzla, Istanbul, Turkey": {
+  "lat": 40.8456867,
+  "lon": 29.3000382,
+  "display": "İçmeler, Harmanlı Sokak, İçmeler Mahallesi, Tuzla, İstanbul, Marmara Bölgesi, 34947, Türkiye"
+ },
+ "i̇cmeler, i̇cmeler, tuzla, Istanbul, Turkey": {
+  "lat": 40.8456867,
+  "lon": 29.3000382,
+  "display": "İçmeler, Harmanlı Sokak, İçmeler Mahallesi, Tuzla, İstanbul, Marmara Bölgesi, 34947, Türkiye"
+ },
+ "i̇stasyon, i̇stasyon, tuzla, Istanbul, Turkey": {
+  "lat": 40.8232404,
+  "lon": 29.3158907,
+  "display": "İstasyon Caddesi, İstasyon, İstasyon Mahallesi, Tuzla, İstanbul, Marmara Bölgesi, 34940, Türkiye"
+ },
+ "cami, merkez, tuzla, Istanbul, Turkey": null,
+ "merkez, tuzla, Istanbul, Turkey": {
+  "lat": 40.8539785,
+  "lon": 29.2909271,
+  "display": "Denizciler Ticaret Merkez, Aydıntepe Mahallesi, Tuzla, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "mimar sinan, mimarsinan, tuzla, Istanbul, Turkey": null,
+ "mimarsinan, tuzla, Istanbul, Turkey": {
+  "lat": 40.837001,
+  "lon": 29.3609669,
+  "display": "Mimarsinan Şifa Semt Polikliniği, Hakan Sokağı, Mimar Sinan, Mimar Sinan Mahallesi, Tuzla, İstanbul, Marmara Bölgesi, 34950, Türkiye"
+ },
+ "sifa, mimarsinan, tuzla, Istanbul, Turkey": null,
+ "fatih, orhanli, tuzla, Istanbul, Turkey": {
+  "lat": 40.9118638,
+  "lon": 29.3422206,
+  "display": "Fatih Başaran Caddesi, Orhanlı, Orhanlı Mahallesi, Tuzla, İstanbul, Marmara Bölgesi, 34956, Türkiye"
+ },
+ "mescit, orhanli, tuzla, Istanbul, Turkey": {
+  "lat": 40.894413,
+  "lon": 29.35526,
+  "display": "Mescit Mahallesi Muhtarlığı, Demokrasi Caddesi, Orhanlı, Orhanlı Mahallesi, Tuzla, İstanbul, Marmara Bölgesi, 34956, Türkiye"
+ },
+ "orhanli, orhanli, tuzla, Istanbul, Turkey": {
+  "lat": 40.8941812,
+  "lon": 29.3569093,
+  "display": "Orhanlı, Orhanlı Mahallesi, Tuzla, İstanbul, Marmara Bölgesi, 34956, Türkiye"
+ },
+ "orta, orhanli, tuzla, Istanbul, Turkey": null,
+ "orhanli, tuzla, Istanbul, Turkey": {
+  "lat": 40.8941812,
+  "lon": 29.3569093,
+  "display": "Orhanlı, Orhanlı Mahallesi, Tuzla, İstanbul, Marmara Bölgesi, 34956, Türkiye"
+ },
+ "merkez, postane, tuzla, Istanbul, Turkey": {
+  "lat": 40.8156645,
+  "lon": 29.2788253,
+  "display": "Tuzla Özel Eğitim Merkez Komutanlığı, Postane Mahallesi, Tuzla, İstanbul, Marmara Bölgesi, 34940, Türkiye"
+ },
+ "evliya celebi, tersaneler, tuzla, Istanbul, Turkey": null,
+ "tersaneler, tuzla, Istanbul, Turkey": {
+  "lat": 40.8475776,
+  "lon": 29.2938104,
+  "display": "Tersaneler, Güzin Sk., Aydıntepe Mahallesi, Tuzla, İstanbul, Marmara Bölgesi, 34947, Türkiye"
+ },
+ "yayla, tersaneler, tuzla, Istanbul, Turkey": null,
+ "adem yavuz, asagidudullu, umraniye, Istanbul, Turkey": null,
+ "asagidudullu, umraniye, Istanbul, Turkey": null,
+ "umraniye, Istanbul, Turkey": {
+  "lat": 41.0256362,
+  "lon": 29.0963049,
+  "display": "Ümraniye, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "asagi dudullu, asagidudullu, umraniye, Istanbul, Turkey": null,
+ "cemil meric, asagidudullu, umraniye, Istanbul, Turkey": null,
+ "huzur, asagidudullu, umraniye, Istanbul, Turkey": null,
+ "parseller, asagidudullu, umraniye, Istanbul, Turkey": null,
+ "i̇stiklal, atakent, umraniye, Istanbul, Turkey": null,
+ "atakent, umraniye, Istanbul, Turkey": {
+  "lat": 41.0207119,
+  "lon": 29.1087352,
+  "display": "Atakent Mahallesi, Ümraniye, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "merkez, atakent, umraniye, Istanbul, Turkey": null,
+ "ataturk, ataturk, umraniye, Istanbul, Turkey": {
+  "lat": 41.0308879,
+  "lon": 29.0965115,
+  "display": "Atatürk Caddesi, Elmalıkent Mahallesi, Ümraniye, İstanbul, Marmara Bölgesi, 34764, Türkiye"
+ },
+ "tantavi, ataturk, umraniye, Istanbul, Turkey": {
+  "lat": 41.0276296,
+  "lon": 29.0860469,
+  "display": "Tantavi Köprüsü, Suiş Caddesi, Tantavi Mahallesi, Ümraniye, İstanbul, Marmara Bölgesi, 34764, Türkiye"
+ },
+ "armaganevler, cakmak, umraniye, Istanbul, Turkey": null,
+ "cakmak, umraniye, Istanbul, Turkey": {
+  "lat": 41.0215971,
+  "lon": 29.1186259,
+  "display": "Çakmak, Alemdağ Caddesi, Yamanevler Mahallesi, Ümraniye, İstanbul, Marmara Bölgesi, 34768, Türkiye"
+ },
+ "cakmak, cakmak, umraniye, Istanbul, Turkey": {
+  "lat": 41.0201088,
+  "lon": 29.1255217,
+  "display": "Çakmak Cami Sokağı, Çakmak Mahallesi, Ümraniye, İstanbul, Marmara Bölgesi, 34774, Türkiye"
+ },
+ "camlik, cakmak, umraniye, Istanbul, Turkey": {
+  "lat": 41.0138335,
+  "lon": 29.1255781,
+  "display": "Çakmak Çamlık Camii, Aşkın Sokağı, Çakmak Mahallesi, Ümraniye, İstanbul, Marmara Bölgesi, 34774, Türkiye"
+ },
+ "finanskent, cakmak, umraniye, Istanbul, Turkey": null,
+ "site, cakmak, umraniye, Istanbul, Turkey": null,
+ "merkez, esenevler, umraniye, Istanbul, Turkey": null,
+ "esenevler, umraniye, Istanbul, Turkey": {
+  "lat": 41.0121877,
+  "lon": 29.0922465,
+  "display": "Esenevler Mahallesi, Ümraniye, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "esenkent, esensehir, umraniye, Istanbul, Turkey": null,
+ "esensehir, umraniye, Istanbul, Turkey": {
+  "lat": 41.0088277,
+  "lon": 29.1672835,
+  "display": "Esenşehir Mahallesi, Ümraniye, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "esensehir, esensehir, umraniye, Istanbul, Turkey": {
+  "lat": 41.0100617,
+  "lon": 29.1639575,
+  "display": "Esenşehir Mahallesi, Necip Fazıl Bulvarı, Yukarı Dudullu Mahallesi, Ümraniye, İstanbul, Marmara Bölgesi, 34775, Türkiye"
+ },
+ "madenler, esensehir, umraniye, Istanbul, Turkey": null,
+ "necip fazil, esensehir, umraniye, Istanbul, Turkey": {
+  "lat": 41.0098826,
+  "lon": 29.1640081,
+  "display": "Necip Fazıl Bulvarı, Esenşehir Mahallesi, Ümraniye, İstanbul, Marmara Bölgesi, 34776, Türkiye"
+ },
+ "merkez, ihlamurkuyu, umraniye, Istanbul, Turkey": {
+  "lat": 41.0179285,
+  "lon": 29.1373695,
+  "display": "Ihlamurkuyu Merkez Camii, Petrolyolu Caddesi, Ihlamurkuyu Mahallesi, Ümraniye, İstanbul, Marmara Bölgesi, 34771, Türkiye"
+ },
+ "elmalikent, kazimkarabekir, umraniye, Istanbul, Turkey": null,
+ "kazimkarabekir, umraniye, Istanbul, Turkey": null,
+ "hekimbasi, kazimkarabekir, umraniye, Istanbul, Turkey": null,
+ "kazim karabekir, kazimkarabekir, umraniye, Istanbul, Turkey": null,
+ "dumlupinar, merkez, umraniye, Istanbul, Turkey": null,
+ "merkez, umraniye, Istanbul, Turkey": {
+  "lat": 41.0020154,
+  "lon": 29.110647,
+  "display": "Türkiye Cumhuriyet Merkez Bankası, Gazel Sokağı, Finanskent Mahallesi, Ümraniye, İstanbul, Marmara Bölgesi, 34760, Türkiye"
+ },
+ "fatih sultan mehmet, merkez, umraniye, Istanbul, Turkey": null,
+ "i̇nkilap, merkez, umraniye, Istanbul, Turkey": null,
+ "namik kemal, merkez, umraniye, Istanbul, Turkey": null,
+ "topagaci, merkez, umraniye, Istanbul, Turkey": null,
+ "yamanevler, merkez, umraniye, Istanbul, Turkey": null,
+ "mehmet akif, serifali, umraniye, Istanbul, Turkey": null,
+ "serifali, umraniye, Istanbul, Turkey": {
+  "lat": 41.0004717,
+  "lon": 29.1458001,
+  "display": "Şerifali Mahallesi, Ümraniye, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "serifali, serifali, umraniye, Istanbul, Turkey": {
+  "lat": 41.003322,
+  "lon": 29.1429063,
+  "display": "Şerifali Muhtarlığı, Çetin Caddesi, Mehmet Akif Mahallesi, Ümraniye, İstanbul, Marmara Bölgesi, 34774, Türkiye"
+ },
+ "tatlisu, serifali, umraniye, Istanbul, Turkey": null,
+ "tepeustu, tepeustu, umraniye, Istanbul, Turkey": {
+  "lat": 41.0199507,
+  "lon": 29.1299028,
+  "display": "Tepeüstü, Alemdağ Caddesi, Tepeüstü Mahallesi, Ümraniye, İstanbul, Marmara Bölgesi, 34771, Türkiye"
+ },
+ "altinsehir, yukaridudullu, umraniye, Istanbul, Turkey": {
+  "lat": 41.0150986,
+  "lon": 29.1430696,
+  "display": "Altınşehir Mahalle Muhtarlığı, Natoyolu Caddesi, Altınşehir Mahallesi, Ümraniye, İstanbul, Marmara Bölgesi, 34775, Türkiye"
+ },
+ "yukari dudullu, yukaridudullu, umraniye, Istanbul, Turkey": {
+  "lat": 41.0154656,
+  "lon": 29.1592972,
+  "display": "Yukarı Dudullu Mezarlığı, Yukarı Dudullu Mahallesi, Ümraniye, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "acibadem, acibadem, uskudar, Istanbul, Turkey": {
+  "lat": 41.0023323,
+  "lon": 29.0444009,
+  "display": "Acıbadem, Eski D-100 Karayolu, Acıbadem Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34718, Türkiye"
+ },
+ "barbaros, altunizade, uskudar, Istanbul, Turkey": {
+  "lat": 41.0172645,
+  "lon": 29.0316938,
+  "display": "Barbaros, Nuhkuyusu Caddesi, Barbaros Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34662, Türkiye"
+ },
+ "merkez, altunizade, uskudar, Istanbul, Turkey": {
+  "lat": 41.0247468,
+  "lon": 29.0387029,
+  "display": "Üsküdar Üniversitesi Merkez Yerleşkesi B Blok, 11, Üniversite Sokak, Altunizade Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34626, Türkiye"
+ },
+ "i̇cadiye, baglarbasi, uskudar, Istanbul, Turkey": null,
+ "baglarbasi, uskudar, Istanbul, Turkey": {
+  "lat": 41.0214561,
+  "lon": 29.0368747,
+  "display": "Bağlarbaşı, Mahir İz Caddesi, Altunizade Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34662, Türkiye"
+ },
+ "murat reis, baglarbasi, uskudar, Istanbul, Turkey": {
+  "lat": 41.0184436,
+  "lon": 29.0276171,
+  "display": "Murat Reis Camii, Tahtaravancı Sokağı, Bağlarbaşı, Valide-i Atik Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34664, Türkiye"
+ },
+ "selami ali, baglarbasi, uskudar, Istanbul, Turkey": null,
+ "valide-i atik, baglarbasi, uskudar, Istanbul, Turkey": {
+  "lat": 41.0179332,
+  "lon": 29.0216367,
+  "display": "Valide-i Atik Hamamı, Doktor Fahri Atabey Caddesi, Bağlarbaşı, Valide-i Atik Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34664, Türkiye"
+ },
+ "bahcelievler, bahcelievler, uskudar, Istanbul, Turkey": {
+  "lat": 41.0574135,
+  "lon": 29.0731958,
+  "display": "Bahçelievler, Atabek Caddesi, Bahçelievler Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34688, Türkiye"
+ },
+ "burhaniye, beylerbeyi, uskudar, Istanbul, Turkey": null,
+ "beylerbeyi, uskudar, Istanbul, Turkey": {
+  "lat": 41.0417926,
+  "lon": 29.0465456,
+  "display": "Beylerbeyi Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "kupluce, beylerbeyi, uskudar, Istanbul, Turkey": {
+  "lat": 41.0394493,
+  "lon": 29.0521304,
+  "display": "Küplüce, Beylerbeyi Çamlıca Caddesi, Beylerbeyi Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34676, Türkiye"
+ },
+ "merkez, beylerbeyi, uskudar, Istanbul, Turkey": {
+  "lat": 41.0401617,
+  "lon": 29.0433216,
+  "display": "M14 Merkez Şantiye, Beylerbeyi Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "cumhuriyet, bulgurlu, uskudar, Istanbul, Turkey": {
+  "lat": 41.0141333,
+  "lon": 29.0813554,
+  "display": "Cumhuriyet Mahallesi Muhtarlığı, Esatpaşa Caddesi, Cumhuriyet Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34697, Türkiye"
+ },
+ "merkez, bulgurlu, uskudar, Istanbul, Turkey": {
+  "lat": 41.0187358,
+  "lon": 29.0751073,
+  "display": "Bulgurlu Merkez Eczanesi, Gürpınar Caddesi, Bulgurlu Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34696, Türkiye"
+ },
+ "kucuk camlica, camlica, uskudar, Istanbul, Turkey": {
+  "lat": 41.0139574,
+  "lon": 29.060337,
+  "display": "Küçük Çamlıca;Küçükçamlıca, Üçpınarlar Caddesi, Libadiye, Küçük Çamlıca Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34696, Türkiye"
+ },
+ "cengelkoy, cengelkoy, uskudar, Istanbul, Turkey": {
+  "lat": 41.0536223,
+  "lon": 29.0548905,
+  "display": "Vahdettin Köşkü, Hasanpaşa Setti Yukarı Sokağı, Çengelköy Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34680, Türkiye"
+ },
+ "guzeltepe, cengelkoy, uskudar, Istanbul, Turkey": {
+  "lat": 41.0492922,
+  "lon": 29.0566474,
+  "display": "Güzeltepe Caddesi, Çengelköy Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34680, Türkiye"
+ },
+ "kirazlitepe, cengelkoy, uskudar, Istanbul, Turkey": {
+  "lat": 41.041917,
+  "lon": 29.060171,
+  "display": "Kirazlıtepe, Seçkinler Sokağı, Çengelköy Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34680, Türkiye"
+ },
+ "mehmet akif ersoy, cengelkoy, uskudar, Istanbul, Turkey": null,
+ "cengelkoy, uskudar, Istanbul, Turkey": {
+  "lat": 41.0509178,
+  "lon": 29.0538023,
+  "display": "Çengelköy Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "ahmediye, dogancilar, uskudar, Istanbul, Turkey": null,
+ "dogancilar, uskudar, Istanbul, Turkey": {
+  "lat": 41.018405,
+  "lon": 29.013263,
+  "display": "Doğancılar, Tunus Bağı Caddesi, Ahmediye Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34672, Türkiye"
+ },
+ "kisikli, ferah, uskudar, Istanbul, Turkey": null,
+ "ferah, uskudar, Istanbul, Turkey": {
+  "lat": 41.0329956,
+  "lon": 29.0724337,
+  "display": "Ferah Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "merkez, ferah, uskudar, Istanbul, Turkey": null,
+ "yavuzturk, ferah, uskudar, Istanbul, Turkey": {
+  "lat": 41.030728,
+  "lon": 29.079951,
+  "display": "Yavuztürk Sapağı, Bosna Bulvarı, Ferah Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34692, Türkiye"
+ },
+ "kucuksu, kandilli, uskudar, Istanbul, Turkey": {
+  "lat": 41.0767086,
+  "lon": 29.0651191,
+  "display": "Küçüksu Kasrı Mesire Alanı, Kandilli Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "kuleli, kandilli, uskudar, Istanbul, Turkey": null,
+ "kandilli, uskudar, Istanbul, Turkey": {
+  "lat": 41.0726098,
+  "lon": 29.0576991,
+  "display": "Kandilli Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34684, Türkiye"
+ },
+ "merkez, kandilli, uskudar, Istanbul, Turkey": null,
+ "merkez, kuzguncuk, uskudar, Istanbul, Turkey": null,
+ "kuzguncuk, uskudar, Istanbul, Turkey": {
+  "lat": 41.03216,
+  "lon": 29.0360265,
+  "display": "Kuzguncuk Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "aziz mahmut hudayi, merkez, uskudar, Istanbul, Turkey": null,
+ "merkez, uskudar, Istanbul, Turkey": {
+  "lat": 41.0253903,
+  "lon": 29.1018955,
+  "display": "M5 Üsküdar-Samandıra Merkez Metro Hattı, Alemdağ Yan Yolu, Kısıklı Mahallesi, Ümraniye, İstanbul, Marmara Bölgesi, 34692, Türkiye"
+ },
+ "mimar sinan, merkez, uskudar, Istanbul, Turkey": null,
+ "salacak, merkez, uskudar, Istanbul, Turkey": null,
+ "sultantepe, merkez, uskudar, Istanbul, Turkey": null,
+ "zeynep kamil, merkez, uskudar, Istanbul, Turkey": null,
+ "merkez, selimiye, uskudar, Istanbul, Turkey": null,
+ "selimiye, uskudar, Istanbul, Turkey": {
+  "lat": 41.0058418,
+  "lon": 29.0177481,
+  "display": "Selimiye Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34668, Türkiye"
+ },
+ "unalan, unalan, uskudar, Istanbul, Turkey": {
+  "lat": 40.9980939,
+  "lon": 29.0600259,
+  "display": "Ünalan, Yaya Tünnel, Ünalan Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34700, Türkiye"
+ },
+ "bestelsiz, bestelsiz, zeytinburnu, Istanbul, Turkey": {
+  "lat": 40.9962819,
+  "lon": 28.9047527,
+  "display": "Beştelsiz Millet Kıraathanesi, İnönü Bulvarı, Beştelsiz Mahallesi, Zeytinburnu, İstanbul, Marmara Bölgesi, 34020, Türkiye"
+ },
+ "gokalp, bestelsiz, zeytinburnu, Istanbul, Turkey": {
+  "lat": 40.9909924,
+  "lon": 28.9051152,
+  "display": "Gökalp, 48. Sokak, Gökalp Mahallesi, Zeytinburnu, İstanbul, Marmara Bölgesi, 34020, Türkiye"
+ },
+ "kazlicesme, bestelsiz, zeytinburnu, Istanbul, Turkey": null,
+ "bestelsiz, zeytinburnu, Istanbul, Turkey": {
+  "lat": 40.9994868,
+  "lon": 28.9045024,
+  "display": "Beştelsiz Mahallesi, Zeytinburnu, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "telsiz, bestelsiz, zeytinburnu, Istanbul, Turkey": null,
+ "yenidogan, bestelsiz, zeytinburnu, Istanbul, Turkey": {
+  "lat": 40.9886669,
+  "lon": 28.9055422,
+  "display": "Yenidogan, 48. Sokak, Yenidoğan Mahallesi, Zeytinburnu, İstanbul, Marmara Bölgesi, 34020, Türkiye"
+ },
+ "cirpici, cirpici, zeytinburnu, Istanbul, Turkey": {
+  "lat": 40.9999244,
+  "lon": 28.8900034,
+  "display": "Çırpıcı Şehir Parkı, Osmaniye Mahallesi, Bakırköy, İstanbul, Marmara Bölgesi, 34146, Türkiye"
+ },
+ "nuripasa, cirpici, zeytinburnu, Istanbul, Turkey": null,
+ "cirpici, zeytinburnu, Istanbul, Turkey": {
+  "lat": 41.0002245,
+  "lon": 28.8962437,
+  "display": "Çırpıcı Mahallesi, Zeytinburnu, İstanbul, Marmara Bölgesi, Türkiye"
+ },
+ "sumer, cirpici, zeytinburnu, Istanbul, Turkey": null,
+ "veliefendi, cirpici, zeytinburnu, Istanbul, Turkey": {
+  "lat": 41.000571,
+  "lon": 28.897739,
+  "display": "Veliefendi İlkokulu, Modabağ Sokağı, Çırpıcı Mahallesi, Zeytinburnu, İstanbul, Marmara Bölgesi, 34025, Türkiye"
+ },
+ "yesiltepe, cirpici, zeytinburnu, Istanbul, Turkey": {
+  "lat": 40.999323,
+  "lon": 28.892766,
+  "display": "Yeşiltepe, Profesör Doktor Aziz Ergin Caddesi, Çırpıcı Mahallesi, Zeytinburnu, İstanbul, Marmara Bölgesi, 34025, Türkiye"
+ },
+ "merkez, maltepe, zeytinburnu, Istanbul, Turkey": {
+  "lat": 41.0199464,
+  "lon": 28.9072266,
+  "display": "Merkez Efendi Polis Merkezi, Serçe Kale Sokağı, Cevizlibağ, Maltepe Mahallesi, Zeytinburnu, İstanbul, Marmara Bölgesi, 34010, Türkiye"
+ },
+ "merkez, merkezefendi, zeytinburnu, Istanbul, Turkey": {
+  "lat": 41.0175627,
+  "lon": 28.9167195,
+  "display": "Biruni Üniversitesi Merkez Kampüs, 1-13, Topkapı Kavşağı, Merkezefendi Mahallesi, Zeytinburnu, İstanbul, Marmara Bölgesi, 34015, Türkiye"
+ },
+ "seyitnizam, merkezefendi, zeytinburnu, Istanbul, Turkey": {
+  "lat": 41.0092534,
+  "lon": 28.9101477,
+  "display": "seyitnizam ezcane, Merkez Efendi Tekke Sokağı, Seyitnizam Mahallesi, Zeytinburnu, İstanbul, Marmara Bölgesi, 34015, Türkiye"
+ }
+}

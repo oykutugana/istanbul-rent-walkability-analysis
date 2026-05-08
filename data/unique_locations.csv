@@ -1,0 +1,764 @@
+district,sub_district,neighborhood,location_id,listing_count
+arnavutkoy,arnavutkoy,anadolu,0,32
+arnavutkoy,arnavutkoy,arnavutkoy merkez,1,27
+arnavutkoy,arnavutkoy,hadimkoy,2,34
+arnavutkoy,arnavutkoy,i̇mrahor,3,2
+arnavutkoy,arnavutkoy,i̇slambey,4,33
+arnavutkoy,arnavutkoy,mustafa kemal pasa,5,18
+arnavutkoy,arnavutkoy,nenehatun,6,8
+arnavutkoy,arnavutkoy,yavuz selim,7,8
+arnavutkoy,arnavutkoy,yunus emre,8,6
+arnavutkoy,bogazkoy,ataturk,9,13
+arnavutkoy,bogazkoy,bogazkoy i̇stiklal,10,4
+arnavutkoy,bolluca,hicret,11,6
+arnavutkoy,bolluca,mavigol,12,17
+arnavutkoy,bolluca,merkez,13,15
+arnavutkoy,hadimkoy(boyalik),deliklikaya,14,14
+arnavutkoy,hadimkoy(boyalik),dursunkoy,15,1
+arnavutkoy,hadimkoy(boyalik),hastane,16,5
+arnavutkoy,hadimkoy(boyalik),omerli,17,7
+arnavutkoy,haracci,haracci,18,10
+arnavutkoy,haracci,karlibayir,19,16
+arnavutkoy,koyler,tayakadin,20,1
+arnavutkoy,koyler,yassioren,21,1
+arnavutkoy,tasoluk,adnan menderes,22,1
+arnavutkoy,tasoluk,fatih,23,3
+arnavutkoy,tasoluk,maresal fevzi cakmak,24,6
+arnavutkoy,tasoluk,mehmet akif ersoy,25,10
+arnavutkoy,tasoluk,tasoluk,26,12
+atasehir,atasehir,asikveysel,27,12
+atasehir,atasehir,ataturk,28,83
+atasehir,atasehir,mevlana,29,12
+atasehir,atasehir,mimar sinan,30,9
+atasehir,atasehir,yenisehir,31,16
+atasehir,barbaros,merkez,32,69
+atasehir,ferhatpasa,ferhatpasa,33,5
+atasehir,i̇cerenkoy,i̇cerenkoy,34,60
+atasehir,kayisdagi,i̇nonu,35,82
+atasehir,kayisdagi,kayisdagi,36,95
+atasehir,kucukbakkalkoy,kucukbakkalkoy,37,40
+atasehir,namik kemal,mustafa kemal,38,4
+atasehir,ornek,esatpasa,39,32
+atasehir,ornek,fetih,40,6
+atasehir,ornek,ornek,41,45
+atasehir,yeni camlica,yeni camlica,42,4
+atasehir,yeni sahra,merkez,43,9
+avcilar,ambarli,ambarli,44,12
+avcilar,avcilar,cihangir,45,28
+avcilar,avcilar,denizkoskler,46,14
+avcilar,avcilar,merkez,47,24
+avcilar,avcilar,mustafa kemal pasa,48,24
+avcilar,firuzkoy,firuzkoy,49,6
+avcilar,firuzkoy,tahtakale,50,165
+avcilar,gumuspala,gumuspala,51,12
+avcilar,gumuspala,universite,52,23
+avcilar,yesilkent,yesilkent,53,27
+bagcilar,bagcilar,100. yil,54,7
+bagcilar,bagcilar,cinar,55,2
+bagcilar,bagcilar,fevzi cakmak,56,4
+bagcilar,bagcilar,goztepe,57,30
+bagcilar,bagcilar,merkez,58,4
+bagcilar,bagcilar,sancaktepe,59,2
+bagcilar,barbaros/yesilbag,barbaros,60,3
+bagcilar,barbaros/yesilbag,i̇nonu,61,3
+bagcilar,barbaros/yesilbag,kazim karabekir,62,4
+bagcilar,barbaros/yesilbag,yavuz selim,63,1
+bagcilar,barbaros/yesilbag,yildiztepe,64,2
+bagcilar,demirkapi,demirkapi,65,12
+bagcilar,gunesli,15 temmuz,66,30
+bagcilar,gunesli,gunesli,67,17
+bagcilar,hurriyet,baglar,68,31
+bagcilar,hurriyet,hurriyet,69,3
+bagcilar,kemalpasa,fatih,70,1
+bagcilar,kemalpasa,kemalpasa,71,7
+bagcilar,kirazli,kirazli,72,14
+bagcilar,kirazli,yenimahalle,73,18
+bagcilar,mahmutbey,merkez,74,34
+bahcelievler,cobancesme,cobancesme,75,8
+bahcelievler,cumhuriyet,merkez,76,6
+bahcelievler,fevzi cakmak,fevzi cakmak,77,3
+bahcelievler,hurriyet,hurriyet,78,11
+bahcelievler,kocasinan,kocasinan merkez,79,9
+bahcelievler,merkez,bahcelievler,80,46
+bahcelievler,sirinevler,sirinevler,81,21
+bahcelievler,siyavuspasa,siyavuspasa,82,24
+bahcelievler,soganli,soganli,83,18
+bahcelievler,yenibosna,yenibosna merkez,84,19
+bahcelievler,zafer,merkez,85,14
+bakirkoy,atakoy,atakoy 1. kisim,86,1
+bakirkoy,atakoy,atakoy 2-5-6. kisim,87,7
+bakirkoy,atakoy,atakoy 3-4-11. kisim,88,8
+bakirkoy,atakoy,atakoy 7-8-9-10. kisim,89,34
+bakirkoy,cevizlik,merkez,90,10
+bakirkoy,cevizlik,sakizagaci,91,10
+bakirkoy,cevizlik,yenimahalle,92,5
+bakirkoy,florya,basinkoy,93,1
+bakirkoy,florya,senlikkoy,94,26
+bakirkoy,kartaltepe,merkez,95,10
+bakirkoy,kartaltepe,osmaniye,96,8
+bakirkoy,yesilkoy,yesilkoy,97,20
+bakirkoy,yesilkoy,yesilyurt,98,5
+bakirkoy,zeytinlik,merkez,99,3
+bakirkoy,zuhuratbaba,merkez,100,10
+basaksehir,bahcesehir,bahcesehir 1. kisim,101,60
+basaksehir,bahcesehir,bahcesehir 2. kisim,102,131
+basaksehir,basaksehir,basak,103,35
+basaksehir,basaksehir,basaksehir,104,62
+basaksehir,i̇kitelli,altinsehir,105,21
+basaksehir,i̇kitelli,guvercintepe,106,53
+basaksehir,i̇kitelli,i̇kitelli osb,107,1
+basaksehir,i̇kitelli,kayabasi,108,122
+basaksehir,i̇kitelli,sahintepe,109,16
+basaksehir,i̇kitelli,ziya gokalp,110,55
+basaksehir,koyler,samlar,111,3
+bayrampasa,altintepsi,altintepsi,112,10
+bayrampasa,altintepsi,terazidere,113,6
+bayrampasa,altintepsi,vatan,114,5
+bayrampasa,muratpasa,i̇smet pasa,115,8
+bayrampasa,muratpasa,kartaltepe,116,12
+bayrampasa,muratpasa,muratpasa,117,9
+bayrampasa,numunebag,orta,118,8
+bayrampasa,numunebag,yenidogan,119,6
+bayrampasa,yildirim,cevatpasa,120,1
+bayrampasa,yildirim,kocatepe,121,7
+bayrampasa,yildirim,yildirim,122,8
+besiktas,abbasaga,abbasaga,123,19
+besiktas,abbasaga,cihannuma,124,18
+besiktas,abbasaga,sinanpasa,125,13
+besiktas,akatlar,akat,126,23
+besiktas,arnavutkoy,arnavutkoy,127,13
+besiktas,arnavutkoy,kurucesme,128,6
+besiktas,bebek,merkez,129,12
+besiktas,etiler,merkez,130,36
+besiktas,gayrettepe,balmumcu,131,3
+besiktas,gayrettepe,dikilitas,132,45
+besiktas,gayrettepe,merkez,133,33
+besiktas,gayrettepe,yildiz,134,17
+besiktas,levazim,kultur,135,5
+besiktas,levazim,levazim,136,13
+besiktas,levazim,nisbetiye,137,22
+besiktas,levazim,ulus,138,21
+besiktas,levent,konaklar,139,9
+besiktas,levent,merkez,140,9
+besiktas,ortakoy,mecidiye,141,40
+besiktas,ortakoy,ortakoy,142,29
+besiktas,turkali,muradiye,143,26
+besiktas,turkali,turkali,144,40
+besiktas,turkali,visnezade,145,35
+beykoz,anadoluhisari,anadolu hisari,146,3
+beykoz,anadoluhisari,kanlica,147,4
+beykoz,anadoluhisari,kavacik,148,57
+beykoz,beykoz,gumussuyu,149,8
+beykoz,beykoz,merkez,150,2
+beykoz,beykoz,ortacesme,151,12
+beykoz,beykoz,tokatkoy,152,9
+beykoz,beykoz,yeni mahalle,153,11
+beykoz,cavusbasi,baklaci,154,1
+beykoz,cavusbasi,cavusbasi ciftlik,155,7
+beykoz,cavusbasi,cengeldere,156,1
+beykoz,cavusbasi,fatih,157,5
+beykoz,cavusbasi,yavuz selim,158,4
+beykoz,cubuklu,cubuklu,159,19
+beykoz,cubuklu,ruzgarlibahce,160,4
+beykoz,goksu,goksu,161,4
+beykoz,goksu,goztepe,162,10
+beykoz,koyler,dereseki,163,2
+beykoz,koyler,elmali,164,1
+beykoz,koyler,ornekkoy,165,4
+beykoz,koyler,pasamandira,166,1
+beykoz,koyler,riva,167,1
+beykoz,pasabahce,acarlar,168,6
+beykoz,pasabahce,cigdem,169,9
+beykoz,pasabahce,i̇ncirkoy,170,7
+beykoz,pasabahce,pasabahce,171,7
+beykoz,pasabahce,soguksu,172,15
+beykoz,tokatkoy,camlibahce,173,4
+beykoz,tokatkoy,yalikoy,174,7
+beylikduzu,gurpinar,adnan kahveci,175,85
+beylikduzu,gurpinar,dereagzi,176,15
+beylikduzu,gurpinar,gurpinar,177,17
+beylikduzu,kavakli,baris,178,42
+beylikduzu,kavakli,buyuksehir,179,9
+beylikduzu,kavakli,cumhuriyet,180,39
+beylikduzu,kavakli,kavakli,181,95
+beylikduzu,kavakli,sahil,182,25
+beylikduzu,yakuplu,marmara,183,41
+beylikduzu,yakuplu,merkez,184,54
+beyoglu,arapcami,bereketzade,185,8
+beyoglu,arapcami,sahkulu,186,9
+beyoglu,cihangir,firuzaga,187,12
+beyoglu,cihangir,katip mustafa celebi,188,7
+beyoglu,cihangir,kilicali pasa,189,7
+beyoglu,cihangir,kuloglu,190,8
+beyoglu,cihangir,merkez,191,28
+beyoglu,cihangir,tomtom,192,11
+beyoglu,halicioglu,fetihtepe,193,14
+beyoglu,halicioglu,halicioglu,194,10
+beyoglu,halicioglu,kececi piri,195,5
+beyoglu,halicioglu,ornektepe,196,12
+beyoglu,halicioglu,piri pasa,197,11
+beyoglu,halicioglu,sutluce,198,11
+beyoglu,i̇stiklal,asmali mescit,199,2
+beyoglu,i̇stiklal,catma mescit,200,4
+beyoglu,kasimpasa,bedrettin,201,2
+beyoglu,kasimpasa,camiikebir,202,3
+beyoglu,kasimpasa,haciahmet,203,18
+beyoglu,kasimpasa,i̇stiklal,204,7
+beyoglu,kasimpasa,kadimehmet efendi,205,3
+beyoglu,kasimpasa,kaptanpasa,206,10
+beyoglu,kasimpasa,kucuk piyale,207,6
+beyoglu,kasimpasa,kulaksiz,208,6
+beyoglu,kasimpasa,piyalepasa,209,10
+beyoglu,kasimpasa,yahya kahya,210,1
+beyoglu,kemankes,hacimimi,211,14
+beyoglu,kemankes,kemankes karamustafa pasa,212,2
+beyoglu,kemankes,mueyyetzade,213,3
+beyoglu,purtelas,omer avni,214,13
+beyoglu,purtelas,purtelas hasan efendi,215,12
+beyoglu,taksim,gumussuyu,216,14
+beyoglu,taksim,kocatepe,217,5
+beyoglu,tarlabasi,bostan,218,3
+beyoglu,tarlabasi,bulbul,219,4
+beyoglu,tarlabasi,cukur,220,2
+beyoglu,tarlabasi,huseyinaga,221,2
+beyoglu,tarlabasi,kalyoncu kullugu,222,9
+beyoglu,tarlabasi,kamer hatun,223,3
+beyoglu,tarlabasi,sehit muhtar,224,8
+beyoglu,tarlabasi,sururi mehmet efendi,225,6
+beyoglu,yenisehir,yenisehir,226,13
+buyukcekmece,buyukcekmece,19 mayis,227,2
+buyukcekmece,buyukcekmece,alkent 2000,228,9
+buyukcekmece,buyukcekmece,ataturk,229,15
+buyukcekmece,buyukcekmece,cakmakli,230,7
+buyukcekmece,buyukcekmece,cumhuriyet,231,17
+buyukcekmece,buyukcekmece,dizdariye,232,3
+buyukcekmece,buyukcekmece,fatih,233,6
+buyukcekmece,buyukcekmece,pinartepe,234,33
+buyukcekmece,buyukcekmece,yenimahalle,235,2
+buyukcekmece,celaliye(kamiloba),celaliye,236,12
+buyukcekmece,celaliye(kamiloba),kamiloba,237,14
+buyukcekmece,kumburgaz,bahcelievler,238,9
+buyukcekmece,kumburgaz,guzelce,239,7
+buyukcekmece,kumburgaz,kumburgaz,240,14
+buyukcekmece,merkez,mimaroba,241,20
+buyukcekmece,merkez,sinanoba,242,14
+buyukcekmece,mimarsinan,ekinoba,243,18
+buyukcekmece,mimarsinan,mimar sinan merkez,244,14
+buyukcekmece,mimarsinan,murat cesme,245,5
+buyukcekmece,tepecik,hurriyet,246,11
+buyukcekmece,tepecik,turkoba,247,4
+buyukcekmece,tepecik,ulus,248,5
+catalca,catalca,ferhatpasa,249,10
+catalca,catalca,i̇zzettin,250,1
+catalca,merkez,nakkas,251,1
+cekmekoy,alemdag(alemdar),alemdag,252,18
+cekmekoy,alemdag(alemdar),catalmese,253,30
+cekmekoy,alemdag(alemdar),eksioglu,254,16
+cekmekoy,alemdag(alemdar),nisantepe,255,36
+cekmekoy,cekmekoy,camlik,256,21
+cekmekoy,cekmekoy,hamidiye,257,34
+cekmekoy,cekmekoy,mehmet akif,258,47
+cekmekoy,cekmekoy,merkez,259,60
+cekmekoy,cekmekoy,mimar sinan,260,35
+cekmekoy,koyler,resadiye,261,1
+cekmekoy,tasdelen,aydinlar,262,23
+cekmekoy,tasdelen,cumhuriyet,263,35
+cekmekoy,tasdelen,gungoren,264,100
+cekmekoy,tasdelen,kirazlidere,265,19
+cekmekoy,tasdelen,sogukpinar,266,22
+cekmekoy,tasdelen,sultanciftligi,267,33
+cekmekoy,tasdelen,tasdelen,268,32
+esenler,birlik,atisalani,269,10
+esenler,birlik,merkez,270,5
+esenler,esenler,cifte havuzlar,271,2
+esenler,esenler,fevzi cakmak,272,5
+esenler,esenler,kemer,273,6
+esenler,esenler,menderes,274,4
+esenler,esenler,mimar sinan,275,3
+esenler,esenler,namik kemal,276,5
+esenler,esenler,nine hatun,277,6
+esenler,karabayir,fatih,278,6
+esenler,karabayir,kazim karabekir,279,6
+esenler,karabayir,tuna,280,3
+esenler,sanayi,15 temmuz,281,1
+esenler,sanayi,orucreis,282,6
+esenler,sanayi,turgut reis,283,9
+esenyurt,esenyurt,akcaburgaz,284,13
+esenyurt,esenyurt,akevler,285,37
+esenyurt,esenyurt,aksemseddin,286,1
+esenyurt,esenyurt,ardicli,287,35
+esenyurt,esenyurt,asik veysel,288,17
+esenyurt,esenyurt,ataturk,289,4
+esenyurt,esenyurt,balikyolu,290,11
+esenyurt,esenyurt,barbaros hayrettin pasa,291,72
+esenyurt,esenyurt,battalgazi,292,8
+esenyurt,esenyurt,cinar,293,17
+esenyurt,esenyurt,cumhuriyet,294,29
+esenyurt,esenyurt,esenkent,295,12
+esenyurt,esenyurt,fatih,296,10
+esenyurt,esenyurt,gokevler,297,45
+esenyurt,esenyurt,hurriyet,298,10
+esenyurt,esenyurt,i̇ncirtepe,299,22
+esenyurt,esenyurt,i̇nonu,300,8
+esenyurt,esenyurt,koza,301,91
+esenyurt,esenyurt,mehmet akif ersoy,302,18
+esenyurt,esenyurt,mehtercesme,303,23
+esenyurt,esenyurt,merkez,304,17
+esenyurt,esenyurt,mevlana,305,8
+esenyurt,esenyurt,namik kemal,306,8
+esenyurt,esenyurt,necip fazil kisakurek,307,11
+esenyurt,esenyurt,orhan gazi,308,36
+esenyurt,esenyurt,ornek,309,7
+esenyurt,esenyurt,osmangazi,310,5
+esenyurt,esenyurt,pinar,311,29
+esenyurt,esenyurt,piri reis,312,48
+esenyurt,esenyurt,saadetdere,313,7
+esenyurt,esenyurt,sehitler,314,3
+esenyurt,esenyurt,selahaddin eyyubi,315,19
+esenyurt,esenyurt,suleymaniye,316,7
+esenyurt,esenyurt,sultaniye,317,27
+esenyurt,esenyurt,talatpasa,318,16
+esenyurt,esenyurt,turgut ozal,319,16
+esenyurt,esenyurt,ucevler,320,20
+esenyurt,esenyurt,yenikent,321,14
+esenyurt,esenyurt,yesilkent,322,68
+esenyurt,esenyurt,yunus emre,323,16
+esenyurt,esenyurt,zafer,324,80
+esenyurt,haramidere,guzelyurt,325,30
+esenyurt,kirac,i̇stiklal,326,5
+eyupsultan,alibeykoy,5. levent,327,49
+eyupsultan,alibeykoy,alibeykoy,328,16
+eyupsultan,alibeykoy,emniyettepe,329,20
+eyupsultan,alibeykoy,guzeltepe,330,29
+eyupsultan,circir,aksemsettin,331,19
+eyupsultan,circir,circir,332,32
+eyupsultan,eyupsultan,esentepe,333,31
+eyupsultan,eyupsultan,i̇slambey,334,12
+eyupsultan,eyupsultan,merkez,335,10
+eyupsultan,eyupsultan,nisanci,336,8
+eyupsultan,eyupsultan,sakarya,337,6
+eyupsultan,eyupsultan,silahtaraga,338,12
+eyupsultan,gokturk,gokturk merkez,339,127
+eyupsultan,kemerburgaz,mimar sinan,340,15
+eyupsultan,kemerburgaz,mithatpasa,341,42
+eyupsultan,rami,dugmeciler,342,9
+eyupsultan,rami,rami cuma,343,3
+eyupsultan,rami,rami yeni,344,7
+eyupsultan,rami,topcular,345,13
+eyupsultan,yesilpinar,karadolap,346,23
+eyupsultan,yesilpinar,yesilpinar,347,21
+fatih,akdeniz,aksemsettin,348,11
+fatih,akdeniz,i̇skenderpasa,349,7
+fatih,aksaray,molla gurani,350,21
+fatih,aksaray,topkapi,351,9
+fatih,beyazit,emin sinan,352,2
+fatih,fatih,cerrahpasa,353,9
+fatih,fatih,karagumruk,354,4
+fatih,fener,atikali,355,4
+fatih,fener,ayvansaray,356,8
+fatih,fener,balat,357,16
+fatih,fener,dervis ali,358,7
+fatih,fevzipasa,ali kuscu,359,5
+fatih,fevzipasa,hirka-i serif,360,6
+fatih,fevzipasa,zeyrek,361,3
+fatih,haseki,aksaray,362,12
+fatih,haseki,haseki sultan,363,6
+fatih,kocamustafapasa,koca mustafapasa,364,10
+fatih,kocamustafapasa,seyyid omer,365,10
+fatih,kocamustafapasa,silivrikapi,366,6
+fatih,kocamustafapasa,sumbul efendi,367,1
+fatih,kucukmustafapasa,cibali,368,5
+fatih,kucukmustafapasa,yavuz sultan selim,369,7
+fatih,kumkapi,katip kasim,370,2
+fatih,kumkapi,muhsine hatun,371,2
+fatih,kumkapi,nisanca,372,3
+fatih,mevlanakapi,mevlanakapi,373,6
+fatih,sehremini,sehremini,374,19
+fatih,sultanahmet,binbirdirek,375,1
+fatih,vefa,demirtas,376,1
+fatih,vefa,haci kadin,377,1
+fatih,vefa,kemal pasa,378,2
+fatih,vefa,molla husrev,379,2
+fatih,yedikule,merkez,380,7
+gaziosmanpasa,fevzicakmak,fevzi cakmak,381,10
+gaziosmanpasa,fevzicakmak,karayollari,382,26
+gaziosmanpasa,fevzicakmak,mevlana,383,16
+gaziosmanpasa,gaziosmanpasa,baglarbasi,384,22
+gaziosmanpasa,gaziosmanpasa,merkez,385,18
+gaziosmanpasa,gaziosmanpasa,sarigol,386,12
+gaziosmanpasa,kazimkarabekir,kazim karabekir,387,15
+gaziosmanpasa,kucukkoy,barbaros hayrettinpasa,388,14
+gaziosmanpasa,kucukkoy,hurriyet,389,6
+gaziosmanpasa,kucukkoy,karadeniz,390,47
+gaziosmanpasa,kucukkoy,semsipasa,391,6
+gaziosmanpasa,kucukkoy,yeni mahalle,392,20
+gaziosmanpasa,yildiztabya,karlitepe,393,5
+gaziosmanpasa,yildiztabya,pazarici,394,5
+gaziosmanpasa,yildiztabya,yenidogan,395,5
+gaziosmanpasa,yildiztabya,yildiztabya,396,17
+gungoren,abdurrahman nafiz gurman,abdurrahman nafiz gurman,397,8
+gungoren,akincilar,akincilar,398,2
+gungoren,akincilar,guven,399,3
+gungoren,akincilar,maresal cakmak,400,1
+gungoren,gungoren,gunestepe,401,4
+gungoren,gungoren,merkez,402,6
+gungoren,haznedar,merkez,403,5
+gungoren,sanayi,gencosman,404,5
+gungoren,sanayi,merkez,405,2
+gungoren,tozkoparan,mehmet nesih ozmen,406,1
+gungoren,tozkoparan,merkez,407,3
+kadikoy,19 mayis,19 mayis,408,27
+kadikoy,acibadem,acibadem,409,19
+kadikoy,bostanci,bostanci,410,47
+kadikoy,caddebostan,merkez,411,31
+kadikoy,caferaga,caferaga,412,48
+kadikoy,egitim,egitim,413,17
+kadikoy,erenkoy,erenkoy,414,41
+kadikoy,fenerbahce,fenerbahce,415,24
+kadikoy,feneryolu,merkez,416,18
+kadikoy,feneryolu,zuhtupasa,417,16
+kadikoy,fikirtepe,dumlupinar,418,63
+kadikoy,fikirtepe,merkez,419,28
+kadikoy,goztepe,goztepe,420,48
+kadikoy,hasanpasa,hasanpasa,421,17
+kadikoy,kosuyolu,kosuyolu,422,5
+kadikoy,kozyatagi,kozyatagi,423,39
+kadikoy,merdivenkoy,merdivenkoy,424,32
+kadikoy,osmanaga,osmanaga,425,42
+kadikoy,rasimpasa,rasimpasa,426,34
+kadikoy,sahrayicedit,sahrayi cedit,427,23
+kadikoy,suadiye,merkez,428,51
+kagithane,caglayan,caglayan,429,59
+kagithane,caglayan,hurriyet,430,34
+kagithane,celiktepe,celiktepe,431,50
+kagithane,gultepe,gultepe,432,38
+kagithane,gultepe,harmantepe,433,42
+kagithane,gultepe,ortabayir,434,57
+kagithane,gultepe,telsizler,435,33
+kagithane,gultepe,yahya kemal,436,37
+kagithane,hamidiye,merkez,437,113
+kagithane,kagithane,gursel,438,35
+kagithane,kagithane,mehmet akif ersoy,439,14
+kagithane,kagithane,merkez,440,67
+kagithane,kagithane,nurtepe,441,28
+kagithane,kagithane,talatpasa,442,62
+kagithane,seyrantepe,merkez,443,48
+kagithane,seyrantepe,yesilce,444,12
+kagithane,sirintepe,emniyet evleri,445,17
+kagithane,sirintepe,sirintepe,446,16
+kagithane,sirintepe,sultan selim,447,23
+kartal,dragos,orhantepe,448,22
+kartal,esentepe,karliktepe,449,27
+kartal,esentepe,merkez,450,28
+kartal,orhantepe,cevizli,451,19
+kartal,rahmanlar (atalar),atalar,452,22
+kartal,rahmanlar (atalar),kordonboyu,453,49
+kartal,rahmanlar (atalar),petrolis,454,8
+kartal,rahmanlar (atalar),yukari,455,3
+kartal,soganlik,gumuspinar,456,15
+kartal,soganlik,orta,457,13
+kartal,soganlik,soganlik yeni,458,30
+kartal,topselvi,cavusoglu,459,7
+kartal,topselvi,merkez,460,8
+kartal,topselvi,yali,461,14
+kartal,topselvi,yunus,462,12
+kartal,ugurmumcu,ugur mumcu,463,11
+kartal,yakacik,cumhuriyet,464,15
+kartal,yakacik,hurriyet,465,76
+kartal,yakacik,yakacik carsi,466,12
+kartal,yakacik,yakacik yeni,467,17
+kucukcekmece,cennet,merkez,468,10
+kucukcekmece,cennet,yeni mahalle,469,5
+kucukcekmece,halkali,atakent,470,173
+kucukcekmece,halkali,ataturk,471,26
+kucukcekmece,halkali,halkali merkez,472,47
+kucukcekmece,halkali,mehmet akif,473,11
+kucukcekmece,merkez,cumhuriyet,474,21
+kucukcekmece,merkez,fatih,475,14
+kucukcekmece,merkez,i̇stasyon,476,19
+kucukcekmece,merkez,kanarya,477,11
+kucukcekmece,sefakoy,besyol,478,1
+kucukcekmece,sefakoy,fevzi cakmak,479,36
+kucukcekmece,sefakoy,gultepe,480,24
+kucukcekmece,sefakoy,i̇nonu,481,41
+kucukcekmece,sefakoy,kartaltepe,482,16
+kucukcekmece,sefakoy,kemalpasa,483,6
+kucukcekmece,sefakoy,sogutlu cesme,484,10
+kucukcekmece,sefakoy,sultan murat,485,14
+kucukcekmece,sefakoy,tevfik bey,486,13
+kucukcekmece,sefakoy,yesilova,487,10
+kucukcekmece,yarimburgaz,yarimburgaz,488,4
+maltepe,aydinevler,aydinevler,489,33
+maltepe,aydinevler,basibuyuk,490,24
+maltepe,aydinevler,findikli,491,94
+maltepe,cevizli,merkez,492,68
+maltepe,esenkent,merkez,493,6
+maltepe,ferhatpasa,buyukbakkalkoy,494,24
+maltepe,feyzullah,merkez,495,20
+maltepe,gulsuyu,gulensu,496,3
+maltepe,gulsuyu,gulsuyu,497,5
+maltepe,i̇dealtepe,altaycesme,498,30
+maltepe,i̇dealtepe,cinar,499,22
+maltepe,i̇dealtepe,i̇dealtepe,500,33
+maltepe,kucukyali,altintepe,501,38
+maltepe,kucukyali,kucukyali,502,28
+maltepe,yali,baglarbasi,503,28
+maltepe,yali,yali,504,23
+maltepe,zumrutevler,girne,505,19
+maltepe,zumrutevler,zumrutevler,506,87
+pendik,bahcelievler,bahcelievler,507,9
+pendik,bahcelievler,sapan baglari,508,7
+pendik,bahcelievler,yeni,509,9
+pendik,bahcelievler,yesilbaglar,510,5
+pendik,camcesme,camcesme,511,28
+pendik,camcesme,esenler,512,27
+pendik,camcesme,fevzi cakmak,513,35
+pendik,camcesme,kavakpinar,514,46
+pendik,carsi,bati,515,17
+pendik,carsi,dogu,516,18
+pendik,carsi,kaynarca,517,37
+pendik,dolayoba,cinardere,518,34
+pendik,dolayoba,dumlupinar,519,22
+pendik,dolayoba,orta,520,1
+pendik,dolayoba,velibaba,521,35
+pendik,esenyali,ahmet yesevi,522,26
+pendik,esenyali,esenyali,523,15
+pendik,esenyali,fatih,524,13
+pendik,esenyali,guzelyali,525,20
+pendik,esenyali,orhangazi,526,17
+pendik,koyler,gocbeyli,527,1
+pendik,seyhli,gullu baglar,528,20
+pendik,seyhli,sanayi,529,2
+pendik,seyhli,seyhli,530,6
+pendik,yayalar,merkez,531,16
+pendik,yayalar,suluntepe,532,20
+pendik,yenisehir,camlik,533,36
+pendik,yenisehir,harmandere,534,39
+pendik,yenisehir,kurtkoy,535,65
+pendik,yenisehir,yenisehir,536,189
+sancaktepe,samandira,abdurrahmangazi,537,75
+sancaktepe,samandira,akpinar,538,18
+sancaktepe,samandira,eyup sultan,539,26
+sancaktepe,samandira,fatih,540,32
+sancaktepe,samandira,osmangazi,541,48
+sancaktepe,samandira,veysel karani,542,26
+sancaktepe,sarigazi,ataturk,543,28
+sancaktepe,sarigazi,emek,544,47
+sancaktepe,sarigazi,i̇nonu,545,19
+sancaktepe,sarigazi,kemal turkler,546,21
+sancaktepe,sarigazi,meclis,547,39
+sancaktepe,sarigazi,sarigazi,548,22
+sancaktepe,yenidogan,hilal,549,3
+sancaktepe,yenidogan,merve,550,11
+sancaktepe,yenidogan,mevlana,551,26
+sancaktepe,yenidogan,safa,552,29
+sancaktepe,yenidogan,yenidogan,553,11
+sancaktepe,yenidogan,yunus emre,554,25
+sariyer,bahcekoy,bahcekoy kemer,555,2
+sariyer,bahcekoy,bahcekoy merkez,556,6
+sariyer,bahcekoy,bahcekoy yeni,557,3
+sariyer,buyukdere,buyukdere,558,17
+sariyer,buyukdere,cayirbasi,559,1
+sariyer,buyukdere,kazim karabekir pasa,560,7
+sariyer,buyukdere,ptt evleri,561,2
+sariyer,emirgan,merkez,562,6
+sariyer,emirgan,resitpasa,563,19
+sariyer,i̇stinye,i̇stinye,564,16
+sariyer,i̇stinye,pinar,565,6
+sariyer,i̇stinye,poligon,566,6
+sariyer,koyler,garipce,567,1
+sariyer,koyler,kumkoy,568,3
+sariyer,koyler,uskumrukoy,569,8
+sariyer,koyler,zekeriyakoy,570,53
+sariyer,merkez,ayazaga,571,89
+sariyer,merkez,huzur,572,55
+sariyer,merkez,maslak,573,113
+sariyer,rumelihisari,baltalimani,574,2
+sariyer,rumelihisari,fatih sultan mehmet,575,5
+sariyer,rumelihisari,rumeli hisari,576,12
+sariyer,sariyer,maden,577,43
+sariyer,sariyer,sariyer merkez,578,10
+sariyer,sariyer,yeni,579,5
+sariyer,tarabya,camlitepe,580,1
+sariyer,tarabya,cumhuriyet,581,19
+sariyer,tarabya,darussafaka,582,8
+sariyer,tarabya,ferahevler,583,22
+sariyer,tarabya,kirecburnu,584,21
+sariyer,tarabya,merkez,585,50
+sariyer,yenikoy,yenikoy,586,16
+sile,agva,agva merkez,587,5
+sile,koyler,ahmetli,588,6
+sile,koyler,akcakese,589,1
+sile,koyler,i̇mrendere,590,1
+sile,koyler,i̇mrenli,591,3
+sile,koyler,karacakoy,592,1
+sile,koyler,mesrutiyet,593,5
+sile,sile,balibey,594,11
+sile,sile,cavus,595,36
+sile,sile,haci kasim,596,1
+sile,sile,kumbaba,597,5
+silivri,canta,canta balaban,598,5
+silivri,canta,canta sancaktepe,599,10
+silivri,degirmenkoy,degirmenkoy fevzipasa,600,4
+silivri,degirmenkoy,degirmenkoy i̇smetpasa,601,4
+silivri,gumusyaka,gumusyaka,602,5
+silivri,koyler,seymen,603,1
+silivri,ortakoy,ortakoy,604,4
+silivri,selimpasa,selimpasa,605,32
+silivri,silivri,alibey,606,15
+silivri,silivri,alipasa,607,2
+silivri,silivri,cumhuriyet,608,7
+silivri,silivri,fatih,609,6
+silivri,silivri,mimar sinan,610,37
+silivri,silivri,piri mehmet pasa,611,11
+silivri,silivri,semizkumlar,612,4
+silivri,silivri,yeni,613,60
+sisli,19 mayis,19 mayis,614,40
+sisli,bozkurt,eskisehir,615,34
+sisli,bozkurt,merkez,616,24
+sisli,cumhuriyet,merkez,617,48
+sisli,duatepe,merkez,618,14
+sisli,duatepe,pasa,619,33
+sisli,esentepe,merkez,620,28
+sisli,ferikoy,ferikoy,621,24
+sisli,ferikoy,yayla,622,13
+sisli,fulya,merkez,623,57
+sisli,gulbahar,gulbahar,624,99
+sisli,halide edip,halide edip adivar,625,30
+sisli,harbiye,i̇nonu,626,28
+sisli,harbiye,merkez,627,4
+sisli,mecidiyekoy,i̇zzet pasa,628,17
+sisli,mecidiyekoy,kustepe,629,42
+sisli,mecidiyekoy,mecidiyekoy,630,92
+sisli,mesrutiyet,mesrutiyet,631,42
+sisli,nisantasi,halaskargazi,632,10
+sisli,okmeydani,halil rifat pasa,633,10
+sisli,okmeydani,kaptan pasa,634,2
+sisli,okmeydani,mahmut sevket pasa,635,9
+sisli,sisli,ergenekon,636,17
+sisli,sisli,merkez,637,63
+sisli,tesvikiye,tesvikiye,638,63
+sultanbeyli,mehmetakif,abdurrahmangazi,639,16
+sultanbeyli,mehmetakif,fatih,640,3
+sultanbeyli,mehmetakif,hasanpasa,641,25
+sultanbeyli,mehmetakif,mehmet akif,642,28
+sultanbeyli,mimarsinan,adil,643,46
+sultanbeyli,mimarsinan,battalgazi,644,46
+sultanbeyli,mimarsinan,mimar sinan,645,41
+sultanbeyli,necipfazil,aksemsettin,646,13
+sultanbeyli,necipfazil,hamidiye,647,9
+sultanbeyli,necipfazil,necip fazil,648,21
+sultanbeyli,necipfazil,orhangazi,649,26
+sultanbeyli,necipfazil,yavuz selim,650,15
+sultanbeyli,turgutreis,ahmet yesevi,651,14
+sultanbeyli,turgutreis,mecidiye,652,10
+sultanbeyli,turgutreis,turgut reis,653,9
+sultangazi,cebeci,habibler,654,3
+sultangazi,cebeci,i̇smetpasa,655,7
+sultangazi,cebeci,merkez,656,18
+sultangazi,merkez,eski habipler,657,9
+sultangazi,sultanciftligi,50. yil,658,13
+sultangazi,sultanciftligi,cumhuriyet,659,2
+sultangazi,sultanciftligi,esentepe,660,6
+sultangazi,sultanciftligi,sultanciftligi,661,10
+sultangazi,sultanciftligi,ugur mumcu,662,10
+sultangazi,zubeydehanim,75. yil,663,2
+sultangazi,zubeydehanim,gazi,664,14
+sultangazi,zubeydehanim,yunus emre,665,27
+sultangazi,zubeydehanim,zubeyde hanim,666,13
+tuzla,akfirat,tepeoren,667,2
+tuzla,aydinli,aydinli,668,130
+tuzla,i̇cmeler,aydintepe,669,69
+tuzla,i̇cmeler,i̇cmeler,670,16
+tuzla,i̇stasyon,i̇stasyon,671,40
+tuzla,merkez,cami,672,11
+tuzla,mimarsinan,mimar sinan,673,33
+tuzla,mimarsinan,sifa,674,20
+tuzla,orhanli,fatih,675,6
+tuzla,orhanli,mescit,676,13
+tuzla,orhanli,orhanli,677,1
+tuzla,orhanli,orta,678,6
+tuzla,postane,merkez,679,26
+tuzla,tersaneler,evliya celebi,680,24
+tuzla,tersaneler,yayla,681,45
+umraniye,asagidudullu,adem yavuz,682,5
+umraniye,asagidudullu,asagi dudullu,683,22
+umraniye,asagidudullu,cemil meric,684,16
+umraniye,asagidudullu,huzur,685,7
+umraniye,asagidudullu,parseller,686,17
+umraniye,atakent,i̇stiklal,687,30
+umraniye,atakent,merkez,688,13
+umraniye,ataturk,ataturk,689,19
+umraniye,ataturk,tantavi,690,23
+umraniye,cakmak,armaganevler,691,63
+umraniye,cakmak,cakmak,692,50
+umraniye,cakmak,camlik,693,45
+umraniye,cakmak,finanskent,694,83
+umraniye,cakmak,site,695,35
+umraniye,esenevler,merkez,696,16
+umraniye,esensehir,esenkent,697,17
+umraniye,esensehir,esensehir,698,28
+umraniye,esensehir,madenler,699,11
+umraniye,esensehir,necip fazil,700,18
+umraniye,ihlamurkuyu,merkez,701,12
+umraniye,kazimkarabekir,elmalikent,702,7
+umraniye,kazimkarabekir,hekimbasi,703,1
+umraniye,kazimkarabekir,kazim karabekir,704,5
+umraniye,merkez,dumlupinar,705,3
+umraniye,merkez,fatih sultan mehmet,706,5
+umraniye,merkez,i̇nkilap,707,28
+umraniye,merkez,namik kemal,708,18
+umraniye,merkez,topagaci,709,5
+umraniye,merkez,yamanevler,710,35
+umraniye,serifali,mehmet akif,711,34
+umraniye,serifali,serifali,712,22
+umraniye,serifali,tatlisu,713,64
+umraniye,tepeustu,tepeustu,714,9
+umraniye,yukaridudullu,altinsehir,715,13
+umraniye,yukaridudullu,yukari dudullu,716,13
+uskudar,acibadem,acibadem,717,43
+uskudar,altunizade,barbaros,718,31
+uskudar,altunizade,merkez,719,12
+uskudar,baglarbasi,i̇cadiye,720,17
+uskudar,baglarbasi,murat reis,721,9
+uskudar,baglarbasi,selami ali,722,10
+uskudar,baglarbasi,valide-i atik,723,15
+uskudar,bahcelievler,bahcelievler,724,45
+uskudar,beylerbeyi,burhaniye,725,21
+uskudar,beylerbeyi,kupluce,726,15
+uskudar,beylerbeyi,merkez,727,8
+uskudar,bulgurlu,cumhuriyet,728,39
+uskudar,bulgurlu,merkez,729,37
+uskudar,camlica,kucuk camlica,730,7
+uskudar,cengelkoy,cengelkoy,731,27
+uskudar,cengelkoy,guzeltepe,732,34
+uskudar,cengelkoy,kirazlitepe,733,5
+uskudar,cengelkoy,mehmet akif ersoy,734,19
+uskudar,dogancilar,ahmediye,735,15
+uskudar,ferah,kisikli,736,26
+uskudar,ferah,merkez,737,24
+uskudar,ferah,yavuzturk,738,10
+uskudar,kandilli,kucuksu,739,41
+uskudar,kandilli,kuleli,740,3
+uskudar,kandilli,merkez,741,2
+uskudar,kuzguncuk,merkez,742,2
+uskudar,merkez,aziz mahmut hudayi,743,10
+uskudar,merkez,mimar sinan,744,19
+uskudar,merkez,salacak,745,19
+uskudar,merkez,sultantepe,746,18
+uskudar,merkez,zeynep kamil,747,12
+uskudar,selimiye,merkez,748,8
+uskudar,unalan,unalan,749,45
+zeytinburnu,bestelsiz,bestelsiz,750,3
+zeytinburnu,bestelsiz,gokalp,751,3
+zeytinburnu,bestelsiz,kazlicesme,752,15
+zeytinburnu,bestelsiz,telsiz,753,6
+zeytinburnu,bestelsiz,yenidogan,754,3
+zeytinburnu,cirpici,cirpici,755,4
+zeytinburnu,cirpici,nuripasa,756,5
+zeytinburnu,cirpici,sumer,757,15
+zeytinburnu,cirpici,veliefendi,758,17
+zeytinburnu,cirpici,yesiltepe,759,3
+zeytinburnu,maltepe,merkez,760,26
+zeytinburnu,merkezefendi,merkez,761,12
+zeytinburnu,merkezefendi,seyitnizam,762,9
