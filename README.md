@@ -281,8 +281,7 @@ P3 reuses the P2 train/val/test split via `np.random.seed(42)` and a determinist
 
 * **Data Source:** Rental listings scraped from [Sahibinden.com](https://www.sahibinden.com), Turkey's largest real estate classifieds platform, using [Selenium](https://www.selenium.dev) with [undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver).
 
-* **Machine Learning:** Regression and classification models (Linear, Ridge, Lasso, Polynomial, Logistic Regression, KNN, Decision Tree, Random Forest, Gradient Boosting, Stacking Classifier, GaussianNB) implemented using [scikit-learn](https://scikit-learn.org):
-  > Pedregosa et al. (2011). Scikit-learn: Machine Learning in Python. *JMLR*, 12, 2825–2830.
+* **Machine Learning:** Regression and classification models (Linear, Ridge, Lasso, Polynomial, Logistic Regression, KNN, Decision Tree, Random Forest, Gradient Boosting, Stacking Classifier, GaussianNB) implemented using [scikit-learn](https://scikit-learn.org).
 
 * **VIF Computation:** [statsmodels](https://www.statsmodels.org) `variance_inflation_factor` for the Auto-VIF feature filter.
 
