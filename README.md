@@ -219,13 +219,13 @@ istanbul-rent-walkability-analysis/
 │   └── istanbul_emlak_with_geo.csv           # P2/P3 modelling dataset 
 ├── p1/
 │   ├── p1_eda_24018020.ipynb                 # P1: EDA notebook
-│   └── p1_plots/                             # P1 visualisations
+│   └── p1_plots/                             # P1 visualizations
 ├── p2/
 │   ├── p2_regression_24018020.ipynb          # P2: regression notebook
-│   └── p2_plots/                             # P2 visualisations
+│   └── p2_plots/                             # P2 visualizations
 ├── p3/
 │   ├── p3_classification_24018020.ipynb      # P3: classification notebook
-│   └── p3_plots/                             # P3 visualisations
+│   └── p3_plots/                             # P3 visualizations
 ├── geocoding/
 │   ├── 01_extract_unique_locations.py
 │   ├── 02_geocode_locations.py
