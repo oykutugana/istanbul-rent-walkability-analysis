@@ -145,15 +145,19 @@ P2 fits five models on the geo-enriched dataset (14,979 listings × 28 features)
 
 ### **Key Findings**
 
-* **Polynomial expansion delivers genuine signal.** Multiple LR (degree 1) reaches Test R² 0.535. Polynomial degree 3 reaches **0.635** — a +0.10 absolute gain (+19% relative) from the same algorithm with quadratic and cubic interaction terms.
-* **Auto-VIF cleanup keeps degree 3 from overfitting.** The Auto-VIF filter removed redundant base features upstream, the log transform on the target homogenises variance, and the 8,987-row training set provides ~19 observations per feature.
-* **Regularisation is not needed on this dataset.** Ridge and Lasso land within 0.001 of plain MLR; Ridge is *worse* than plain OLS at polynomial degree 3 (Test R² 0.611 vs 0.635). Lasso zeroes no features at its cross-validated `alpha = 0.0001`.
-* **Predictions remain approximate.** A ~10,800 TL average absolute error against a 39,999 TL median rent is useful for budget planning, but not for exact pricing. Listing-level attributes the dataset cannot see (building age, floor, view, balcony, furnished status) likely account for most of the remaining unexplained variance.
-* **`student_score` and `price_per_room` excluded.** Both are derived from the target variable and would cause leakage.
+* **The model works well.** The Stacking Classifier reaches **80% test accuracy** and **0.89 AUC-ROC**. This is 30 points above the 50% random guess. The model separates Affordable and Premium listings well.
 
-### **Implications for P3**
+* **The same features matter in all three phases.** The top three features are `area_m2` (32%), `dist_med_price` (17%), and `walkability_score` (10%). Together they explain about 59% of the model. P1, P2, and P3 all show the same top features, so the signal is stable.
 
-The Test R² 0.635 ceiling and a ~10,800 TL average error suggest the linear family has nearly exhausted its capacity on the available features. P3 reframes the task as **binary classification** at the median price, which (i) shifts the evaluation onto a discrete, calibrated metric (F1-macro), (ii) allows ensemble methods to be compared on AUC-ROC, and (iii) produces an output (Premium vs Affordable) that directly answers the project's affordability question for students.
+* **The engineered features paid off.** The `walkability_score` from P1 is the third most important feature. The geographic features from P2 add about 27% more. The extra work in P1 and P2 helped the final model.
+
+* **Most errors are near the price line.** The model makes most mistakes on listings close to the median price (42% error rate within 5,000 TL). It makes **zero errors** on listings far from the median (40,000 TL and more). These close cases need extra details — building age, floor, view — that the data does not have.
+
+* **Tree models and the ensemble are the best.** Random Forest, Gradient Boosting, and Stacking are the top three and very close. Stacking wins on validation F1 and on AUC-ROC. Naive Bayes is the weakest (0.63 F1) because its assumptions do not fit this data.
+
+### **Implications**
+
+The three phases form one working pipeline: clean data and new features (P1), a price model (P2), and an affordability classifier with **80% accuracy** (P3). The model reaches a natural limit near 0.80 F1. This limit comes from the data-not the model ,more listing details would be needed to go higher. Extra ideas such as cluster features were tested but did not help.
 
 ---
 
